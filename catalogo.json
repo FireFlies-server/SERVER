@@ -1,0 +1,19 @@
+{
+  "animes": [
+    {
+      "id": "one-piece",
+      "titulo": "One Piece",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/P%C3%94STER/ONE%20PIECE.jpg",
+      "fontes": [
+        {
+          "nome": "CineHD+ (Anime)",
+          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20COMPLETE!%20(CINEHD%2B).txt"
+        },
+        {
+          "nome": "123Film (Live Action)",
+          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20EM%20LIVE%20ACTION%20COMPLETO%20(123FILM).txt"
+        }
+      ]
+    }
+  ]
+}

@@ -7,16 +7,12 @@
       "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/P%C3%94STER/ONE%20PIECE.jpg",
       "sinopse": "Monkey D. Luffy recruta uma tripulação pirata e parte pelo oceano Grand Line em busca do tesouro supremo conhecido como One Piece, para se tornar o Rei dos Piratas.",
       "trailer_id": "3ZuxhcWmsdQ",
-      "fontes": [
-        {
-          "nome": "CineHD+ (Anime)",
-          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20COMPLETE!%20(CINEHD%2B).txt"
-        },
-        {
-          "nome": "123Film (Live Action)",
-          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20EM%20LIVE%20ACTION%20COMPLETO%20(123FILM).txt"
-        }
-      ]
+      "fontes": []
     }
-  ]
+  ],
+  "desenhos": [],
+  "doramas": [],
+  "filmes": [],
+  "novelas": [],
+  "series": []
 }

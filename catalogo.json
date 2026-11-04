@@ -140,13 +140,13 @@
       "titulo": "Dandadan",
       "ano": "2024",
       "tags": "👻 Sobrenatural · 🧪 Ficção científica · 😂 Comédia · 💥 Ação",
-      "poster": "URL_DO_POSTER",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/DAN%20DAN%20DAN.jpg",
       "sinopse": "Momo Ayase acredita em fantasmas mas não em alienígenas, enquanto seu colega Okarun acredita em extraterrestres mas não em espíritos. Ambos fazem uma aposta e descobrem que ambos existem.",
-      "trailer_id": "TRAILER_ID",
+      "trailer_id": "oy-XD_gGbcE",
       "fontes": [
         {
-          "nome": "Fonte Principal",
-          "txt_url": "URL_DO_ARQUIVO_TXT"
+          "nome": "FLIXFAT",
+          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/ANIMES/DANDANDAN/DANDANDAN%20COMPLETO%20HD%20DUBLADO%20(FLIXFAT).txt"
         }
       ]
     },
@@ -155,13 +155,13 @@
       "titulo": "Death Note",
       "ano": "2006",
       "tags": "😱 Suspense · 🧠 Psicológico · 🕵️ Investigação",
-      "poster": "URL_DO_POSTER",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/DEATH%20NOTE.jpg",
       "sinopse": "Light Yagami, um estudante genial, encontra um caderno sobrenatural capaz de matar qualquer pessoa cujo nome seja escrito nele. Ele decide usar o caderno para eliminar criminosos do mundo.",
       "trailer_id": "TRAILER_ID",
       "fontes": [
         {
-          "nome": "Fonte Principal",
-          "txt_url": "URL_DO_ARQUIVO_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/ANIMES/DEATH%20NOTE/DEATH%20NOTE%20(LATINO.SOLO).txt"
         }
       ]
     },
@@ -170,13 +170,13 @@
       "titulo": "Demon Slayer",
       "ano": "2019",
       "tags": "💥 Ação · ⚔️ Aventura · 👻 Sobrenatural",
-      "poster": "URL_DO_POSTER",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/DEMOM%20SLAYER.jpg",
       "sinopse": "Tanjiro Kamado tem sua família massacrada por um demônio e sua irmã Nezuko transformada em um. Ele inicia uma jornada para encontrar uma cura e exterminar os demônios.",
-      "trailer_id": "TRAILER_ID",
+      "trailer_id": "3UiP4GwWNv0",
       "fontes": [
         {
-          "nome": "Fonte Principal",
-          "txt_url": "URL_DO_ARQUIVO_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/ANIMES/DEMON%20SLAYER/DEMON%20SLAYER%20KIMETSU%20NO%20YAIBA%20COMPLETISSIMO!%20(SOLO%20LATINO).txt"
         }
       ]
     },

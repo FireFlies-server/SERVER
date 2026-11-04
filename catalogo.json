@@ -9,34 +9,13 @@
       "trailer_id": "3ZuxhcWmsdQ",
       "fontes": [
         {
-          "nome": "Fonte autorizada",
-          "txt_url": "URL_DO_ARQUIVO_TXT"
-        }
-      ]
-    }
-  ],
-  "desenhos": [],
-  "doramas": [],
-  "filmes": [],
-  "novelas": [],
-  "series": []
-}{
-  "animes": [
-    {
-      "id": "one-piece",
-      "titulo": "One Piece",
-      "ano": "1999",
-      "poster": "URL_DO_POSTER",
-      "sinopse": "Monkey D. Luffy recruta uma tripulação pirata e parte pelo oceano Grand Line em busca do tesouro supremo conhecido como One Piece, para se tornar o Rei dos Piratas.",
-      "trailer_id": "3ZuxhcWmsdQ",
-      "fontes": [
-        {"nome": "CineHD+ (Anime)",
+          "nome": "CineHD+ (Anime)",
           "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20COMPLETE!%20(CINEHD%2B).txt"
         },
-           {
+        {
           "nome": "123Film (Live Action)",
           "txt_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/main/ANIMES/ONE%20PIECE/ONE%20PIECE%20EM%20LIVE%20ACTION%20COMPLETO%20(123FILM).txt"
-        }"
+        }
       ]
     }
   ],

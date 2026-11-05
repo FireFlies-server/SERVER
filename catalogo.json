@@ -493,7 +493,87 @@
           "txt_url": "https://flixlat.com/pt/detail/drama/c0oq6GH16fp1xKkm1oOQp-SpongeBob-SquarePants-Season-1"
         }
       ]
+    },
+    {
+      "id": "clarencio",
+      "titulo": "Clarêncio, O Otimista ",
+      "ano": "2014",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/CLARENCIO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/CLARENCIO.png",
+      "sinopse": "O show foca no cotidiano de Clarêncio Wendle, um garoto divertido e espirituoso, e seus melhores amigos: Jeff, que é o tipo mais intelectual, e Sumo, que muitas vezes usa medidas drásticas para resolver problemas.",
+      "trailer_id": "1tHhRM_Z1Ho",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/MhcXoPkWqhf8vIHf82smA-Clarence-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "coragem-cao",
+      "titulo": "Coragem, o Cão covarde ",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤡 Infantil · 😨 Terror",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/BOB%20ESPONJA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/CORAGEM%20C%C3%83O.jpg",
+      "sinopse": " A trama foca nos esforços de Coragem para superar seus medos paralisantes e enfrentar monstros, alienígenas, zumbis, fantasmas e cientistas loucos que ameaçam a segurança de seus donos, salvando-os sem que eles percebam o perigo iminente.",
+      "trailer_id": "k4_l4YzQJzI",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/Gy0WQjkOC4rzXdsqXHL83-Courage-the-Cowardly-Dog"
+        }
+      ]
+    },
+    {
+  "id": "futurama",
+  "titulo": "Futurama",
+  "ano": "1999",
+  "tags": "😂 Cómedia · 🤖 Cyberpunk · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/FUTURAMA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/FUTURAMA.png",
+  "sinopse": "Após ser congelado por mil anos, Fry acorda no futuro e entra para a Planet Express, uma empresa de entregas interplanetária. Ao lado da capitã Leela e do robô Bender, ele enfrenta missões espaciais insanas e paradoxos temporais com muito humor ácido.",
+  "trailer_id": "aWmtcYvhj68",
+  "fontes": [
+    {
+      "nome": "CUEVANA",
+      "txt_url": "https://play.cuevana19.com/pt/detail/drama/amSI1NG1h5RLECF8xqJpr-Futurama-Season-1"
     }
+  ]
+},
+    {
+  "id": "grafity-falls",
+  "titulo": "Grafity Falls",
+  "ano": "2012",
+  "tags": "🌲 Mistério · 👽 Sobrenatural · 😂 Comédia",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/GRAVITY%20FALLS.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/GRAVITY%20FALLS.png",
+  "sinopse": "Enviados para passar as férias de verão com seu tio-avô Stan na pacata (e muito estranha) cidade de Gravity Falls, no Oregon, os gêmeos Dipper e Mabel descobrem que o lugar abriga forças sobrenaturais. Ao encontrar um misterioso diário antigo na floresta, Dipper passa a investigar os enigmas e criaturas bizarras da região, embarcando em aventuras cheias de mistério e bom humor ao lado da irmã.",
+  "trailer_id": "VviwUvs3hd0",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/Bfdrf1F580KeKQkH0zAlF-Gravity-Falls-Season-1"
+    }
+  ]
+},
+    {
+  "id": "hora-de-aventura",
+  "titulo": "Hora de Aventura",
+  "ano": "2010",
+  "tags": "😂 Cómedia · 🤡 Infantil · ⚔️ Aventura",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/HORA%20DE%20AVENTURA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/HORA%20DE%20AVENTURA.png",
+  "sinopse": "Acompanhe as incríveis e surreais aventuras de Finn, um garoto humano de coração corajoso que sonha em ser um grande herói, e Jake, seu cão mágico e melhor amigo dotado de poderes de elasticidade. Juntos, eles exploram a misteriosa e pós-apocalíptica Terra de Ooo, enfrentando criaturas fantásticas, reinos mágicos e desvendando segredos milenares em uma jornada inesquecível.",
+  "trailer_id": "OEznILDuGj4",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/1TiMqDy7aLI5bvh8jfxyq-Adventure-Time"
+    }
+  ]
+}
   ],
   "doramas": [],
   "filmes": [],

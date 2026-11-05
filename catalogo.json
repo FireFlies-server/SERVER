@@ -317,3 +317,446 @@
         {
           "nome": "CUEVANA",
           "txt_url": "https://es.cuevana4br.com/pt/detail/drama/VLSy7wJtFZE1RvpuNvTKT-My-Hero-Academia-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "naruto",
+      "titulo": "Naruto",
+      "ano": "2002",
+      "tags": "💥 Ação · ⚔️ Aventura · 🥋 Ninja",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/NARUTO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/NARUTO.png",
+      "sinopse": "Naruto Uzumaki, um jovem ninja que carrega uma raposa mística selada em seu corpo, luta pelo reconhecimento de sua vila e sonha em se tornar o Hokage, o líder supremo.",
+      "trailer_id": "QczGoCmX-pI",
+      "fontes": [
+        {
+          "nome": "PELIHD (CLASSICO)",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/cPVtHzJT6Eo61tycrRTLI-Naruto"
+        },
+        {
+          "nome": "CUEVANA (SHIPPUDEN 1-4)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/B2B41EFCgGGiL6P0w0xzz-Naruto-Shipp%C3%BBden-The-Movie"
+        },
+        {
+          "nome": "123MOVIES (SÓ OS PRINCIPAIS)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/1HISpwyRJYbxoLHc5lEbl-Naruto-the-Movie-Ninja-Clash-in-the-Land-of-Snow"
+        }
+      ]
+    },
+    {
+      "id": "nao-brinque-comigo-senhora-nagatoro",
+      "titulo": "Não Brinque Comigo, Senhora Nagatoro",
+      "ano": "2021",
+      "tags": "😂 Comédia · 🥰 Romance",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/NAGATORO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/NAGATORO.png",
+      "sinopse": "Hayase Nagatoro adora provocar e perturbar seu veterano tímido da escola, mas por trás de todas as brincadeiras surge uma afeição genuína entre os dois.",
+      "trailer_id": "umJL7Pbcic8",
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/6TZgA7qFtVZU3euuM3wm2-Dont-Toy-with-Me-Miss-Nagatoro"
+        }
+      ]
+    },
+    {
+      "id": "one-piece",
+      "titulo": "One Piece",
+      "ano": "1999",
+      "tags": "☠️ Aventura · 💥 Ação",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ONE%20PIECE.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/ONE%20PIECE.png",
+      "sinopse": "Monkey D. Luffy recruta uma tripulação pirata e parte pelo oceano Grand Line em busca do tesouro supremo conhecido como One Piece, para se tornar o Rei dos Piratas.",
+      "trailer_id": "n_GDYehbwK0",
+      "fontes": [
+        {
+          "nome": "CINEHD+ (ANIME)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/hKQr7WDgMEBe4uEbU3CNU-One-Piece"
+        },
+        {
+          "nome": "123 FILM (LIVE ACTION)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/6Q65AaMvkWoi5OJYo108M-One-Piece-Live-Action"
+        }
+      ]
+    },
+    {
+      "id": "one-punch-man",
+      "titulo": "One Punch Man",
+      "ano": "2015",
+      "tags": "💥 Ação · 😂 Comédia · 🦸 Super-heróis",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ONE%20PUNCH%20MAN.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/One_Punch_Man_logo.png",
+      "sinopse": "Saitama é um herói tão absurdamente forte que consegue derrotar qualquer inimigo com um único soco, levando-o a uma profunda crise existencial por falta de desafios.",
+      "trailer_id": "Poo5lqoWSGw",
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/UfwfqDxMrEH271LBveHBn-One-Punch-Man-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "os-sete-pecados-capitais",
+      "titulo": "Os Sete Pecados Capitais",
+      "ano": "2014",
+      "tags": "💥 Ação · ⚔️ Aventura · 🧙 Fantasia",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/OS%20SETE%20PECADOS%20CAPITAIS.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/OS%20SETE%20PECADOS%20CAPITAIS.png",
+      "sinopse": "A princesa Elizabeth busca a ajuda dos 'Sete Pecados Capitais', um grupo de cavaleiros banidos, para recuperar seu reino tomado pelos Cavaleiros Sagrados.",
+      "trailer_id": "70HfDVk6tNs",
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/Z4k096znnK95QQeGbw1rh-The-Seven-Deadly-Sins"
+        }
+      ]
+    },
+    {
+      "id": "re-zero",
+      "titulo": "Re:Zero",
+      "ano": "2016",
+      "tags": "🧙 Fantasia · 😱 Suspense · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/RE%20ZERO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/RE%20ZERO.png",
+      "sinopse": "Subaru Natsuki é subitamente transportado para um mundo de fantasia. Ao morrer nesse novo mundo, ele descobre que possui a habilidade de voltar no tempo até um ponto salvo anterior.",
+      "trailer_id": "k1MhUhVjqXc",
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/5ZIPVy4ee52KntdwB2zzP-Re-Zero-Starting-Life-in-Another-World-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "solo-leveling",
+      "titulo": "Solo Leveling",
+      "ano": "2024",
+      "tags": "💥 Ação · ⚔️ Aventura · 🧙 Fantasia",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/SOLO%20LEVING.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/SOLO%20LEVING.png",
+      "sinopse": "Em um mundo onde caçadores lutam contra monstros em masmorras, o caçador mais fraco de todos, Sung Jinwoo, ganha o poder único de evoluir de nível infinitamente através de um sistema misterioso.",
+      "trailer_id": "ujv2fLp3lU8",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/3iOkPotBqI1vKrUsYwOqN-Solo-Leveling-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "uzaki-chan-wants-to-hang-out",
+      "titulo": "Uzaki-chan Wants to Hang Out!",
+      "ano": "2020",
+      "tags": "😂 Comédia · 🥰 Romance",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/UZAKI-CHAN.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/UZAKI-CHAN.png",
+      "sinopse": "Hana Uzaki fica incomodada ao ver seu veterano de escola, Shinichi Sakurai, passando o tempo sozinho na faculdade, e decide seguir e incomodá-lo todos os dias.",
+      "trailer_id": "6nmmzbar1fA",
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/JcVoEsNIavt0Jht7ktGFK-Uzaki-chan-Wants-to-Hang-Out-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "yu-gi-oh",
+      "titulo": "Yu-Gi-Oh!",
+      "ano": "2000",
+      "tags": "🧙 Fantasia · ⚔️ Aventura · 🃏 Jogos",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/YU-GI-OH.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/YU-GI-OH.png",
+      "sinopse": "Yugi Muto resolve o antigo Enigma do Milênio, despertando o espírito de um faraó antigo. Juntos, eles enfrentam oponentes em duelos do jogo de cartas 'Monstros de Duelo'.",
+      "trailer_id": "7tmC0KE-ASs",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/FkOZ8SpNP06zZ7IVIZAEH-Yu-Gi-Oh-Duel-Monsters"
+        }
+      ]
+    }
+  ],
+  "desenhos": [
+    {
+      "id": "bob-esponja",
+      "titulo": "Bob Esponja Calça Quadrada",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/BOB%20ESPONJA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/BOB%20ESPONJA.png",
+      "sinopse": "Acompanha as aventuras de uma esponja do mar otimista que vive em um abacaxi no fundo do mar, na fictícia cidade de Fenda do Biquíni.",
+      "trailer_id": "FV8nIup8DzE",
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/c0oq6GH16fp1xKkm1oOQp-SpongeBob-SquarePants-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "clarencio",
+      "titulo": "Clarêncio, O Otimista",
+      "ano": "2014",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/CLARENCIO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/CLARENCIO.png",
+      "sinopse": "O show foca no cotidiano de Clarêncio Wendle, um garoto divertido e espirituoso, e seus melhores amigos: Jeff, que é o tipo mais intelectual, e Sumo, que muitas vezes usa medidas drásticas para resolver problemas.",
+      "trailer_id": "1tHhRM_Z1Ho",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/MhcXoPkWqhf8vIHf82smA-Clarence-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "coragem-cao",
+      "titulo": "Coragem, o Cão Covarde",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤡 Infantil · 😨 Terror",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/CORAGEM%20C%C3%83O.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/CORAGEM%20C%C3%83O.png",
+      "sinopse": "A trama foca nos esforços de Coragem para superar seus medos paralisantes e enfrentar monstros, alienígenas, zumbis, fantasmas e cientistas loucos que ameaçam a segurança de seus donos, salvando-os sem que eles percebam o perigo iminente.",
+      "trailer_id": "k4_l4YzQJzI",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/Gy0WQjkOC4rzXdsqXHL83-Courage-the-Cowardly-Dog"
+        }
+      ]
+    },
+    {
+      "id": "futurama",
+      "titulo": "Futurama",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤖 Cyberpunk · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/FUTURAMA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/FUTURAMA.png",
+      "sinopse": "Após ser congelado por mil anos, Fry acorda no futuro e entra para a Planet Express, uma empresa de entregas interplanetária. Ao lado da capitã Leela e do robô Bender, ele enfrenta missões espaciais insanas e paradoxos temporais com muito humor ácido.",
+      "trailer_id": "aWmtcYvhj68",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/drama/amSI1NG1h5RLECF8xqJpr-Futurama-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "grafity-falls",
+      "titulo": "Gravity Falls",
+      "ano": "2012",
+      "tags": "🌲 Mistério · 👽 Sobrenatural · 😂 Comédia",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/GRAVITY%20FALLS.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/GRAVITY%20FALLS.png",
+      "sinopse": "Enviados para passar as férias de verão com seu tio-avô Stan na pacata (e muito estranha) cidade de Gravity Falls, no Oregon, os gêmeos Dipper e Mabel descobrem que o lugar abriga forças sobrenaturais. Ao encontrar um misterioso diário antigo na floresta, Dipper passa a investigar os enigmas e criaturas bizarras da região, embarcando em aventuras cheias de mistério e bom humor ao lado da irmã.",
+      "trailer_id": "VviwUvs3hd0",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/Bfdrf1F580KeKQkH0zAlF-Gravity-Falls-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "hora-de-aventura",
+      "titulo": "Hora de Aventura",
+      "ano": "2010",
+      "tags": "😂 Comédia · 🤡 Infantil · ⚔️ Aventura",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/HORA%20DE%20AVENTURA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/HORA%20DE%20AVENTURA.png",
+      "sinopse": "Acompanhe as incríveis e surreais aventuras de Finn, um garoto humano de coração corajoso que sonha em ser um grande herói, e Jake, seu cão mágico e melhor amigo dotado de poderes de elasticidade. Juntos, eles exploram a misteriosa e pós-apocalíptica Terra de Ooo, enfrentando criaturas fantásticas, reinos mágicos e desvendando segredos milenares em uma jornada inesquecível.",
+      "trailer_id": "OEznILDuGj4",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/1TiMqDy7aLI5bvh8jfxyq-Adventure-Time"
+        }
+      ]
+    },
+    {
+      "id": "irmao-do-jorel",
+      "titulo": "Irmão do Jorel",
+      "ano": "2014",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/IRM%C3%83O%20DO%20JOREL.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/IRM%C3%83O%20DO%20JOREL.png",
+      "sinopse": "O protagonista vive constantemente à sombra de seu irmão mais velho, Jorel, que é o garoto mais popular, belo e talentoso da escola e do bairro. Em busca de sua própria identidade e de sair das sombras da fama do irmão, o garoto utiliza sua fértil imaginação e criatividade para transformar situações cotidianas em aventuras surreais e hilariantes.",
+      "trailer_id": "1FlG2K_RxDw",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/L5qzNDdDjhjehBL6zRWiV-Jorels-Brother"
+        }
+      ]
+    },
+    {
+      "id": "meu-amigaozao",
+      "titulo": "Meu Amigãozão",
+      "ano": "2010",
+      "tags": "🎈 Imaginação · 🤝 Amizade · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/MEU%20AMIG%C3%83OZ%C3%83O.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/MEU%20AMIG%C3%83OZ%C3%83O.png",
+      "sinopse": "A história acompanha as crianças Yuri, Lili e Matt, que têm amigos imaginários chamados Amigãozões, o elefante Golias, a girafa Nessa e o canguru Bongo.",
+      "trailer_id": "rwq_QqQCAow",
+      "fontes": [
+        {
+          "nome": "123FILM (DESENHO)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/J7C4SSDW9UFr4Ugf5XOnH-My-Big-Big-Friend-Season%C2%A02"
+        },
+        {
+          "nome": "123MOVIES (O FILME)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/Sc7mi76J6IBObjfPfYMh4-My-Big-Big-Friend-The-Movie"
+        }
+      ]
+    },
+    {
+      "id": "winx",
+      "titulo": "O Clube das Winx",
+      "ano": "2004",
+      "tags": "✨ Fantasia · 🧚‍♀️ Magia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/WINX.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/WINX.png",
+      "sinopse": "Bloom, uma garota comum da Terra, descobre seus poderes mágicos ao salvar a princesa Stella e ingressa na Escola de Fadas Alfea, na Dimensão Mágica. Lá, ela forma o Clube das Winx com suas amigas Flora, Musa, Tecna e Layla/Aisha. Juntas, as fadas lutam contra vilãs como as bruxas das Trix e Lord Darkar, enquanto buscam descobrir a origem de Bloom e proteger o universo do mal.",
+      "trailer_id": "1jmMk63ro2c",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/drama/gFbe3OULLXyhcoZ0Julzo-Winx-Club-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "o-incrivel-mundo-de-gumball",
+      "titulo": "O Mundo Maravilhosamente Estranho de Gumball",
+      "ano": "2011",
+      "tags": "😂 Comédia · 🤪 Estranho · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/GUMBALL.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/GUMBALL.png",
+      "sinopse": "A série acompanha as desventuras de Gumball Watterson, um gato azul de 12 anos, e seu irmão adotivo, Darwin, um peixe dourado que ganhou pernas, na cidade fictícia e estranha de Elmore.",
+      "trailer_id": "MQiIX8RNIZM",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/NeiS0UDaHcFQpoFli2kjv-The-Amazing-World-of-Gumball-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "os-simpsons",
+      "titulo": "Os Simpsons",
+      "ano": "1989",
+      "tags": "😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/OS%20SIMPSONS.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/OS%20SIMPSONS.png",
+      "sinopse": "A trama acompanha a dinâmica disfuncional do núcleo familiar: Homer, um inspetor de segurança da usina nuclear, obeso e pouco inteligente; Marge, a mãe paciente e dedicada; Bart, o filho de 10 anos travesso e rebelde; Lisa, a filha de 8 anos gênio e vegetariana; e Maggie, a bebê que quase não fala.",
+      "trailer_id": "XPG0MqIcby8",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/WjOeEB8xWQMRQiWFrnOCJ-The-Simpsons-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "pantera-cor-de-rosa",
+      "titulo": "A Pantera Cor-de-Rosa",
+      "ano": "1963",
+      "tags": "😂 Comédia · 🎨 Clássico",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PANTERA%20ROSA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PANTERA%20ROSA.png",
+      "sinopse": "As hilárias e charmosas confusões da elegante pantera cor-de-rosa que, sempre ao som de sua icônica trilha sonora e sem dizer uma única palavra, usa toda a sua criatividade e ironia para pregar peças e atormentar a vida de seus oponentes.",
+      "trailer_id": "08wEeRkfPKs",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/KVDkfJub0cEpSaguP2HB7-The-Pink-Panther-Show"
+        }
+      ]
+    },
+    {
+      "id": "phineas-e-ferb",
+      "titulo": "Phineas e Ferb",
+      "ano": "2007",
+      "tags": "😂 Comédia · 🤪 Estranho · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PHINEAS%20E%20FERB.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PHINEAS%20E%20FERB.png",
+      "sinopse": "É uma série de animação que acompanha as férias de verão de Phineas Flynn e seu meio-irmão Ferb Fletcher, que passam seus dias construindo projetos ambiciosos e invenções extraordinárias em sua cidade fictícia, Danville, enquanto a irmã mais velha Candace tenta desesperadamente denunciar as obras à mãe dos meninos.",
+      "trailer_id": "pj7aDHPfzZU",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/aVl8H9ZKj78GoceH6UFXh-Phineas-and-Ferb-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "rick-and-morty",
+      "titulo": "Rick and Morty",
+      "ano": "2013",
+      "tags": "😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/RICK%20AND%20MORTY.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/RICK%20AND%20MORTY.png",
+      "sinopse": "A narrativa alterna entre episódios isolados de comédia absurda e uma mitologia complexa centrada no multiverso. O enredo principal gira em torno da história de Rick Prime, o primeiro Rick a dominar a viagem interdimensional, e a vingança de Rick C-137, que busca destruí-lo e a seus seguidores.",
+      "trailer_id": "7I-hlnrtMjQ",
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/jL6KlSYFASQERLopDhsR7-Rick-and-Morty-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "the-loud-house",
+      "titulo": "The Loud House",
+      "ano": "2016",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/THE%20LOUD%20HOUSE.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/THE%20LOUD%20HOUSE.png",
+      "sinopse": "Acompanha a vida caótica de Lincoln Loud, um menino de 11 anos e o único filho homem de uma família de onze irmãos. Situado na cidade fictícia de Royal Woods, Michigan, a trama foca nos desafios diários de Lincoln, que tenta sobreviver e manter a harmonia na casa cheia de dez irmãs com personalidades distintas.",
+      "trailer_id": "N52WkGK7EI8",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/ieO54GaOK1frRNNXHQjjo-The-Loud-House-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "turma-da-monica",
+      "titulo": "Turma da Mônica",
+      "ano": "1970",
+      "tags": "🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/TURMA%20DA%20MONICA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/TURMA%20DA%20MONICA.png",
+      "sinopse": "Acompanha as aventuras de Mônica, Cebolinha, Cascão, Magali e Milena no fictício Bairro do Limoeiro. A narrativa explora a amizade, o crescimento e as brincadeiras infantis, evoluindo para temas de identidade e crise na adolescência em produções mais recentes.",
+      "trailer_id": "RveW1YBzDMQ",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/qjs5KFwmccvdbxCdpmJAJ-Monica-and-Friends-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "family-guy",
+      "titulo": "Family Guy",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/FAMILY%20GUY.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/FAMILY%20GUY.png",
+      "sinopse": "Acompanha o dia a dia da excêntrica e disfuncional família Griffin em Quahog, liderada pelo bem-intencionado porém atrapalhado Peter, sua esposa Lois, seus filhos Meg, Chris e Stewie, além do cão falante Brian, sempre envolvidos em situações absurdas e piadas satíricas.",
+      "trailer_id": "0eigp2AkzaA",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/JeCJvKpgMrygxY1goOJct-Family-Guy-Season-1"
+        }
+      ]
+    }
+  ],
+  "doramas": [],
+  "filmes": [],
+  "novelas": [],
+  "series": []
+}

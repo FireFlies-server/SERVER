@@ -477,7 +477,24 @@
       ]
     }
   ],
-  "desenhos": [],
+  "desenhos": [ 
+    {
+      "id": "bob-esponja",
+      "titulo": "Bob Esponja Calça Quadrada ",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/BOB%20ESPONJA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/BOB%20ESPONJA.png",
+      "sinopse": "Acompanha as aventuras de uma esponja do mar otimista que vive em um abacaxi no fundo do mar, na fictícia cidade de Fenda do Biquíni.",
+      "trailer_id": "FV8nIup8DzE",
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/c0oq6GH16fp1xKkm1oOQp-SpongeBob-SquarePants-Season-1"
+        }
+      ]
+    }
+  ],
   "doramas": [],
   "filmes": [],
   "novelas": [],

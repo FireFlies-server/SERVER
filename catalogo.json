@@ -582,11 +582,175 @@
   "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/IRM%C3%83O%20DO%20JOREL.jpg",
   "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/IRM%C3%83O%20DO%20JOREL.png",
   "sinopse": "O protagonista vive constantemente à sombra de seu irmão mais velho, Jorel, que é o garoto mais popular, belo e talentoso da escola e do bairro.  Em busca de sua própria identidade e de sair das sombras da fama do irmão, o garoto utiliza sua fértil imaginação e criatividade para transformar situações cotidianas em aventuras surreais e hilariantes.",
-  "trailer_id": "ID_DO_VIDEO_YOUTUBE",
+  "trailer_id": "1FlG2K_RxDw",
   "fontes": [
     {
       "nome": "123MOVIES",
       "txt_url": "https://www3.dramasfree.com/pt/detail/drama/L5qzNDdDjhjehBL6zRWiV-Jorels-Brother"
+    }
+  ]
+},
+    {
+  "id": "meu-amigaozao",
+  "titulo": "Meu Amigãozão",
+  "ano": "2010",
+  "tags": "🎈 Imaginação · 🤝 Amizade · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/MEU%20AMIG%C3%83OZ%C3%83O.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/MEU%20AMIG%C3%83OZ%C3%83O.png",
+  "sinopse": "A história acompanha as crianças Yuri, Lili e Matt, que têm amigos imaginários chamados Amigãozões, o elefante Golias, a girafa Nessa e o canguru Bongo.",
+  "trailer_id": "rwq_QqQCAow",
+  "fontes": [
+    {
+      "nome": "123FILM (DESENHO)",
+      "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/J7C4SSDW9UFr4Ugf5XOnH-My-Big-Big-Friend-Season%C2%A02"
+    }
+     {
+      "nome": "123MOVIES (O FILME)",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/Sc7mi76J6IBObjfPfYMh4-My-Big-Big-Friend-The-Movie"
+    }
+  ]
+},
+    {
+  "id": "winx",
+  "titulo": "O clube das Winx",
+  "ano": "2004",
+  "tags": "✨ Fantasia · 🧚‍♀️ Magia · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/WINX.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/WINX.png",
+  "sinopse": "Bloom, uma garota comum da Terra, descobre seus poderes mágicos ao salvar a princesa Stella e ingressa na Escola de Fadas Alfea, na Dimensão Mágica.  Lá, ela forma o Clube das Winx com suas amigas Flora, Musa, Tecna e Layla/Aisha.  Juntas, as fadas lutam contra vilãs como as bruxas das Trix e Lord Darkar, enquanto buscam descobrir a origem de Bloom e proteger o universo do mal.",
+  "trailer_id": "1jmMk63ro2c",
+  "fontes": [
+    {
+      "nome": "CUEVANA",
+      "txt_url": "https://es.cuevana4br.com/pt/detail/drama/gFbe3OULLXyhcoZ0Julzo-Winx-Club-Season-1"
+    }
+  ]
+},
+    {
+  "id": "o-incrivel-mundo-de-gumball",
+  "titulo": "O Mundo Maravilhosamente Estranho de Gumball",
+  "ano": "2011",
+  "tags": "😂 Cómedia · 🤪 Estranho · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/GUMBALL.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/GUMBALL.png",
+  "sinopse": "A série acompanha as desventuras de Gumball Watterson, um gato azul de 12 anos, e seu irmão adotivo, Darwin, um peixe dourado que ganhou pernas, na cidade fictícia e estranha de Elmore.",
+  "trailer_id": "MQiIX8RNIZM",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/NeiS0UDaHcFQpoFli2kjv-The-Amazing-World-of-Gumball-Season-1"
+    }
+  ]
+},
+    {
+  "id": "os-simpsons",
+  "titulo": "Os Simpsons",
+  "ano": "1989",
+  "tags": "😂 Cómedia · 🤪 Estranho",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/OS%20SIMPSONS.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/OS%20SIMPSONS.png",
+  "sinopse": "A trama acompanha a dinâmica disfuncional do núcleo familiar: Homer>, um inspetor de segurança da usina nuclear, obeso e pouco inteligente; Marge>, a mãe paciente e dedicada; Bart>, o filho de 10 anos travesso e rebelde; Lisa>, a filha de 8 anos gênio e vegetariana; e Maggie>, a bebê que quase não fala.",
+  "trailer_id": "XPG0MqIcby8",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/WjOeEB8xWQMRQiWFrnOCJ-The-Simpsons-Season-1"
+    }
+  ]
+},
+    {
+  "id": "pantera-cor-de-rosa",
+  "titulo": "Pantera Cor de Rosa",
+  "ano": "1963",
+  "tags": "😂 Cómedia · 📃 Sem Historia",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PANTERA%20ROSA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PANTERA%20ROSA.png",
+  "sinopse": "As hilárias e charmosas confusões da elegante pantera cor-de-rosa que, sempre ao som de sua icônica trilha sonora e sem dizer uma única palavra, usa toda a sua criatividade e ironia para pregar peças e atormentar a vida de seus oponentes.",
+  "trailer_id": "08wEeRkfPKs",
+  "fontes": [
+    {
+      "nome": "CINEHD+",
+      "txt_url": "https://ver.123pelicula.com/pt/detail/drama/KVDkfJub0cEpSaguP2HB7-The-Pink-Panther-Show"
+    }
+  ]
+},
+    {
+  "id": "phineas-e-ferb",
+  "titulo": "Phineas E Ferb",
+  "ano": "2007",
+  "tags": "😂 Cómedia · 🤪 Estranho · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PHINEAS%20E%20FERB.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PHINEAS%20E%20FERB.png",
+  "sinopse": "É uma série de animação que acompanha as férias de verão de Phineas Flynn e seu meio-irmão Ferb Fletcher, que passam seus dias construindo projetos ambiciosos e invenções extraordinárias em sua cidade fictícia, Danville, Enquanto a irmã mais velha Candace, tenta desesperadamente denunciar as obras à mãe dos meninos.",
+  "trailer_id": "pj7aDHPfzZU",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/aVl8H9ZKj78GoceH6UFXh-Phineas-and-Ferb-Season-1"
+    }
+  ]
+},
+    {
+  "id": "rick-and-morty",
+  "titulo": "Rcik and Morty",
+  "ano": "2013",
+  "tags": "🤪 Estranho · 😂 Cómedia",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/RICK%20AND%20MORTY.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/RICK%20AND%20MORTY.png",
+  "sinopse": "A narrativa alterna entre episódios isolados de comédia absurda e uma mitologia complexa centrada no multiverso. O enredo principal gira em torno da história de Rick Prime, o primeiro Rick a dominar a viagem interdimensional, e a vingança de Rick C-137 (o Rick da série), que busca destruí-lo e seus seguidores. Conflitos como a criação da Cidadela dos Ricks e a ascensão do Evil Morty definem a evolução da trama, culminando em temporadas posteriores com a caçada final a Rick Prime e a transformação moral de Morty.",
+  "trailer_id": "7I-hlnrtMjQ",
+  "fontes": [
+    {
+      "nome": "PELIHD",
+      "txt_url": "https://video.playspelis.com/pt/detail/drama/jL6KlSYFASQERLopDhsR7-Rick-and-Morty-Season-1"
+    }
+  ]
+},
+    {
+  "id": "the-loud-house",
+  "titulo": "The Loud House",
+  "ano": "2016",
+  "tags": "😂 Cómedia · 🤡 Infantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/THE%20LOUD%20HOUSE.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/THE%20LOUD%20HOUSE.png",
+  "sinopse": "que acompanha a vida caótica de Lincoln Loud, um menino de 11 anos e o único filho homem de uma família de onze irmãos. Situado na cidade fictícia de Royal Woods, Michigan, a trama foca nos desafios diários de Lincoln, que tenta sobreviver e manter a harmonia na casa cheia de dez irmãs com personalidades distintas.",
+  "trailer_id": "N52WkGK7EI8",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/ieO54GaOK1frRNNXHQjjo-The-Loud-House-Season-1"
+    }
+  ]
+},
+    {
+  "id": turma-da-monica",
+  "titulo": "Turma da Mônica",
+  "ano": "1970",
+  "tags": "🤡 Ifantil",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/TURMA%20DA%20MONICA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/TURMA%20DA%20MONICA.png",
+  "sinopse": " acompanha as aventuras de Mônica, Cebolinha, Cascão, Magali e Milena no fictício Bairro do Limoeiro. A narrativa explora a amizade, o crescimento e as brincadeiras infantis, evoluindo para temas de identidade e crise na adolescência em produções mais recentes.",
+  "trailer_id": "RveW1YBzDMQ",
+  "fontes": [
+    {
+      "nome": "123FILM",
+      "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/qjs5KFwmccvdbxCdpmJAJ-Monica-and-Friends-Season-1"
+    }
+  ]
+},
+    {
+  "id": "family-guy",
+  "titulo": "Family Guy",
+  "ano": "1999",
+  "tags": "😂 Cómedia · 🤪 Estranho",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/FAMILY%20GUY.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/FAMILY%20GUY.png",
+  "sinopse": "Escreva aqui a sinopse do conteúdo.",
+  "trailer_id": "0eigp2AkzaA",
+  "fontes": [
+    {
+      "nome": "123FILM",
+      "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/JeCJvKpgMrygxY1goOJct-Family-Guy-Season-1"
     }
   ]
 }

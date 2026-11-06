@@ -791,18 +791,66 @@
   "id": "insubstituível",
   "titulo": "Insubstituível",
   "ano": "2026",
-  "tags": "😍 Romance",
-  "poster": "URL_DO_POSTER.jpg",
-  "logo_url": "URL_DA_LOGO.png",
-  "sinopse": "Escreva aqui a sinopse do conteúdo.",
-  "trailer_id": "ID_DO_VIDEO_YOUTUBE",
+  "tags": "😍 Romance · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/INSUBSTITU%C3%8DVEL.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/INSUBSTITU%C3%8DVEL.png",
+  "sinopse": "Após presenciar o suicídio da mãe em meio ao divórcio dos pais, Xu Chi (Zhao Jinmai) jura que nunca será a fraca que pode ser substituída. Recém-formada em uma universidade comum, ela se joga no competitivo mercado de consultoria empresarial em Pequim e, com muita garra e inteligência, sobe na empresa até se tornar uma consultora de destaque.",
+  "trailer_id": "18PHqSaJpJ4",
   "fontes": [
     {
-      "nome": "NOME_DA_FONTE",
-      "txt_url": "URL_DO_LINK_OU_TXT"
+      "nome": "123MOVIES",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/c7vnplHu3pVlw3zw5xDFH-Irreplaceable"
     }
   ]
 },
+    {
+  "id": "it-ok-not-ok",
+  "titulo": "Tudo Bem Não Ser Normal",
+  "ano": "2020",
+  "tags": "❤️ Romance · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/IT'S%20OKAY%20TO%20NOT%20BE%20OKAY.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/IT'S%20OKAY%20TO%20NOT%20BE%20OKAY.png",
+  "sinopse": "conta a história de Moon Gang-tae (Kim Soo-hyun), um cuidador em alas psiquiátricas que dedica a vida a proteger seu irmão mais velho, Moon Sang-tae (Oh Jung-se), que tem autismo. Após Sang-tae testemunhar o assassinato da mãe, os irmãos vivem mudando de cidade em cidade, fugindo do trauma — simbolizado pelo medo de borboletas que Sang-tae desenvolveu.",
+  "trailer_id": "1H__LNPCc80",
+  "fontes": [
+    {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/0bLOb73wURR8QMpZvBHDe-Its-Okay-to-Not-Be-Okay[Audio-pt-BR]"
+    }
+  ]
+},
+    {
+  "id": "parasitas",
+  "titulo": "Parasitas",
+  "ano": "2019",
+  "tags": "🎭 Drama · 😱 Suspense",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PARASITAS.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PARASITAS.png",
+  "sinopse": "A família Kim — pai, mãe, filho e filha — vive em um porão semienterrado, sobrevivendo de bicos precários. A sorte muda quando o filho, Ki-woo, é indicado para dar aulas de inglês à filha da rica família Park. Fascinados pelo estilo de vida luxuoso dos patrões, os Kim bolam um plano para infiltrar todos os membros na mansão: a irmã vira terapeuta de arte, o pai assume o volante e a mãe substitui a governanta — sem que os Park percebam que são parentes.",
+  "trailer_id": "m4jfE-TxC24",
+  "fontes": [
+    {
+      "nome": "PELIHD+",
+      "txt_url": "https://video.playspelis.com/pt/detail/movie/BPbHh9DJT5aak8VeJWgfg-Parasite"
+    }
+  ]
+},
+    {
+  "id": "pousando-no-amor",
+  "titulo": "Pousando no Amor",
+  "ano": "2019",
+  "tags": "❤️ Romance · 😂 Comédia · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/POUSANDO%20NO%20AMOR.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/POUSANDO%20NO%20AMOR.png",
+  "sinopse": "Yoon Se-ri (Son Ye-jin) é uma herdeira bilionária e CEO de uma empresa de moda na Coreia do Sul. Durante um passeio de parapente, um tornado repentino a desvia da rota e ela faz um pouso forçado na Coreia do Norte, na zona desmilitarizada.",
+  "trailer_id": "GVQGWgeVc4k",
+  "fontes": [
+    {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/2WVa05XALkNu6KiEBJ4QV-Crash-Landing-on-You"
+    }
+  ]
+}
   ],
   "filmes": [],
   "novelas": [],

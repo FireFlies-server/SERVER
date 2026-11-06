@@ -565,8 +565,424 @@
       "tags": "😂 Comédia · 🤡 Infantil · ⚔️ Aventura",
       "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/HORA%20DE%20AVENTURA.jpg",
       "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/HORA%20DE%20AVENTURA.png",
-      "sinopse": "Acompanhe as incríveis e surreais aventuras de Finn, um garoto humano de coração corajoso que sonha em ser um grande herói, e Jake, seu cão mágico e melhor amigo dotado de poderes de elasticidade. Juntos, eles exploramDá uma olhada no seu arquivo `catalogo_2.json` e **está tudo perfeito!** 
-
-A estrutura JSON está totalmente correta, os colchetes e chaves fecham nos lugares certos, e a nova categoria de **Novelas** (`"novelas"`) foi integrada exatamente como deveria, contendo os títulos clássicos (*A Favorita*, *Andando nas Nuvens* e *Avenida Brasil*) com seus respectivos pôsteres, sinopses e links de fontes.
-
-O arquivo está pronto para rodar perfeitamente tanto no seu ambiente local quanto no seu aplicativo executável `.exe`. Pode salvar e aproveitar o resultado!
+      "sinopse": "Acompanhe as incríveis e surreais aventuras de Finn, um garoto humano de coração corajoso que sonha em ser um grande herói, e Jake, seu cão mágico e melhor amigo dotado de poderes de elasticidade. Juntos, eles exploram a misteriosa e pós-apocalíptica Terra de Ooo, enfrentando criaturas fantásticas, reinos mágicos e desvendando segredos milenares em uma jornada inesquecível.",
+      "trailer_id": "OEznILDuGj4",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/1TiMqDy7aLI5bvh8jfxyq-Adventure-Time"
+        }
+      ]
+    },
+    {
+      "id": "irmao-do-jorel",
+      "titulo": "Irmão do Jorel",
+      "ano": "2014",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/IRM%C3%83O%20DO%20JOREL.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/IRM%C3%83O%20DO%20JOREL.png",
+      "sinopse": "O protagonista vive constantemente à sombra de seu irmão mais velho, Jorel, que é o garoto mais popular, belo e talentoso da escola e do bairro. Em busca de sua própria identidade e de sair das sombras da fama do irmão, o garoto utiliza sua fértil imaginação e criatividade para transformar situações cotidianas em aventuras surreais e hilariantes.",
+      "trailer_id": "1FlG2K_RxDw",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/L5qzNDdDjhjehBL6zRWiV-Jorels-Brother"
+        }
+      ]
+    },
+    {
+      "id": "meu-amigaozao",
+      "titulo": "Meu Amigãozão",
+      "ano": "2010",
+      "tags": "🎈 Imaginação · 🤝 Amizade · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/MEU%20AMIG%C3%83OZ%C3%83O.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/MEU%20AMIG%C3%83OZ%C3%83O.png",
+      "sinopse": "A história acompanha as crianças Yuri, Lili e Matt, que têm amigos imaginários chamados Amigãozões, o elefante Golias, a girafa Nessa e o canguru Bongo.",
+      "trailer_id": "rwq_QqQCAow",
+      "fontes": [
+        {
+          "nome": "123FILM (DESENHO)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/J7C4SSDW9UFr4Ugf5XOnH-My-Big-Big-Friend-Season%C2%A02"
+        },
+        {
+          "nome": "123MOVIES (O FILME)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/Sc7mi76J6IBObjfPfYMh4-My-Big-Big-Friend-The-Movie"
+        }
+      ]
+    },
+    {
+      "id": "winx",
+      "titulo": "O Clube das Winx",
+      "ano": "2004",
+      "tags": "✨ Fantasia · 🧚‍♀️ Magia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/WINX.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/WINX.png",
+      "sinopse": "Bloom, uma garota comum da Terra, descobre seus poderes mágicos ao salvar a princesa Stella e ingressa na Escola de Fadas Alfea, na Dimensão Mágica. Lá, ela forma o Clube das Winx com suas amigas Flora, Musa, Tecna e Layla/Aisha. Juntas, as fadas lutam contra vilãs como as bruxas das Trix e Lord Darkar, enquanto buscam descobrir a origem de Bloom e proteger o universo do mal.",
+      "trailer_id": "1jmMk63ro2c",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/drama/gFbe3OULLXyhcoZ0Julzo-Winx-Club-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "o-incrivel-mundo-de-gumball",
+      "titulo": "O Mundo Maravilhosamente Estranho de Gumball",
+      "ano": "2011",
+      "tags": "😂 Comédia · 🤪 Estranho · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/GUMBALL.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/GUMBALL.png",
+      "sinopse": "A série acompanha as desventuras de Gumball Watterson, um gato azul de 12 anos, e seu irmão adotivo, Darwin, um peixe dourado que ganhou pernas, na cidade fictícia e estranha de Elmore.",
+      "trailer_id": "MQiIX8RNIZM",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/NeiS0UDaHcFQpoFli2kjv-The-Amazing-World-of-Gumball-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "os-simpsons",
+      "titulo": "Os Simpsons",
+      "ano": "1989",
+      "tags": "😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/OS%20SIMPSONS.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/OS%20SIMPSONS.png",
+      "sinopse": "A trama acompanha a dinâmica disfuncional do núcleo familiar: Homer, um inspetor de segurança da usina nuclear, obeso e pouco inteligente; Marge, a mãe paciente e dedicada; Bart, o filho de 10 anos travesso e rebelde; Lisa, a filha de 8 anos gênio e vegetariana; e Maggie, a bebê que quase não fala.",
+      "trailer_id": "XPG0MqIcby8",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/WjOeEB8xWQMRQiWFrnOCJ-The-Simpsons-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "pantera-cor-de-rosa",
+      "titulo": "A Pantera Cor-de-Rosa",
+      "ano": "1963",
+      "tags": "😂 Comédia · 🎨 Clássico",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PANTERA%20ROSA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PANTERA%20ROSA.png",
+      "sinopse": "As hilárias e charmosas confusões da elegante pantera cor-de-rosa que, sempre ao som de sua icônica trilha sonora e sem dizer uma única palavra, usa toda a sua criatividade e ironia para pregar peças e atormentar a vida de seus oponentes.",
+      "trailer_id": "08wEeRkfPKs",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/KVDkfJub0cEpSaguP2HB7-The-Pink-Panther-Show"
+        }
+      ]
+    },
+    {
+      "id": "phineas-e-ferb",
+      "titulo": "Phineas e Ferb",
+      "ano": "2007",
+      "tags": "😂 Comédia · 🤪 Estranho · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PHINEAS%20E%20FERB.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PHINEAS%20E%20FERB.png",
+      "sinopse": "É uma série de animação que acompanha as férias de verão de Phineas Flynn e seu meio-irmão Ferb Fletcher, que passam seus dias construindo projetos ambiciosos e invenções extraordinárias em sua cidade fictícia, Danville, enquanto a irmã mais velha Candace tenta desesperadamente denunciar as obras à mãe dos meninos.",
+      "trailer_id": "pj7aDHPfzZU",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/aVl8H9ZKj78GoceH6UFXh-Phineas-and-Ferb-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "rick-and-morty",
+      "titulo": "Rick and Morty",
+      "ano": "2013",
+      "tags": "🖤 Comédia Negra · 😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/RICK%20AND%20MORTY.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/RICK%20AND%20MORTY.png",
+      "sinopse": "A narrativa alterna entre episódios isolados de comédia absurda e uma mitologia complexa centrada no multiverso. O enredo principal gira em torno da história de Rick Prime, o primeiro Rick a dominar a viagem interdimensional, e a vingança de Rick C-137, que busca destruí-lo e a seus seguidores.",
+      "trailer_id": "7I-hlnrtMjQ",
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/jL6KlSYFASQERLopDhsR7-Rick-and-Morty-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "the-loud-house",
+      "titulo": "The Loud House",
+      "ano": "2016",
+      "tags": "😂 Comédia · 🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/THE%20LOUD%20HOUSE.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/THE%20LOUD%20HOUSE.png",
+      "sinopse": "Acompanha a vida caótica de Lincoln Loud, um menino de 11 anos e o único filho homem de uma família de onze irmãos. Situado na cidade fictícia de Royal Woods, Michigan, a trama foca nos desafios diários de Lincoln, que tenta sobreviver e manter a harmonia na casa cheia de dez irmãs com personalidades distintas.",
+      "trailer_id": "N52WkGK7EI8",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/ieO54GaOK1frRNNXHQjjo-The-Loud-House-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "turma-da-monica",
+      "titulo": "Turma da Mônica",
+      "ano": "1970",
+      "tags": "🤡 Infantil",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/TURMA%20DA%20MONICA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/TURMA%20DA%20MONICA.png",
+      "sinopse": "Acompanha as aventuras de Mônica, Cebolinha, Cascão, Magali e Milena no fictício Bairro do Limoeiro. A narrativa explora a amizade, o crescimento e as brincadeiras infantis, evoluindo para temas de identidade e crise na adolescência em produções mais recentes.",
+      "trailer_id": "RveW1YBzDMQ",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/qjs5KFwmccvdbxCdpmJAJ-Monica-and-Friends-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "family-guy",
+      "titulo": "Family Guy",
+      "ano": "1999",
+      "tags": "😂 Comédia · 🤪 Estranho",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/FAMILY%20GUY.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/FAMILY%20GUY.png",
+      "sinopse": "Acompanha o dia a dia da excêntrica e disfuncional família Griffin em Quahog, liderada pelo bem-intencionado porém atrapalhado Peter, sua esposa Lois, seus filhos Meg, Chris e Stewie, além do cão falante Brian, sempre envolvidos em situações absurdas e piadas satíricas.",
+      "trailer_id": "0eigp2AkzaA",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/JeCJvKpgMrygxY1goOJct-Family-Guy-Season-1"
+        }
+      ]
+    }
+  ],
+  "doramas": [
+    {
+      "id": "a-coroa-perfeita",
+      "titulo": "A Coroa Perfeita",
+      "ano": "2026",
+      "tags": "😍 Romance · 🎭 Drama · 👸 Fantasia",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/A%20COROA%20PERFEITA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/A%20COROA%20PERFEITA.png",
+      "sinopse": "Na Coreia do Sul do século 21, governada por uma monarquia constitucional, Seong Hui-ju (IU) é a segunda filha do grupo chaebol mais poderoso do país — rica, inteligente e CEO brilhante —, mas carrega o estigma de ser filha ilegítima de origem plebeia, o que a exclui da elite social.",
+      "trailer_id": "AGh-CwbKMlM",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/YVlV6kfhTKP8yvk7G496V-Perfect-Crown"
+        }
+      ]
+    },
+    {
+      "id": "beleza-verdadeira",
+      "titulo": "Beleza Verdadeira",
+      "ano": "2020",
+      "tags": "❤️ Romance · 😂 Comédia · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/BELEZA%20VERDADEIRA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/BELEZA%20VERDADEIRA.png",
+      "sinopse": "Lim Ju-kyung (Moon Ga-young) é uma estudante do ensino médio que sempre sofreu bullying por causa da sua aparência. Ao se transferir de escola, ela aprende maquiagem por tutoriais na internet e passa a ser vista como uma deusa — mas vive com o terror de alguém descobrir seu rosto sem maquiagem.",
+      "trailer_id": "BhP1eYQ5Pxk",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/uFCg0Dic8mJuZSzjuBU7E-True-Beauty"
+        }
+      ]
+    },
+    {
+      "id": "insubstituível",
+      "titulo": "Insubstituível",
+      "ano": "2026",
+      "tags": "😍 Romance · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/INSUBSTITU%C3%8DVEL.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/INSUBSTITU%C3%8DVEL.png",
+      "sinopse": "Após presenciar o suicídio da mãe em meio ao divórcio dos pais, Xu Chi (Zhao Jinmai) jura que nunca será a fraca que pode ser substituída. Recém-formada em uma universidade comum, ela se joga no competitivo mercado de consultoria empresarial em Pequim e, com muita garra e inteligência, sobe na empresa até se tornar uma consultora de destaque.",
+      "trailer_id": "18PHqSaJpJ4",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/c7vnplHu3pVlw3zw5xDFH-Irreplaceable"
+        }
+      ]
+    },
+    {
+      "id": "it-ok-not-ok",
+      "titulo": "Tudo Bem Não Ser Normal",
+      "ano": "2020",
+      "tags": "❤️ Romance · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/IT'S%20OKAY%20TO%20NOT%20BE%20OKAY.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/IT'S%20OKAY%20TO%20NOT%20BE%20OKAY.png",
+      "sinopse": "Conta a história de Moon Gang-tae (Kim Soo-hyun), um cuidador em alas psiquiátricas que dedica a vida a proteger seu irmão mais velho, Moon Sang-tae (Oh Jung-se), que tem autismo. Após Sang-tae testemunhar o assassinato da mãe, os irmãos vivem mudando de cidade em cidade, fugindo do trauma — simbolizado pelo medo de borboletas que Sang-tae desenvolveu.",
+      "trailer_id": "1H__LNPCc80",
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/0bLOb73wURR8QMpZvBHDe-Its-Okay-to-Not-Be-Okay[Audio-pt-BR]"
+        }
+      ]
+    },
+    {
+      "id": "parasitas",
+      "titulo": "Parasitas",
+      "ano": "2019",
+      "tags": "🎭 Drama · 😱 Suspense",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/PARASITAS.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/PARASITAS.png",
+      "sinopse": "A família Kim — pai, mãe, filho e filha — vive em um porão semienterrado, sobrevivendo de bicos precários. A sorte muda quando o filho, Ki-woo, é indicado para dar aulas de inglês à filha da rica família Park. Fascinados pelo estilo de vida luxuoso dos patrões, os Kim bolam um plano para infiltrar todos os membros na mansão: a irmã vira terapeuta de arte, o pai assume o volante e a mãe substitui a governanta — sem que os Park percebam que são parentes.",
+      "trailer_id": "m4jfE-TxC24",
+      "fontes": [
+        {
+          "nome": "PELIHD+",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/BPbHh9DJT5aak8VeJWgfg-Parasite"
+        }
+      ]
+    },
+    {
+      "id": "pousando-no-amor",
+      "titulo": "Pousando no Amor",
+      "ano": "2019",
+      "tags": "❤️ Romance · 😂 Comédia · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/POUSANDO%20NO%20AMOR.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/POUSANDO%20NO%20AMOR.png",
+      "sinopse": "Yoon Se-ri (Son Ye-jin) é uma herdeira bilionária e CEO de uma empresa de moda na Coreia do Sul. Durante um passeio de parapente, um tornado repentino a desvia da rota e ela faz um pouso forçado na Coreia do Norte, na zona desmilitarizada.",
+      "trailer_id": "GVQGWgeVc4k",
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/2WVa05XALkNu6KiEBJ4QV-Crash-Landing-on-You"
+        }
+      ]
+    },
+    {
+      "id": "rei-de-porcelana",
+      "titulo": "Rei de Porcelana",
+      "ano": "2021",
+      "tags": "❤️ Romance · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/O%20REI%20DE%20PORCELANA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/O%20REI%20DE%20PORCELANA.png",
+      "sinopse": "Na Dinastia Joseon, o nascimento de gêmeos na família real é considerado um mau presságio. Quando a Princesa Consorte dá à luz um menino e uma menina, o avô das crianças — Lord Sangheon — ordena a morte da menina para preservar a linhagem. A mãe, desesperada, finge a morte da filha e a envia secretamente para fora do palácio, onde ela cresce sem saber de sua verdadeira origem.",
+      "trailer_id": "oWfxsT2K-2A",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/oyehdWDm5C5y6sZrEs9td-The-Kings-Affection"
+        }
+      ]
+    },
+    {
+      "id": "round-6",
+      "titulo": "Round 6",
+      "ano": "2021",
+      "tags": "😨 Suspense · ⭐ Destaque · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ROUND%206.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/ROUND%206.png",
+      "sinopse": "A história segue Seong Gi-hun (Lee Jung-jae), um homem endividado e divorciado que é abordado por um estranho com uma proposta: participar de uma série de jogos infantis em troca de um prêmio de 45,6 bilhões de wons (cerca de R$ 200 milhões). Junto com outras 455 pessoas igualmente desesperadas.",
+      "trailer_id": "xqkmwzZMy7Q",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/fYynZmjkUx1Fzizd66rxj-Squid-Game-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "se-desejos-matassem",
+      "titulo": "Se Desejos Matassem...",
+      "ano": "2026",
+      "tags": "👻 Sobrenatural · 💀 Terror · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/SE%20DESEJOS%20MATASSEM....jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/SE%20DESEJOS%20MATASSEM.png",
+      "sinopse": "Na Escola Secundária Seorin, cinco amigos descobrem o Girigo, um aplicativo que realiza qualquer desejo. Para usá-lo, basta gravar um vídeo com o nome, data de nascimento e o pedido. O problema: assim que o desejo é atendido, um cronômetro de 24 horas é ativado — e quando zera, o usuário morre.",
+      "trailer_id": "OJsERPNI3D0",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/drama/anW2XZdk8GciVpHy3fGEv-If-Wishes-Could-Kill"
+        }
+      ]
+    },
+    {
+      "id": "uma-advogada-extraodinaria",
+      "titulo": "Uma Advogada Extraodinária",
+      "ano": "2022",
+      "tags": "😂 Comédia · ❤️ Romance · 🎭 Drama",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/UMA%20ADVOGADA%20EXTRAORDIN%C3%81RIA.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/UMA%20ADVOGADA%20EXTRAORDIN%C3%81RIA.png",
+      "sinopse": "Uma Advogada Extraordinária acompanha Woo Young-woo (Park Eun-bin), uma advogada de 27 anos no espectro autista, com QI de 164 e memória fotográfica. Criada pelo pai solteiro, ela se forma como a melhor de sua turma na Universidade Nacional de Seul.",
+      "trailer_id": "MxeXECe2t-c",
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/x5cXrZCFhpLPdUTIdrLGk-Extraordinary-Attorney-Woo"
+        }
+      ]
+    },
+    {
+      "id": "vicenzo",
+      "titulo": "Vicenzo",
+      "ano": "2021",
+      "tags": "🖤 Comédia Negra · 🎭 Drama · 🔫 Crime",
+      "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/VICENZO.jpg",
+      "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/VICENZO.png",
+      "sinopse": "Vincenzo Cassano é um advogado coreano criado na Itália, consigliere de uma família da máfia. Depois de uma traição que quase lhe custa a vida, ele foge para Seul com um único objetivo: recuperar 1,5 tonelada de ouro escondida nos porões do Geumga Plaza.",
+      "trailer_id": "88n8SKhIAsE",
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/iIKv4qxVkIRIlmP126254-Vincenzo"
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "novelas": [
+    {
+  "id": "a-favorita",
+  "titulo": "A Favorita",
+  "ano": "2008",
+  "tags": "🎭 Drama · 😱 Suspense · 🔎 Mistério",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/A%20FAVORITA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/A%20FAVORITA.png",
+  "sinopse": "A Favorita (2008, Globo) é a história de Flora (Patrícia Pillar) e Donatela (Cláudia Raia), criadas como irmãs depois que Donatela perdeu os pais num acidente e foi adotada pela família de Flora. Na juventude, formaram a dupla sertaneja Faísca e Espoleta, que fez sucesso até conhecerem Marcelo e Dodi.",
+  "trailer_id": "Ga9CI6b3YmI",
+  "fontes": [
+    {
+      "nome": "PELIHD",
+      "txt_url": "https://video.playspelis.com/pt/detail/drama/rTaTfSal93jV1XDJt64Fz-A-Favorita"
+    }
+  ]
+},
+  {
+  "id": "andando-nas-nuvens",
+  "titulo": "Andando nas Nuvens",
+  "ano": "1999",
+  "tags": "🎭 Drama · 🔎 Mistério · ❤️ Romance",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ANDANDO%20NAS%20NUVENS.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/ANDANDO%20NAS%20NUVENS.png",
+  "sinopse": "Após 18 anos em estado de encefalite letárgica, Otávio Montana (Marco Nanini) desperta de um sono profundo — mas sua memória parou em 1968, quando ainda era noivo de Eva. Sem saber que se casou e teve três filhas, ele se depara com um Rio de Janeiro às vésperas do ano 2000, repleto de modernidades que não conhece.",
+  "trailer_id": "K7jmdymgJ_M",
+  "fontes": [
+    {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/cvdKtFXvM07ELa881WAy1-Walking-the-Clouds/1"
+    }
+  ]
+},  
+    {
+  "id": "avenida-brasil",
+  "titulo": "Avenida Brasil",
+  "ano": "2012",
+  "tags": "🎭 Drama · 😱 Suspense · 🔫 Crime",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/AVENIDA%20BRASIL.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/AVENIDA%20BRASIL.png",
+  "sinopse": "a história de Rita, filha do viúvo Genésio (Tony Ramos). Tudo muda quando ele se casa com Carminha (Adriana Esteves), uma mulher ambiciosa e dissimulada que, com a ajuda do amante Max (Marcello Novaes), arma um golpe contra o marido.",
+  "trailer_id": "eLTyl8uNlB4",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/1KWCz4FItNDpUlV0VVPDf-Avenida-Brasil"
+    }
+  ]
+}
+  ],
+  "series": []
+}

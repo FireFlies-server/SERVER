@@ -851,7 +851,88 @@
           "txt_url": "https://latino.solo-latino.com/pt/detail/drama/2WVa05XALkNu6KiEBJ4QV-Crash-Landing-on-You"
         }
       ]
+    },
+    {
+  "id": "rei-de-porcelana",
+  "titulo": "Rei de Porcelana",
+  "ano": "2021",
+  "tags": "❤️ Romance · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/O%20REI%20DE%20PORCELANA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/O%20REI%20DE%20PORCELANA.png",
+  "sinopse": "Na Dinastia Joseon, o nascimento de gêmeos na família real é considerado um mau presságio. Quando a Princesa Consorte dá à luz um menino e uma menina, o avô das crianças — Lord Sangheon — ordena a morte da menina para preservar a linhagem. A mãe, desesperada, finge a morte da filha e a envia secretamente para fora do palácio, onde ela cresce sem saber de sua verdadeira origem.",
+  "trailer_id": "oWfxsT2K-2A",
+  "fontes": [
+    {
+      "nome": "CINEHD+",
+      "txt_url": "https://ver.123pelicula.com/pt/detail/drama/oyehdWDm5C5y6sZrEs9td-The-Kings-Affection"
     }
+  ]
+},
+    {
+  "id": "round-6",
+  "titulo": "Round 6",
+  "ano": "2021",
+  "tags": "😨 Suspense · ⭐ Destaque · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ROUND%206.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/ROUND%206.png",
+  "sinopse": "A história segue Seong Gi-hun (Lee Jung-jae), um homem endividado e divorciado que é abordado por um estranho com uma proposta: participar de uma série de jogos infantis em troca de um prêmio de 45,6 bilhões de wons (cerca de R$ 200 milhões). Junto com outras 455 pessoas igualmente desesperadas.",
+  "trailer_id": "Ncra_hUVtMM",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/fYynZmjkUx1Fzizd66rxj-Squid-Game-Season-1"
+      
+    }
+  ]
+},
+    {
+  "id": "se-desejos-matassem",
+  "titulo": "Se Desejos Matassem...",
+  "ano": "2026",
+  "tags": "👻 Sobrenatural · 💀 Terror · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/SE%20DESEJOS%20MATASSEM....jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/SE%20DESEJOS%20MATASSEM.png",
+  "sinopse": "Na Escola Secundária Seorin, cinco amigos descobrem o Girigo, um aplicativo que realiza qualquer desejo. Para usá-lo, basta gravar um vídeo com o nome, data de nascimento e o pedido. O problema: assim que o desejo é atendido, um cronômetro de 24 horas é ativado — e quando zera, o usuário morre.",
+  "trailer_id": "OJsERPNI3D0",
+  "fontes": [
+    {
+      "nome": "CUEVANA",
+      "txt_url": "https://play.cuevana.life/pt/detail/drama/anW2XZdk8GciVpHy3fGEv-If-Wishes-Could-Kill"
+    }
+  ]
+},
+    {
+  "id": "uma-advogada-extraodinaria",
+  "titulo": "Uma Advogada Extraodinária",
+  "ano": "2022",
+  "tags": "😂 Comédia · ❤️ Romance · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/UMA%20ADVOGADA%20EXTRAORDIN%C3%81RIA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/UMA%20ADVOGADA%20EXTRAORDIN%C3%81RIA.png",
+  "sinopse": "Uma Advogada Extraordinária acompanha Woo Young-woo (Park Eun-bin), uma advogada de 27 anos no espectro autista, com QI de 164 e memória fotográfica.  Criada pelo pai solteiro, ela se forma como a melhor de sua turma na Universidade Nacional de Seul.",
+  "trailer_id": "MxeXECe2t-c",
+  "fontes": [
+    {
+      "nome": "FLIXFAT",
+      "txt_url": "https://flixlat.com/pt/detail/drama/x5cXrZCFhpLPdUTIdrLGk-Extraordinary-Attorney-Woo"
+    }
+  ]
+},
+    {
+  "id": "vicenzo",
+  "titulo": "Vicenzo",
+  "ano": "2021",
+  "tags": "🖤 Comédia Negra · 🎭 Drama · 🔫 Crime",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/VICENZO.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/VICENZO.png",
+  "sinopse": "Vincenzo Cassano é um advogado coreano criado na Itália, consigliere de uma família da máfia. Depois de uma traição que quase lhe custa a vida, ele foge para Seul com um único objetivo: recuperar 1,5 tonelada de ouro escondida nos porões do Geumga Plaza.",
+  "trailer_id": "88n8SKhIAsE",
+  "fontes": [
+    {
+      "nome": "PELIHD",
+      "txt_url": "https://video.playspelis.com/pt/detail/drama/iIKv4qxVkIRIlmP126254-Vincenzo"
+    }
+  ]
+}
   ],
   "filmes": [],
   "novelas": [],

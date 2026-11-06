@@ -755,7 +755,55 @@
       ]
     }
   ],
-  "doramas": [],
+  "doramas": [{
+  "id": "a-coroa-perfeita",
+  "titulo": "A Coroa Perfeita",
+  "ano": "2026",
+  "tags": "😍 Romance · 🎭 Drama · 👸 Fantasia",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/A%20COROA%20PERFEITA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/A%20COROA%20PERFEITA.png",
+  "sinopse": "Na Coreia do Sul do século 21, governada por uma monarquia constitucional, Seong Hui-ju (IU) é a segunda filha do grupo chaebol mais poderoso do país — rica, inteligente e CEO brilhante —, mas carrega o estigma de ser filha ilegítima de origem plebeia, o que a exclui da elite social.",
+  "trailer_id": "AGh-CwbKMlM",
+  "fontes": [
+    {
+      "nome": "123FILM",
+      "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/YVlV6kfhTKP8yvk7G496V-Perfect-Crown"
+    }
+  ]
+},
+    {
+  "id": "beleza-verdadeira",
+  "titulo": "Beleza Verdadeira",
+  "ano": "2020",
+  "tags": "❤️ Romance · 😂 Comédia · 🎭 Drama",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/BELEZA%20VERDADEIRA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/BELEZA%20VERDADEIRA.png",
+  "sinopse": "Lim Ju-kyung (Moon Ga-young) é uma estudante do ensino médio que sempre sofreu bullying por causa da sua aparência. Ao se transferir de escola, ela aprende maquiagem por tutoriais na internet e passa a ser vista como uma deusa — mas vive com o terror de alguém descobrir seu rosto sem maquiagem.",
+  "trailer_id": "BhP1eYQ5Pxk",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/uFCg0Dic8mJuZSzjuBU7E-True-Beauty"
+    }
+  ]
+},
+    {
+  "id": "insubstituível",
+  "titulo": "Insubstituível",
+  "ano": "2026",
+  "tags": "😍 Romance",
+  "poster": "URL_DO_POSTER.jpg",
+  "logo_url": "URL_DA_LOGO.png",
+  "sinopse": "Escreva aqui a sinopse do conteúdo.",
+  "trailer_id": "ID_DO_VIDEO_YOUTUBE",
+  "fontes": [
+    {
+      "nome": "NOME_DA_FONTE",
+      "txt_url": "URL_DO_LINK_OU_TXT"
+    }
+  ]
+},
+  ],
   "filmes": [],
   "novelas": [],
   "series": []

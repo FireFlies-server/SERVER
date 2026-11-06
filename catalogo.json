@@ -934,6 +934,55 @@
     }
   ],
   "filmes": [],
-  "novelas": [],
+  "novelas": [
+    {
+  "id": "a-favorita",
+  "titulo": "A Favorita",
+  "ano": "2008",
+  "tags": "🎭 Drama · 😱 Suspense · 🔎 Misterio",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/A%20FAVORITA.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/A%20FAVORITA.png",
+  "sinopse": "A Favorita (2008, Globo) é a história de Flora (Patrícia Pillar) e Donatela (Cláudia Raia), criadas como irmãs depois que Donatela perdeu os pais num acidente e foi adotada pela família de Flora. Na juventude, formaram a dupla sertaneja Faísca e Espoleta, que fez sucesso até conhecerem Marcelo e Dodi.",
+  "trailer_id": "Ga9CI6b3YmI",
+  "fontes": [
+    {
+      "nome": "PELIHD",
+      "txt_url": "https://video.playspelis.com/pt/detail/drama/rTaTfSal93jV1XDJt64Fz-A-Favorita"
+    }
+  ]
+},
+  {
+  "id": "andando-nas-nuvens",
+  "titulo": "Andando nas Nuvens",
+  "ano": "1999",
+  "tags": "🎭 Drama · 🔎 Misterio · ❤️ Romance",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/ANDANDO%20NAS%20NUVENS.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/ANDANDO%20NAS%20NUVENS.png",
+  "sinopse": "Após 18 anos em estado de encefalite letárgica, Otávio Montana (Marco Nanini) desperta de um sono profundo — mas sua memória parou em 1968, quando ainda era noivo de Eva. Sem saber que se casou e teve três filhas, ele se depara com um Rio de Janeiro às vésperas do ano 2000, repleto de modernidades que não conhece.",
+  "trailer_id": "K7jmdymgJ_M",
+  "fontes": [
+    {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/cvdKtFXvM07ELa881WAy1-Walking-the-Clouds/1"
+    }
+  ]
+},  
+    {
+  "id": "avenida-brasil",
+  "titulo": "Avinida Brasil",
+  "ano": "2012",
+  "tags": "🎭 Drama · 😱 Suspense · 🔫 Crime",
+  "poster": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/P%C3%94STER/AVENIDA%20BRASIL.jpg",
+  "logo_url": "https://raw.githubusercontent.com/FireFlies-server/SERVER/refs/heads/main/LOGO/AVENIDA%20BRASIL.png",
+  "sinopse": "a história de Rita, filha do viúvo Genésio (Tony Ramos). Tudo muda quando ele se casa com Carminha (Adriana Esteves), uma mulher ambiciosa e dissimulada que, com a ajuda do amante Max (Marcello Novaes), arma um golpe contra o marido.",
+  "trailer_id": "eLTyl8uNlB4",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/1KWCz4FItNDpUlV0VVPDf-Avenida-Brasil"
+    }
+  ]
+}
+  ],
   "series": []
 }

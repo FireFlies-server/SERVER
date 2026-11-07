@@ -1510,14 +1510,14 @@
       ]
     },
     {
-      "id": "la-casa-de-papel",
+      "id": "la-casa-de-papel", 
       "titulo": "La Casa de Papel",
       "ano": "2017",
       "tags": "😱 Suspense · 🔫 Crime · 🎭 Drama",
       "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/LA%20CASA%20DEL%20PAPEL.jpg",
-      "logo_url": "iS5xXr-GOnM",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LA%20CASA%20DEL%20PAPEL.png",
       "sinopse": "Um grupo de pessoas recrutadas por um estrategista conhecido como Professor planeja grandes assaltos, enquanto a polícia tenta impedir a operação.",
-      "trailer_id": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LA%20CASA%20DEL%20PAPEL.png",
+      "trailer_id": "iS5xXr-GOnM",
       "fontes": [
         {
           "nome": "CINEHD+",

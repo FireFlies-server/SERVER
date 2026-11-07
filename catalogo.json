@@ -1052,7 +1052,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TRES%20GRACAS.png",
       "sinopse": "Três gerações de mulheres de uma mesma família enfrentam conflitos, segredos e desafios que atravessam suas histórias.",
       "trailer_id": "hR7WzkZ8hVs",
-      "fontes": []
+      "fontes": [
+        {
+           "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/UoVJOJM71A1w3UsGRJuVK-Tres-Gracias"
+        }
+      ]
     },
     {
       "id": "tieta",
@@ -1079,7 +1084,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TURMA%20DA%20MONICA.png",
       "sinopse": "O enredo principal gira em torno de um mistério: quando a festa de Carminha Frufru (Luiza Gattai) é sabotada, a turma se torna a principal suspeita. Para se inocentar, eles precisam superar inseguranças, revelar segredos e trabalhar em equipe.",
       "trailer_id": "ucg88qn7ufM",
-      "fontes": []
+      "fontes": [
+        {
+           "nome": "SOLO LATINO (A SÉRIE)",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/cCzPcACLZhoSsO5PUbKAc-Monica-and-Friends"
+        },
+        {
+            "nome": "VPU (ORIGENS)",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/Z0CT81EhltjGrX1F1xMOb-Turma-da-M%C3%B4nica-Origens"
+        }
+      ]
     },
     {
       "id": "vale-tudo",
@@ -1106,7 +1120,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VERONICA%20COM%20K.png",
       "sinopse": "A trama acompanha Verônika (Roberta Rodrigues), uma advogada criminalista de sucesso nascida no fictício Morro de São Jerônimo que deixou a comunidade após uma tragédia familiar. Sua carreira impecável entra em colapso quando seu mentor, Orestes Schneider (Marcelo Torreão), é preso em um escândalo de corrupção.",
       "trailer_id": "2cyCrGgz2dc",
-      "fontes": []
+      "fontes": [
+        {
+           "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/rZgzVGpIiKsZRDGKMdFK5-Veronika-com-K/1"
+        }
+      ]
     }
   ],
   "series": [
@@ -1126,49 +1145,53 @@
         }
       ]
     },
-  {
-    "id": "a-teoria-do-big-bang",
-    "titulo": "A Teoria do Big Bang",
-    "ano": "2007",
-    "tags": "😂 Comédia · 🧪 Ficção científica",
-    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/A%20TEORIA%20DO%20BIG%20BANG.jpg",
-    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/A%20TEORIA%20DO%20BIG%20BANG.png",
-    "sinopse": "Dois físicos brilhantes, mas socialmente desajeitados, têm suas rotinas transformadas quando uma nova vizinha entra em suas vidas, junto de um grupo de amigos igualmente peculiar.",
-    "trailer_id": "Y5kXImSyKw0",
-    "fontes": []
-  },
-  {
-    "id": "alice-in-borderland",
-    "titulo": "Alice in Borderland",
-    "ano": "2020",
-    "tags": "😱 Suspense · 🧪 Ficção científica · ⚔️ Ação",
-    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALICE%20IN%20BODERLAND.jpg",
-    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALICE%20IN%20BODERLAND.png",
-    "sinopse": "Arisu e seus amigos são transportados para uma versão deserta de Tóquio, onde precisam participar de jogos perigosos para permanecer naquele mundo misterioso.",
-    "trailer_id": "WZCxI1qv310",
-    "fontes": []
-  },
-  {
-    "id": "among-us",
-    "titulo": "Among Us",
-    "ano": "2026",
-    "tags": "😂 Comédia · 🧪 Ficção científica · 😱 Mistério",
-    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AMONG%20US.jpg",
-    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AMONG%20US.png",
-    "sinopse": "A tripulação de uma nave espacial precisa trabalhar em equipe enquanto tenta descobrir quem entre eles é um impostor disfarçado.",
-    "trailer_id": "fg4wUpS_Tuw",
-    "fontes": []
-  },
-  {
-      "id": "off-campus",
-      "titulo": "Off Campus",
+    {
+      "id": "a-teoria-do-big-bang",
+      "titulo": "A Teoria do Big Bang",
+      "ano": "2007",
+      "tags": "😂 Comédia · 🧪 Ficção científica",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/A%20TEORIA%20DO%20BIG%20BANG.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/A%20TEORIA%20DO%20BIG%20BANG.png",
+      "sinopse": "Dois físicos brilhantes, mas socialmente desajeitados, têm suas rotinas transformadas quando uma nova vizinha entra em suas vidas, junto de um grupo de amigos igualmente peculiar.",
+      "trailer_id": "Y5kXImSyKw0",
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/HwUxBMqh91kut0x0uVrKu-The-Big-Bang-Theory-Season-1"
+        }
+      ]
+    },
+    {
+      "id": "alice-in-borderland",
+      "titulo": "Alice in Borderland",
+      "ano": "2020",
+      "tags": "😱 Suspense · 🧪 Ficção científica · ⚔️ Ação",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALICE%20IN%20BODERLAND.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALICE%20IN%20BODERLAND.png",
+      "sinopse": "Arisu e seus amigos são transportados para uma versão deserta de Tóquio, onde precisam participar de jogos perigosos para permanecer naquele mundo misterioso.",
+      "trailer_id": "WZCxI1qv310",
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/8gUqZDk7ejoXtTvQWu6OB-Alice-in-Borderland"
+        }
+      ]
+    },
+    {
+      "id": "among-us",
+      "titulo": "Among Us",
       "ano": "2026",
-      "tags": "🥰 Romance · 🎭 Drama · 🏆 Esportes",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/OFF%20CAMPUS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OFF%20CAMPUS.png",
-      "sinopse": "Na Universidade Briar, uma estudante de música e um talentoso jogador de hóquei fazem um acordo improvável que acaba aproximando os dois.",
-      "trailer_id": "wAozjf2frxw",
-      "fontes": []
+      "tags": "😂 Comédia · 🧪 Ficção científica · 😱 Mistério",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AMONG%20US.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AMONG%20US.png",
+      "sinopse": "A tripulação de uma nave espacial precisa trabalhar em equipe enquanto tenta descobrir quem entre eles é um impostor disfarçado.",
+      "trailer_id": "fg4wUpS_Tuw",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/03OrzgP3JLAz9reTP1FjL-Among-Us"
+        }
+      ]
     },
     {
       "id": "black-mirror",
@@ -1179,7 +1202,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BLACK%20MIRROR.png",
       "sinopse": "Antologia de histórias independentes que exploram como a tecnologia, a mídia e as escolhas humanas podem transformar a sociedade.",
       "trailer_id": "W210J2A49TA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/jxQiSD1OsDww8kNCFuyGv-Black-Mirror-Season-1"
+        }
+      ]
     },
     {
       "id": "breaking-bad",
@@ -1190,7 +1218,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BREAKING%20BAD.png",
       "sinopse": "Após receber um diagnóstico grave, um professor de química passa a tomar decisões extremas para garantir o futuro financeiro de sua família.",
       "trailer_id": "_-Nv0JOcGxg",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/hQfMsSkCwfXy1XA0poRsb-Breaking-Bad-Season-1"
+        }
+      ]
     },
     {
       "id": "bridgerton",
@@ -1201,7 +1234,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BRIDGERTON.png",
       "sinopse": "Na alta sociedade londrina do período da Regência, os irmãos Bridgerton enfrentam romances, disputas sociais e expectativas familiares.",
       "trailer_id": "_5OH1J3uKYE",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/BcbX1PdxQ5pgVFX7Q2a2p-Bridgerton-Season-1"
+        }
+      ]
     },
     {
       "id": "cangaco-novo",
@@ -1212,7 +1250,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CANGACO%20NOVO.png",
       "sinopse": "Um bancário descobre segredos sobre sua família e retorna ao sertão cearense, onde passa a se envolver com disputas e conflitos locais.",
       "trailer_id": "eWtW1F7-eTs",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/drama/4Ahw4rwBlcV9cwhpmME7F-New-Bandits"
+        }
+      ]
     },
     {
       "id": "carrie-a-estranha",
@@ -1223,7 +1266,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARRIE%20A%20ESTRANHA.png",
       "sinopse": "Carrie White tenta se adaptar à vida escolar após uma tragédia familiar, enquanto enfrenta o bullying e começa a descobrir habilidades telecinéticas.",
       "trailer_id": "OL1SKztQWjg",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/iLadEoA3UV9IandFRhyNw-Carrie/1"
+        }
+      ]
     },
     {
       "id": "chucky-a-serie",
@@ -1234,7 +1282,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CHUKY%20USE%20EM%20TUDO.png",
       "sinopse": "Um boneco antigo aparece em uma cidade tranquila e desencadeia uma sequência de acontecimentos misteriosos ligados ao seu passado.",
       "trailer_id": "gKwpHtUVELw",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/s2aNpfCKAxSlTzROhcoK1-Chucky-Season-1"
+        }
+      ]
     },
     {
       "id": "dexter",
@@ -1245,7 +1298,20 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEXTER.png",
       "sinopse": "Dexter Morgan trabalha como especialista forense em Miami e esconde uma vida secreta que entra em conflito com sua rotina e seus relacionamentos.",
       "trailer_id": "xtd0hljEshI",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM (ORIGINAL)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/9HS3fgJL64irdVnmhcFEf-Dexter-Season-1"
+        },
+         {
+          "nome": "123FILM (PECADO ORIGINAL)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/dqLThUebq0SmwiYjmYii3-Dexter-Original-Sin"
+        },
+        {
+          "nome": "SOLO LATINO (RESSURREIÇÃO)",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/93gsXR6PnJXMdKbOEhPah-Dexter-Resurrection"
+        }
+      ]
     },
     {
       "id": "dom-de-iludir",
@@ -1256,7 +1322,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DOM%20DE%20ILUDIR.png",
       "sinopse": "A busca de uma mãe rica por tratamento para a doença misteriosa da filha aproxima duas famílias e revela segredos, conflitos e um golpe envolvendo uma terapeuta espiritual.",
       "trailer_id": "fAdDeRnmYgA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/6Qb1u1LeI8gR7YRZkS59d-The-Gift-of-Deceit/1"
+        }
+      ]
     },
     {
       "id": "emergencia-radioativa",
@@ -1267,7 +1338,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/EMERGENCIA%20RADIOATIVA.png",
       "sinopse": "Inspirada no acidente com o Césio-137 em Goiânia, a minissérie acompanha médicos, físicos e moradores durante a resposta a uma grave emergência radiológica.",
       "trailer_id": "s0wVghg4vS4",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/iIHkz8D4MoM2xhBzJN3YW-Radioactive-Emergency"
+        }
+      ]
     },
     {
       "id": "eu-a-patroa-e-as-criancas",
@@ -1278,7 +1354,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/EU%20A%20PATROA%20E%20AS%20CRIANCAS.png",
       "sinopse": "Michael Kyle tenta administrar a casa e educar seus três filhos com métodos pouco convencionais, enquanto enfrenta situações familiares do cotidiano.",
       "trailer_id": "Bngu2fcGc9c",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "euphoria",
@@ -1289,7 +1370,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/EUPHORIA.png",
       "sinopse": "Um grupo de estudantes do ensino médio enfrenta questões de identidade, relacionamentos, pressão social e os desafios de crescer.",
       "trailer_id": "6XGnv7Zgbeg",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "fallout",
@@ -1300,7 +1386,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FALLOUT.png",
       "sinopse": "Séculos após uma guerra nuclear, habitantes de abrigos subterrâneos e sobreviventes da superfície cruzam caminhos em um mundo devastado.",
       "trailer_id": "7h8zJHywjAw",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "familia-moderna",
@@ -1311,7 +1402,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MODERN%20FAMILY.png",
       "sinopse": "Três núcleos de uma família extensa compartilham suas rotinas, diferenças e situações engraçadas em um retrato bem-humorado da vida familiar.",
       "trailer_id": "rbpTUPisA78",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "friends",
@@ -1322,7 +1418,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FRIENDS.png",
       "sinopse": "Seis amigos dividem experiências, relacionamentos, trabalho e momentos cotidianos enquanto constroem suas vidas em Nova York.",
       "trailer_id": "rfU8sPLkcSE",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "game-of-thrones",
@@ -1333,7 +1434,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GAME%20OF%20THRONES.png",
       "sinopse": "Famílias poderosas disputam o controle dos Sete Reinos enquanto ameaças antigas e forças misteriosas se aproximam.",
       "trailer_id": "7KAW90MpL_U",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "henry-danger",
@@ -1344,7 +1450,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HENRY%20DANGER.png",
       "sinopse": "Um adolescente consegue um emprego secreto como ajudante de um super-herói, tentando equilibrar as missões com a escola e a vida familiar.",
       "trailer_id": "K631Z18gtK0",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "impuros",
@@ -1355,7 +1466,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/IMPUROS.png",
       "sinopse": "No Rio de Janeiro dos anos 1990, Evandro enfrenta conflitos familiares e o crescimento de um esquema criminoso, enquanto um policial tenta alcançá-lo.",
       "trailer_id": "xAMsRAjORIU",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "invencivel",
@@ -1366,7 +1482,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/INVENCIVEL.png",
       "sinopse": "Mark Grayson é um adolescente cujo pai é o super-herói mais poderoso da Terra; ao desenvolver seus próprios poderes, ele descobre que ser herói é mais complicado do que imaginava.",
       "trailer_id": "chcPVeszoUo",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "it-bem-vindos-a-derry",
@@ -1377,7 +1498,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/IT%20BEM%20VINDOS%20A%20DERRY.png",
       "sinopse": "Ambientada antes dos acontecimentos dos filmes, a série acompanha moradores de Derry enquanto uma presença assustadora volta a ameaçar a cidade.",
       "trailer_id": "vYwC6QqSpOY",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "la-casa-de-papel",
@@ -1388,7 +1514,12 @@
       "logo_url": "iS5xXr-GOnM",
       "sinopse": "Um grupo de pessoas recrutadas por um estrategista conhecido como Professor planeja grandes assaltos, enquanto a polícia tenta impedir a operação.",
       "trailer_id": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LA%20CASA%20DEL%20PAPEL.png",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "loki",
@@ -1399,7 +1530,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LOKI.png",
       "sinopse": "Após escapar com o Tesseract, Loki é levado à Autoridade de Variância Temporal e se envolve em mistérios que ameaçam a linha do tempo.",
       "trailer_id": "wmlcMkj2H70",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "lost",
@@ -1410,7 +1546,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/LOST.jpg",
       "sinopse": "Sobreviventes de um acidente aéreo ficam presos em uma ilha remota e precisam cooperar enquanto descobrem que o local guarda muitos segredos.",
       "trailer_id": "KTu8iDynwNc",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "marvel-s-spider-man-2017",
@@ -1421,7 +1562,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MARVELS%20SPIDER%20MAN.png",
       "sinopse": "Peter Parker equilibra a vida de estudante com suas responsabilidades como Homem-Aranha, enfrentando ameaças em Nova York.",
       "trailer_id": "X814eTVbEyI",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "maxton-hall",
@@ -1432,7 +1578,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MAXTON%20HALL.png",
       "sinopse": "Uma estudante bolsista de uma escola de elite presencia um segredo e entra em conflito com um colega rico, dando início a uma relação intensa.",
       "trailer_id": "Jza2Km31AO4",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "michael-jackson-o-veredito",
@@ -1443,7 +1594,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MICHAEL%20JACKSON%20O%20VEREDITO.png",
       "sinopse": "Documentário em três episódios que revisita o julgamento de Michael Jackson em 2005 por meio de relatos de pessoas que acompanharam o caso.",
       "trailer_id": "sOnqjkJTMaA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "monsterland",
@@ -1454,7 +1610,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MONSTERLAND.png",
       "sinopse": "Antologia de histórias em que pessoas comuns encontram criaturas e situações sobrenaturais, revelando medos e conflitos pessoais.",
       "trailer_id": "-kgtaf-KxeA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "o-cavaleiro-dos-sete-reinos",
@@ -1465,7 +1626,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20CAVALEIRO%20DOS%20SETE%20REINOS.png",
       "sinopse": "Cerca de um século antes de Game of Thrones, o cavaleiro Dunk e seu jovem escudeiro Egg percorrem Westeros e se envolvem em aventuras.",
       "trailer_id": "zjd7H22lPJo",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "o-justiceiro",
@@ -1476,7 +1642,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20JUSTICEIRO%20USE%20EM%20TUDO.png",
       "sinopse": "Frank Castle tenta reconstruir sua vida enquanto enfrenta conspirações ligadas ao seu passado e assume a identidade conhecida como Justiceiro.",
       "trailer_id": "STuXgXcOVPE",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "o-mentalista",
@@ -1487,7 +1658,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20MENTALISTA.png",
       "sinopse": "Patrick Jane usa sua capacidade de observação e leitura de comportamento para ajudar uma equipe policial a solucionar casos complexos.",
       "trailer_id": "BZTcr47neLA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "o-senhor-dos-aneis-os-aneis-de-poder",
@@ -1498,7 +1674,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20SENHOR%20DOS%20ANEIS%20E%20OS%20ANEIS%20DO%20PODER.png",
       "sinopse": "Ambientada milhares de anos antes de O Senhor dos Anéis, a série acompanha personagens da Terra-média durante a ascensão de uma grande ameaça.",
       "trailer_id": "RjfRz1dzOwU",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "o-show-de-cuphead",
@@ -1509,7 +1690,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CUPHEAD%20A%20SERIE.png",
       "sinopse": "Cuphead e seu irmão Mugman vivem aventuras caóticas e encontram personagens excêntricos enquanto tentam escapar de confusões.",
       "trailer_id": "Sel3fjl6uyo",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "one-piece-serie",
@@ -1520,7 +1706,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ONE%20PIECE%20A%20SERIE.png",
       "sinopse": "Monkey D. Luffy parte em uma jornada pelos mares para encontrar o lendário tesouro One Piece e realizar seu sonho de se tornar o Rei dos Piratas.",
       "trailer_id": "KLtSxOirH4g",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "origem",
@@ -1531,7 +1722,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ORIGEM.png",
       "sinopse": "Viajantes ficam presos em uma cidade da qual ninguém consegue sair e precisam encontrar maneiras de sobreviver aos mistérios que surgem ao anoitecer.",
       "trailer_id": "sYXr3ZgyS2U",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "outlander",
@@ -1542,7 +1738,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OUTLANDER.png",
       "sinopse": "Uma enfermeira do século XX é misteriosamente transportada para a Escócia do século XVIII, onde encontra um novo amor e conflitos históricos.",
       "trailer_id": "N6UxkeiGgUE",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "spider-noir",
@@ -1553,9 +1754,14 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SPIDER%20NOIR.png",
       "sinopse": "Na Nova York dos anos 1930, um investigador particular que já foi o único super-herói da cidade precisa confrontar seu passado.",
       "trailer_id": "BqXJdDtOtHk",
-      "fontes": []
-      },  
-      {
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
+    },  
+    {
       "id": "stranger-things",
       "titulo": "Stranger Things",
       "ano": "2016",
@@ -1566,13 +1772,13 @@
       "trailer_id": "Wb3kaP580kA",
       "fontes": [ 
         {
-      "nome": "123MOVIES (STRANGER THINGS)",
-      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/4WbXiNQ07PchiKKvA0P1A-Stranger-Things-Season-1/1"
-    },
-         {
-      "nome": "FLIXFAT (HISTÓRIAS DE 85)",
-      "txt_url": "https://flixlat.com/pt/detail/drama/Ti14gC03VOBs39BLlpbew-Stranger-Things-Tales-From-85/1"
-    }
+          "nome": "123MOVIES (STRANGER THINGS)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/4WbXiNQ07PchiKKvA0P1A-Stranger-Things-Season-1/1"
+        },
+        {
+          "nome": "FLIXFAT (HISTÓRIAS DE 85)",
+          "txt_url": "https://flixlat.com/pt/detail/drama/Ti14gC03VOBs39BLlpbew-Stranger-Things-Tales-From-85/1"
+        }
       ]
     },
     {
@@ -1584,7 +1790,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERMAES.png",
       "sinopse": "Quatro amigas tentam equilibrar maternidade, trabalho, relacionamentos e identidade pessoal enquanto enfrentam os desafios da vida adulta.",
       "trailer_id": "7iqS5XPcf90",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "ted-a-serie",
@@ -1595,7 +1806,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TED%20USE%20EM%20TUDO.png",
       "sinopse": "Em 1993, o ursinho Ted vive com seu melhor amigo John e sua família, causando confusões durante a adolescência do garoto.",
       "trailer_id": "rINJ1tCq2xk",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "the-bear",
@@ -1606,7 +1822,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THE%20BEAR.png",
       "sinopse": "Um jovem chef retorna a Chicago para administrar a lanchonete da família e tenta transformá-la enquanto lida com uma equipe e uma rotina exigentes.",
       "trailer_id": "gBmkI4jlaIo",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "the-boys",
@@ -1617,7 +1838,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THE%20BOYS.png",
       "sinopse": "Em um mundo onde super-heróis são celebridades, um grupo de pessoas comuns tenta expor os abusos e interesses por trás dessa indústria.",
       "trailer_id": "M1bhOaLV4FU",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "the-last-of-us",
@@ -1628,7 +1854,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THE%20LAST%20OF%20US.png",
       "sinopse": "Em um mundo transformado por uma pandemia, Joel recebe a missão de acompanhar Ellie em uma jornada que pode mudar o futuro da humanidade.",
       "trailer_id": "0vB2lHQim3Q",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "the-pitt",
@@ -1639,7 +1870,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THE%20PITT.png",
       "sinopse": "A equipe de um pronto-socorro em Pittsburgh enfrenta um turno intenso, lidando com emergências médicas e decisões difíceis.",
       "trailer_id": "ufR_08V38sQ",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "todo-mundo-odeia-o-chris",
@@ -1650,7 +1886,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TODO%20MUNDO%20ODEIA%20O%20CHRIS.png",
       "sinopse": "Chris Rock relembra sua adolescência no Brooklyn dos anos 1980, enfrentando desafios na escola, em casa e no bairro com humor.",
       "trailer_id": "mZEKZgb1b_U",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     },
     {
       "id": "wandinha",
@@ -1661,7 +1902,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/WANDINHA.png",
       "sinopse": "Wandinha Addams ingressa na Escola Nunca Mais, onde investiga acontecimentos misteriosos e tenta compreender seus próprios poderes.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "NOME_DA_FONTE",
+          "txt_url": "URL_DO_LINK_OU_TXT"
+        }
+      ]
     }
   ]
 }

@@ -1356,8 +1356,8 @@
       "trailer_id": "Bngu2fcGc9c",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/RqCPp77ZZULLHVrbLO0Qf-My-Wife-and-Kids-Season-1"
         }
       ]
     },
@@ -1372,8 +1372,8 @@
       "trailer_id": "6XGnv7Zgbeg",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/ogVZYJsJjQbbW7RJJDsxY-Euphoria-Season-1"
         }
       ]
     },
@@ -1388,8 +1388,12 @@
       "trailer_id": "7h8zJHywjAw",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/rw5GRm0LtUSGEXsaojdPx-Fallout/1"
+        },
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/rw5GRm0LtUSGEXsaojdPx-Fallout"
         }
       ]
     },
@@ -1404,8 +1408,8 @@
       "trailer_id": "rbpTUPisA78",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/CRm9x1EEJljlat1dAUoGi-Modern-Family-Season-1"
         }
       ]
     },
@@ -1420,8 +1424,8 @@
       "trailer_id": "rfU8sPLkcSE",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/drama/Hbz7egsCFpb4bEIsWSTId-Friends-Season-1"
         }
       ]
     },
@@ -1436,8 +1440,8 @@
       "trailer_id": "7KAW90MpL_U",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/w42huVUQQJ13jKd7BtaL4-Game-of-Thrones-Season-1"
         }
       ]
     },
@@ -1452,8 +1456,8 @@
       "trailer_id": "K631Z18gtK0",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "PELIHD+",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/5EJUuSuJPvkbh5Tjt3j5T-Henry-Danger-Season-1"
         }
       ]
     },
@@ -1468,8 +1472,8 @@
       "trailer_id": "xAMsRAjORIU",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/6aKiyeY52HR0QptcrdRx4-Impuros-O-Filme"
         }
       ]
     },
@@ -1484,8 +1488,8 @@
       "trailer_id": "chcPVeszoUo",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/JLy3L22Dv4ip1UsVVn1Hu-Invincible"
         }
       ]
     },
@@ -1500,8 +1504,8 @@
       "trailer_id": "vYwC6QqSpOY",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/YXkeLCWpdZMoaKRn5lsFe-IT-Welcome-to-Derry-Season-1/1"
         }
       ]
     },
@@ -1509,15 +1513,15 @@
       "id": "la-casa-de-papel",
       "titulo": "La Casa de Papel",
       "ano": "2017",
-      "tags": "😱 Suspense · 🔎 Crime · 🎭 Drama",
+      "tags": "😱 Suspense · 🔫 Crime · 🎭 Drama",
       "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/LA%20CASA%20DEL%20PAPEL.jpg",
       "logo_url": "iS5xXr-GOnM",
       "sinopse": "Um grupo de pessoas recrutadas por um estrategista conhecido como Professor planeja grandes assaltos, enquanto a polícia tenta impedir a operação.",
       "trailer_id": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LA%20CASA%20DEL%20PAPEL.png",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/GTVgKQ0agG4s9H6AgFUVF-Money-Heist-Season-1"
         }
       ]
     },
@@ -1532,8 +1536,8 @@
       "trailer_id": "wmlcMkj2H70",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/ViwKjLKfjT03Yu3Qd9ZQ7-Loki-Season-1"
         }
       ]
     },
@@ -1548,8 +1552,8 @@
       "trailer_id": "KTu8iDynwNc",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/LDbJGfiQLJTqv7okAfpsl-Lost-Season-1"
         }
       ]
     },
@@ -1564,8 +1568,8 @@
       "trailer_id": "X814eTVbEyI",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/c2A7crDoFNqyJ7UmuhLNe-Spider-Man-Season-1"
         }
       ]
     },
@@ -1580,8 +1584,8 @@
       "trailer_id": "Jza2Km31AO4",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/aTR2O42I0tOX3PHAa19ku-Maxton-Hall---The-World-Between-Us-Season-1"
         }
       ]
     },
@@ -1596,8 +1600,8 @@
       "trailer_id": "sOnqjkJTMaA",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/drama/uOobDjJRtngTugZdqMP9b-Michael-Jackson-The-Verdict"
         }
       ]
     },
@@ -1612,8 +1616,8 @@
       "trailer_id": "-kgtaf-KxeA",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/2K4bkr7w5NvFEJnikYrMM-Monsterland-Season-1"
         }
       ]
     },
@@ -1628,8 +1632,24 @@
       "trailer_id": "zjd7H22lPJo",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/Meo1wGpWhnCcU5jcEPlzK-A-Knight-of-the-Seven-Kingdoms-Season-1"
+        }
+      ]
+    },
+     {
+      "id": "off-campus",
+      "titulo": "Off Campus",
+      "ano": "2026",
+      "tags": "🥰 Romance · 🎭 Drama · 🏆 Esportes",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/OFF%20CAMPUS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OFF%20CAMPUS.png",
+      "sinopse": "Na Universidade Briar, uma estudante de música e um talentoso jogador de hóquei fazem um acordo improvável que acaba aproximando os dois.",
+      "trailer_id": "wAozjf2frxw",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/OkVr0eT92lCl4M6ZOmzGX-Off-Campus-Season-1"
         }
       ]
     },
@@ -1644,8 +1664,8 @@
       "trailer_id": "STuXgXcOVPE",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/drama/2puvA6xQAXqiDWsRENpq8-The-Punisher-Season-1"
         }
       ]
     },
@@ -1660,8 +1680,8 @@
       "trailer_id": "BZTcr47neLA",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/gjG2CqKaqR601v37CBElT-The-Mentalist-Season-1"
         }
       ]
     },
@@ -1676,8 +1696,8 @@
       "trailer_id": "RjfRz1dzOwU",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/drama/nmVKIx2A44lXPe4P2KfFg-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1"
         }
       ]
     },
@@ -1692,8 +1712,8 @@
       "trailer_id": "Sel3fjl6uyo",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/drama/9nDNYZlhuSeTpkk4mdpke-The-Cuphead-Show-Season-1"
         }
       ]
     },
@@ -1708,8 +1728,8 @@
       "trailer_id": "KLtSxOirH4g",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/6Q65AaMvkWoi5OJYo108M-One-Piece-Live-Action"
         }
       ]
     },
@@ -1724,8 +1744,8 @@
       "trailer_id": "sYXr3ZgyS2U",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/6y1hGfgB2hxMgfOWZQADA-From-Season%C2%A01"
         }
       ]
     },
@@ -1740,8 +1760,8 @@
       "trailer_id": "N6UxkeiGgUE",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/bi8btpGhdm1PSnl8U1WDA-Outlander-Season-1"
         }
       ]
     },
@@ -1756,8 +1776,8 @@
       "trailer_id": "BqXJdDtOtHk",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/XCcDpCyUrHr87gKQjjKUp-Spider-Noir"
         }
       ]
     },  
@@ -1792,8 +1812,8 @@
       "trailer_id": "7iqS5XPcf90",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/NekANZ0Q8tTstW8Zm6kmJ-Workin-Moms-Season-1"
         }
       ]
     },
@@ -1808,8 +1828,8 @@
       "trailer_id": "rINJ1tCq2xk",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/drama/aNgBASEYHO3eofUfEi423-Ted"
         }
       ]
     },
@@ -1824,8 +1844,8 @@
       "trailer_id": "gBmkI4jlaIo",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/F7fDsbdtXyuZCzs24SJe9-The-Bear-Season-1"
         }
       ]
     },
@@ -1840,8 +1860,8 @@
       "trailer_id": "M1bhOaLV4FU",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/drama/S2LnZ28bgljne4CsPrVC7-The-Boys-Season-1"
         }
       ]
     },
@@ -1856,8 +1876,8 @@
       "trailer_id": "0vB2lHQim3Q",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/drama/hmdPUtZmwL5ALfxPGcPQI-The-Last-of-Us-Season-1"
         }
       ]
     },
@@ -1872,8 +1892,8 @@
       "trailer_id": "ufR_08V38sQ",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/drama/tTTnHK48aYHkQYnpHrRhA-The-Pitt"
         }
       ]
     },
@@ -1888,8 +1908,12 @@
       "trailer_id": "mZEKZgb1b_U",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "CUEVANA (ORIGINAL)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/drama/FhOVqpcZ5DjxRD3mvNe9N-Everybody-Hates-Chris-Season-1"
+        },
+        {
+          "nome": "PELIHD (TODO MUNDO AINDA ODEIA)",
+          "txt_url": "https://video.playspelis.com/pt/detail/drama/opiKPGbNKMRS72Aoiy3Z6-Everybody-Still-Hates-Chris"
         }
       ]
     },
@@ -1904,8 +1928,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "NOME_DA_FONTE",
-          "txt_url": "URL_DO_LINK_OU_TXT"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/R1bIAUpBP1r5ttZ3rCmkf-Wednesday-Season-1"
         }
       ]
     }

@@ -1135,8 +1135,13 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/A%20TEORIA%20DO%20BIG%20BANG.png",
       "sinopse": "Dois físicos brilhantes, mas socialmente desajeitados, têm suas rotinas transformadas quando uma nova vizinha entra em suas vidas, junto de um grupo de amigos igualmente peculiar.",
       "trailer_id": "Y5kXImSyKw0",
-      "fontes": []
-    },
+      "fontes": [
+        {
+      "nome": "FLIXFAT",
+      "txt_url": "https://flixlat.com/pt/detail/drama/HwUxBMqh91kut0x0uVrKu-The-Big-Bang-Theory-Season-1"
+    }
+      ]
+    }
     {
       "id": "alice-in-borderland",
       "titulo": "Alice in Borderland",
@@ -1146,7 +1151,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALICE%20IN%20BODERLAND.png",
       "sinopse": "Arisu e seus amigos são transportados para uma versão deserta de Tóquio, onde precisam participar de jogos perigosos para permanecer naquele mundo misterioso.",
       "trailer_id": "WZCxI1qv310",
-      "fontes": []
+      "fontes": [
+        {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/8gUqZDk7ejoXtTvQWu6OB-Alice-in-Borderland"
+    }
+      ]
     },
     {
       "id": "among-us",
@@ -1157,8 +1167,13 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AMONG%20US.png",
       "sinopse": "A tripulação de uma nave espacial precisa trabalhar em equipe enquanto tenta descobrir quem entre eles é um impostor disfarçado.",
       "trailer_id": "fg4wUpS_Tuw",
-      "fontes": []
-    },
+      "fontes": [
+        {
+      "nome": "123MOVIES",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/03OrzgP3JLAz9reTP1FjL-Among-Us"
+    }
+      ]
+    }
     {
       "id": "off-campus",
       "titulo": "Off Campus",
@@ -1417,7 +1432,7 @@
       "titulo": "Marvel's Spider-Man (2017)",
       "ano": "2017",
       "tags": "🦸 Super-heróis · 💥 Ação · ⚔️ Aventura",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/LOST.jpg",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/MARVELS%20SPIDER-MAN.jpg",
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MARVELS%20SPIDER%20MAN.png",
       "sinopse": "Peter Parker equilibra a vida de estudante com suas responsabilidades como Homem-Aranha, enfrentando ameaças em Nova York.",
       "trailer_id": "X814eTVbEyI",

@@ -1126,54 +1126,54 @@
         }
       ]
     },
-    {
-      "id": "a-teoria-do-big-bang",
-      "titulo": "A Teoria do Big Bang",
-      "ano": "2007",
-      "tags": "😂 Comédia · 🧪 Ficção científica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/A%20TEORIA%20DO%20BIG%20BANG.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/A%20TEORIA%20DO%20BIG%20BANG.png",
-      "sinopse": "Dois físicos brilhantes, mas socialmente desajeitados, têm suas rotinas transformadas quando uma nova vizinha entra em suas vidas, junto de um grupo de amigos igualmente peculiar.",
-      "trailer_id": "Y5kXImSyKw0",
-      "fontes": [
-        {
-      "nome": "FLIXFAT",
-      "txt_url": "https://flixlat.com/pt/detail/drama/HwUxBMqh91kut0x0uVrKu-The-Big-Bang-Theory-Season-1"
-    }
-      ]
-    }
-    {
-      "id": "alice-in-borderland",
-      "titulo": "Alice in Borderland",
-      "ano": "2020",
-      "tags": "😱 Suspense · 🧪 Ficção científica · ⚔️ Ação",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALICE%20IN%20BODERLAND.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALICE%20IN%20BODERLAND.png",
-      "sinopse": "Arisu e seus amigos são transportados para uma versão deserta de Tóquio, onde precisam participar de jogos perigosos para permanecer naquele mundo misterioso.",
-      "trailer_id": "WZCxI1qv310",
-      "fontes": [
-        {
-      "nome": "SOLO LATINO",
-      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/8gUqZDk7ejoXtTvQWu6OB-Alice-in-Borderland"
-    }
-      ]
-    },
-    {
-      "id": "among-us",
-      "titulo": "Among Us",
-      "ano": "2026",
-      "tags": "😂 Comédia · 🧪 Ficção científica · 😱 Mistério",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AMONG%20US.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AMONG%20US.png",
-      "sinopse": "A tripulação de uma nave espacial precisa trabalhar em equipe enquanto tenta descobrir quem entre eles é um impostor disfarçado.",
-      "trailer_id": "fg4wUpS_Tuw",
-      "fontes": [
-        {
-      "nome": "123MOVIES",
-      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/03OrzgP3JLAz9reTP1FjL-Among-Us"
-    }
-      ]
-    }
+  {
+    "id": "a-teoria-do-big-bang",
+    "titulo": "A Teoria do Big Bang",
+    "ano": "2007",
+    "tags": "😂 Comédia · 🧪 Ficção científica",
+    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/A%20TEORIA%20DO%20BIG%20BANG.jpg",
+    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/A%20TEORIA%20DO%20BIG%20BANG.png",
+    "sinopse": "Dois físicos brilhantes, mas socialmente desajeitados, têm suas rotinas transformadas quando uma nova vizinha entra em suas vidas, junto de um grupo de amigos igualmente peculiar.",
+    "trailer_id": "Y5kXImSyKw0",
+    "fontes": [
+      {
+        "nome": "FLIXFAT",
+        "txt_url": "https://flixlat.com/pt/detail/drama/HwUxBMqh91kut0x0uVrKu-The-Big-Bang-Theory-Season-1"
+      }
+    ]
+  },
+  {
+    "id": "alice-in-borderland",
+    "titulo": "Alice in Borderland",
+    "ano": "2020",
+    "tags": "😱 Suspense · 🧪 Ficção científica · ⚔️ Ação",
+    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALICE%20IN%20BODERLAND.jpg",
+    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALICE%20IN%20BODERLAND.png",
+    "sinopse": "Arisu e seus amigos são transportados para uma versão deserta de Tóquio, onde precisam participar de jogos perigosos para permanecer naquele mundo misterioso.",
+    "trailer_id": "WZCxI1qv310",
+    "fontes": [
+      {
+        "nome": "SOLO LATINO",
+        "txt_url": "https://latino.solo-latino.com/pt/detail/drama/8gUqZDk7ejoXtTvQWu6OB-Alice-in-Borderland"
+      }
+    ]
+  },
+  {
+    "id": "among-us",
+    "titulo": "Among Us",
+    "ano": "2026",
+    "tags": "😂 Comédia · 🧪 Ficção científica · 😱 Mistério",
+    "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AMONG%20US.jpg",
+    "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AMONG%20US.png",
+    "sinopse": "A tripulação de uma nave espacial precisa trabalhar em equipe enquanto tenta descobrir quem entre eles é um impostor disfarçado.",
+    "trailer_id": "fg4wUpS_Tuw",
+    "fontes": [
+      {
+        "nome": "123MOVIES",
+        "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/03OrzgP3JLAz9reTP1FjL-Among-Us"
+      }
+    ]
+  }
     {
       "id": "off-campus",
       "titulo": "Off Campus",

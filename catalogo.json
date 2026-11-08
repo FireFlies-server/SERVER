@@ -1798,6 +1798,22 @@
       ]
     },
     {
+  "id": "seinfeld",
+  "titulo": "Seinfeld",
+  "ano": "1989",
+  "tags": "😂 Cómedia",
+  "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SEINFELD.jpg",
+  "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SEINFELD.png",
+  "sinopse": "As contínuas desventuras do neurótico comediante de stand-up nova-iorquino Jerry Seinfeld e de seus amigos, também nova-iorquinos e igualmente neuróticos.",
+  "trailer_id": "hQXKyIG_NS4",
+  "fontes": [
+    {
+      "nome": "SOLO LATINO",
+      "txt_url": "https://latino.solo-latino.com/pt/detail/drama/rAMet5ATt1qEUxTGF9sDY-Seinfeld-Season-1"
+    }
+  ]
+},
+    {
       "id": "spider-noir",
       "titulo": "Spider-Noir",
       "ano": "2026",

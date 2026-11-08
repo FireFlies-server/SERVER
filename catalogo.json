@@ -1510,6 +1510,22 @@
       ]
     },
     {
+  "id": "jovem-sherlock",
+  "titulo": "Jovem Sherlock",
+  "ano": "2026",
+  "tags": "💥 Ação · ⚔️ Aventura · 😱 Suspense",
+  "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/JOVEM%20SHERLOCK.jpg",
+  "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/JOVEM%20SHERLOCK.png",
+  "sinopse": "Quando o jovem, carismático e rebelde Sherlock Holmes conhece ninguém menos que James Moriarty, ele se vê envolvido em uma investigação de assassinato que ameaça sua liberdade. O primeiro caso de Sherlock desvenda uma conspiração global, levando a um confronto explosivo que mudará o rumo de sua vida para sempre.",
+  "trailer_id": "aqoj3IrChTA",
+  "fontes": [
+    {
+      "nome": "123FILM",
+      "txt_url": "https://ww20.321moviesfree.com/pt/detail/drama/WZMYE2W1zeprHLfkKPD2v-Young-Sherlock"
+    }
+  ]
+},
+    {
       "id": "la-casa-de-papel", 
       "titulo": "La Casa de Papel",
       "ano": "2017",

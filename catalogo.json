@@ -1946,6 +1946,22 @@
       ]
     },
     {
+  "id": "the-walking-dead",
+  "titulo": "The Walking Dead",
+  "ano": "2010",
+  "tags": "🎭 Drama · 🧟 Terror · 😱 Suspense",
+  "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/THE%20WALKING%20DEAD.jpg",
+  "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THE%20WALKING%20DEAD.png",
+  "sinopse": "Sheriff Vice Rick Grimes acorda de um coma para aprender o mundo está em ruínas e deve levar um grupo de sobreviventes a permanecer vivo.",
+  "trailer_id": "CJh6qIvxOoc",
+  "fontes": [
+    {
+      "nome": "123MOVIES",
+      "txt_url": "https://www3.dramasfree.com/pt/detail/drama/ru1SB7KBLzRerij0gqnuf-The-Walking-Dead-Season-1"
+    }
+  ]
+},
+    {
       "id": "todo-mundo-odeia-o-chris",
       "titulo": "Todo Mundo Odeia o Chris",
       "ano": "2005",

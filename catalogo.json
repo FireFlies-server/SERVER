@@ -957,8 +957,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/a7z0CIHq4fDgKadXHsWTN-The-Ballad-of-Buster-Scruggs"
         }
       ]
     },
@@ -973,8 +973,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/Uy8tgs4L9FzDP52WSZaSP-The-Whale"
         }
       ]
     },
@@ -989,8 +989,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/tprmV0WCuE8zTLjtoCB4Q-The-Fault-in-Our-Stars"
         }
       ]
     },
@@ -1005,8 +1005,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/3F9jMcTPc0qwX0HubYRso-The-Housemaid"
         }
       ]
     },
@@ -1021,8 +1021,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/0mmZKrkuA71EGTiG0537N-Ice-Age"
         }
       ]
     },
@@ -1037,8 +1037,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/rv8pS19joPtz3iZtOEhvL-The-Green-Mile"
         }
       ]
     },
@@ -1053,8 +1053,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/2r01qVoxIl53mt20xU25b-The-Love-Hypothesis"
         }
       ]
     },
@@ -1069,8 +1069,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/hfYa9XQiw5cKDnRhyKOb3-The-Blue-Lagoon"
         }
       ]
     },
@@ -1085,8 +1085,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/wRiZsd5GNjBMXIbqK9ndh-Happy-Death-Day"
         }
       ]
     },
@@ -1101,8 +1101,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/uBJPCe28KAk0wiXwQLTCX-The-Odyssey"
         }
       ]
     },
@@ -1117,8 +1117,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/2HC8AGYrfKEIu22QX7a1a-The-Skin-I-Live-In"
         }
       ]
     },
@@ -1133,8 +1133,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/IaFCemTSSYuQscoRhIyWU-The-Devils-Advocate"
         }
       ]
     },
@@ -1149,8 +1149,24 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA (1+2+3+4)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CvF9kItziuIKVdFxZuWdh-Alien"
+        },
+        {
+          "nome": "CINEHD+ (CONVENANT)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/zR2UuMVL4lbAhhIE3f2lW-Alien-Covenant"
+        },
+        {
+          "nome": "PELIHD (ROMULUS)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/d2a4NHilYQOC2DdJCfRhN-Alien-Romulus"
+        },
+        {
+          "nome": "VPU (PROMETHEUS)",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/N5x9BGVA5oaGyMGG7VPb9-Prometheus"
+        },
+        {
+          "nome": "123MOVIES (ALIEN VS PREDADOR)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/iVWTuzOd7aIGNH8SO3a5O-AVP-Alien-vs-Predator"
         }
       ]
     },
@@ -1165,8 +1181,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/1dLR35dtG6892FfVvDsPF-Alvin-and-the-Chipmunks"
         }
       ]
     },
@@ -1181,8 +1197,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CYkVdY3X9UxoIRTrOlsm3-Annabelle"
         }
       ]
     },
@@ -1197,8 +1213,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/NeblWFvH8drsWeKF0L8vP-Bring-It-On"
         }
       ]
     },
@@ -1213,8 +1229,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/1kDt9e6Uc4TOsLzOcJRYs-White-Chicks"
         }
       ]
     },
@@ -1229,8 +1245,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/uQXnAX2buSKRuD7CAytJj-Assassins-Creed"
         }
       ]
     },
@@ -1245,8 +1261,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/QmMbOui43t1UF9tNJkZAK-Authentic-Games-No-Imp%C3%A9rio-Desconectado"
         }
       ]
     },
@@ -1261,8 +1277,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/NTbFTDnQBzWCMdNJ74wG7-Awake"
         }
       ]
     },
@@ -1277,8 +1293,12 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "FLIXFAT (DUBLADO, CINEMA)",
+          "txt_url": "https://flixlat.com/pt/detail/movie/VGh9S8chQ9uhn4HdQydK5-Backrooms"
+        },
+        {
+          "nome": "123MOVIES (LEGENDADO, NÃO CINEMA)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/kjirm6JvrTuQH9ioILVOW-Backrooms"
         }
       ]
     },

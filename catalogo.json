@@ -1313,8 +1313,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/SpJodxW68Wgsign7MGOFr-Bingo-The-King-of-the-Mornings"
         }
       ]
     },
@@ -1329,8 +1329,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/0B9prYgGcMsiD3NULw8Cb-Blade"
         }
       ]
     },
@@ -1345,8 +1345,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/gARFWuizfNhL8yKFFeXbQ-Captain-Marvel"
         }
       ]
     },
@@ -1361,8 +1361,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/awG05eyc7L4R2OTQMWYP9-Captain-America-The-First-Avenger"
         }
       ]
     },
@@ -1377,8 +1377,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/n2XDLuzlNiSAYKglPZ2ZR-Hoppers"
         }
       ]
     },
@@ -1393,8 +1393,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/K6B0y70JzprkfuXm5Fcip-Caramelo"
         }
       ]
     },
@@ -1409,8 +1409,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/cSVZt4mDyFDDYHnRRsHxF-Cars"
         }
       ]
     },
@@ -1427,7 +1427,310 @@
         {
           "nome": "coloque_nome_fonte",
           "txt_url": "URL_fonte"
+        },
+        da que sua carreira cresce, ele percebe que o sucesso tem um preço e que há algo sombrio por trás daquela sociedade.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/IaFCemTSSYuQscoRhIyWU-The-Devils-Advocate"
         }
+      ]
+    },
+    {
+      "id": "alien",
+      "titulo": "Alien",
+      "ano": "1979",
+      "tags": "🚀 Ficção científica · 👽 Terror · 😱 Suspense",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALIEN.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALIEN.png",
+      "sinopse": "A tripulação de uma nave espacial recebe um sinal desconhecido e acaba levando a bordo uma forma de vida extremamente perigosa. Presos no espaço, os integrantes precisam encontrar uma maneira de sobreviver à criatura.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA (1+2+3+4)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CvF9kItziuIKVdFxZuWdh-Alien"
+        },
+        {
+          "nome": "CINEHD+ (CONVENANT)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/zR2UuMVL4lbAhhIE3f2lW-Alien-Covenant"
+        },
+        {
+          "nome": "PELIHD (ROMULUS)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/d2a4NHilYQOC2DdJCfRhN-Alien-Romulus"
+        },
+        {
+          "nome": "VPU (PROMETHEUS)",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/N5x9BGVA5oaGyMGG7VPb9-Prometheus"
+        },
+        {
+          "nome": "123MOVIES (ALIEN VS PREDADOR)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/iVWTuzOd7aIGNH8SO3a5O-AVP-Alien-vs-Predator"
+        }
+      ]
+    },
+    {
+      "id": "alvin-e-os-esquilos",
+      "titulo": "Alvin e os Esquilos",
+      "ano": "2007",
+      "tags": "😂 Comédia · 🎵 Musical · 👨‍👩‍👧 Família",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALVIN%20E%20OS%20ESQUILOS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALVIN%20E%20OS%20ESQUILOS.png",
+      "sinopse": "Um compositor em dificuldades encontra três esquilos falantes e descobre que eles possuem talento musical. A parceria transforma o grupo em uma sensação, mas a fama também traz desafios para a amizade e a convivência entre eles.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/1dLR35dtG6892FfVvDsPF-Alvin-and-the-Chipmunks"
+        }
+      ]
+    },
+    {
+      "id": "annabelle",
+      "titulo": "Annabelle",
+      "ano": "2014",
+      "tags": "👻 Terror · 😱 Suspense · 🕯️ Sobrenatural",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ANNABELLE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ANNABELLE.png",
+      "sinopse": "Um casal começa a perceber acontecimentos inexplicáveis depois que uma boneca antiga passa a fazer parte de sua casa. A presença parece atrair uma força maligna, transformando o lar em um lugar cada vez mais ameaçador.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CYkVdY3X9UxoIRTrOlsm3-Annabelle"
+        }
+      ]
+    },
+    {
+      "id": "as-apimentadas",
+      "titulo": "As Apimentadas",
+      "ano": "2000",
+      "tags": "🏆 Esporte · 😂 Comédia · 🎭 Drama",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AS%20APIMENTADAS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AS%20APIMENTADAS.png",
+      "sinopse": "Uma equipe de líderes de torcida se prepara para uma competição nacional e descobre que sua rotina é marcada por rivalidades, segredos e disputas. Entre coreografias e conflitos, as integrantes precisam aprender a trabalhar juntas.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/NeblWFvH8drsWeKF0L8vP-Bring-It-On"
+        }
+      ]
+    },
+    {
+      "id": "as-branquelas",
+      "titulo": "As Branquelas",
+      "ano": "2004",
+      "tags": "😂 Comédia · 🕵️ Investigação",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AS%20BRANQUELAS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AS%20BRANQUELAS.png",
+      "sinopse": "Dois agentes do FBI assumem disfarces inesperados para proteger duas herdeiras de um possível sequestro. Para manter a identidade falsa, eles precisam lidar com festas, eventos sociais e situações cada vez mais absurdas.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/1kDt9e6Uc4TOsLzOcJRYs-White-Chicks"
+        }
+      ]
+    },
+    {
+      "id": "assassin-s-creed",
+      "titulo": "Assassin's Creed",
+      "ano": "2016",
+      "tags": "⚔️ Ação · 🧭 Aventura · 🏛️ Ficção histórica",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ASSASINS%20CREED.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ASSASINS%20CREED.png",
+      "sinopse": "Por meio de uma tecnologia que recupera memórias genéticas, Callum Lynch revive experiências de um ancestral pertencente a uma antiga ordem de assassinos. A descoberta o coloca no centro de um conflito que atravessa gerações.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/uQXnAX2buSKRuD7CAytJj-Assassins-Creed"
+        }
+      ]
+    },
+    {
+      "id": "authentic-games-no-imperio-desconectado",
+      "titulo": "Authentic Games: No Império Desconectado",
+      "ano": "2026",
+      "tags": "⚔️ Aventura · 😂 Comédia · 🤡 Infantil",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AUTHENTIC%20GAMES%20NO%20IMPERIO%20DESCONECTADO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AUTHENTIC%20GAMES%20NO%20IMPERIO%20DESCONECTADO.png",
+      "sinopse": "Marco Túlio é levado para um universo digital dominado por um imperador que deseja recuperar a alegria de seu reino. Transformado em seu avatar, Authentic parte em uma jornada para resgatar a Família Craft e enfrentar os planos do governante.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/QmMbOui43t1UF9tNJkZAK-Authentic-Games-No-Imp%C3%A9rio-Desconectado"
+        }
+      ]
+    },
+    {
+      "id": "awake-a-vida-por-um-fio",
+      "titulo": "Awake: A Vida por um Fio",
+      "ano": "2007",
+      "tags": "😱 Suspense · 🧠 Psicológico · 🎭 Drama",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AWAKE%20A%20VIDA%20POR%20UM%20FIO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AWAKE%20A%20VIDA%20POR%20UM%20FIO.png",
+      "sinopse": "Durante uma cirurgia cardíaca, um jovem permanece consciente, embora não consiga se comunicar com os médicos. Enquanto percebe conversas e acontecimentos ao redor, começa a desconfiar de que existe um plano perigoso envolvendo sua operação.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/NTbFTDnQBzWCMdNJ74wG7-Awake"
+        }
+      ]
+    },
+    {
+      "id": "backrooms-um-nao-lugar",
+      "titulo": "Backrooms: Um Não Lugar",
+      "ano": "2026",
+      "tags": "👻 Terror · 🧩 Mistério · 😱 Suspense · 🚪 Ficção científica",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BACKROOMS%20UM%20NAO%20LUGAR.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BACKROOMS%20UM%20NAO%20LUGAR.png",
+      "sinopse": "Uma passagem estranha surge no porão de uma loja de móveis e conduz a uma rede interminável de salas vazias. Ao explorar esse espaço desconhecido, pessoas se deparam com ambientes inquietantes e perigos que parecem desafiar a realidade.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "FLIXFAT (DUBLADO, CINEMA)",
+          "txt_url": "https://flixlat.com/pt/detail/movie/VGh9S8chQ9uhn4HdQydK5-Backrooms"
+        },
+        {
+          "nome": "123MOVIES (LEGENDADO, NÃO CINEMA)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/kjirm6JvrTuQH9ioILVOW-Backrooms"
+        }
+      ]
+    },
+    {
+      "id": "bingo-o-rei-das-manhas",
+      "titulo": "Bingo: O Rei das Manhãs",
+      "ano": "2017",
+      "tags": "🎭 Drama · 😂 Comédia",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BINGO%20O%20REI%20DAS%20MANHAS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BINGO%20O%20REI%20DAS%20MANHAS.png",
+      "sinopse": "Augusto sonha em conquistar reconhecimento como artista e encontra uma oportunidade ao interpretar um palhaço em um programa infantil. Por trás da maquiagem e do sucesso na televisão, ele enfrenta conflitos pessoais e os limites entre sua vida pública e privada.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/SpJodxW68Wgsign7MGOFr-Bingo-The-King-of-the-Mornings"
+        }
+      ]
+    },
+    {
+      "id": "blade-o-cacador-de-vampiros",
+      "titulo": "Blade: O Caçador de Vampiros",
+      "ano": "1998",
+      "tags": "🧛 Ação · 🧟 Terror · 🦸 Heróis",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BLADE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BLADE.png",
+      "sinopse": "Metade humano e metade vampiro, Blade dedica sua vida a combater criaturas da noite. Com habilidades especiais e determinação, ele enfrenta uma organização de vampiros que pretende mudar o equilíbrio entre humanos e seres sobrenaturais.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/0B9prYgGcMsiD3NULw8Cb-Blade"
+        }
+      ]
+    },
+    {
+      "id": "capita-marvel",
+      "titulo": "Capitã Marvel",
+      "ano": "2019",
+      "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CAPITA%20MARVEL.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CAPITA%20MARVEL.png",
+      "sinopse": "Carol Danvers, uma piloto que ganha poderes extraordinários, se envolve em um conflito entre civilizações alienígenas. Ao investigar suas próprias lembranças, ela começa a descobrir sua verdadeira origem e o papel que pode desempenhar na guerra.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/gARFWuizfNhL8yKFFeXbQ-Captain-Marvel"
+        }
+      ]
+    },
+    {
+      "id": "capitao-america",
+      "titulo": "Capitão América",
+      "ano": "2011",
+      "tags": "🦸 Heróis · 💥 Ação · 🏛️ Ficção histórica",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CAPITAO%20AMERICA.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CAPITAO%20AMERICA.png",
+      "sinopse": "Durante a Segunda Guerra Mundial, Steve Rogers participa de um experimento que o transforma em um supersoldado. Com sua nova força e senso de justiça, ele lidera uma luta contra uma organização que ameaça o mundo.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/awG05eyc7L4R2OTQMWYP9-Captain-America-The-First-Avenger"
+        }
+      ]
+    },
+    {
+      "id": "cara-de-um-focinho-de-outro",
+      "titulo": "Cara de um, Focinho de Outro",
+      "ano": "2026",
+      "tags": "😂 Comédia · 🐾 Animação · 🧭 Aventura",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARA%20DE%20UM%20FOCINHO%20DE%20OUTRO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARA%20DE%20UM%20FOCINHO%20DO%20OUTRO.png",
+      "sinopse": "Um acontecimento inesperado aproxima uma pessoa de um animal de maneira que muda sua rotina e sua forma de enxergar o mundo. Entre situações divertidas e descobertas, a história explora amizade, empatia e convivência.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/n2XDLuzlNiSAYKglPZ2ZR-Hoppers"
+        }
+      ]
+    },
+    {
+      "id": "caramelo",
+      "titulo": "Caramelo",
+      "ano": "2025",
+      "tags": "🎭 Drama · 🐶 Família · 💛 Emoção",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARAMELO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARAMELO.png",
+      "sinopse": "Pedro, um chef prestes a realizar seu maior sonho profissional, recebe uma notícia que muda seus planos. Com a companhia de um simpático cão vira-lata caramelo, ele inicia uma jornada de redescoberta, afeto e valorização dos pequenos momentos.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/K6B0y70JzprkfuXm5Fcip-Caramelo"
+        }
+      ]
+    },
+    {
+      "id": "carros",
+      "titulo": "Carros",
+      "ano": "2006",
+      "tags": "🏁 Aventura · 😂 Comédia · 🏎️ Animação",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARROS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARROS.png",
+      "sinopse": "Relâmpago McQueen é um carro de corrida ambicioso que acaba perdido em uma pequena cidade na Rota 66. Ao conhecer seus moradores, aprende que amizade, humildade e respeito podem ser tão importantes quanto vencer uma competição.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/cSVZt4mDyFDDYHnRRsHxF-Cars"
+        }
+      ]
+    },
+    {
+      "id": "chucky-brinquedo-assassino",
+      "titulo": "Chucky, Brinquedo Assassino",
+      "ano": "1988",
+      "tags": "👻 Terror · 😱 Suspense",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CHUCKY.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CHUKY%20USE%20EM%20TUDO.png",
+      "sinopse": "Um menino recebe um boneco muito desejado, mas logo acontecimentos assustadores começam a ocorrer ao seu redor. O brinquedo esconde uma presença violenta, e sua mãe precisa descobrir a verdade antes que seja tarde.",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "123FILM (CLÁSSICO)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/YjDGw1xkLc4Vv5sWdPkmn-Childs-Play"
+    },
+           {
+          "nome": "123MOVIES (REEBOT 2019)",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/zyYAmyiW3wuuyx0W3yIyZ-Childs-Play"
+           }
       ]
     },
     {
@@ -1441,8 +1744,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/N6yjz9TiG3qGeTDUJz9sq-Fight-Club"
         }
       ]
     },
@@ -1457,8 +1760,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/jTH2JxmZp62oGnX3oIfLi-Swapped"
         }
       ]
     },
@@ -1473,8 +1776,12 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "PELIHD+ (ORIGINAL)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/z7s5aXhHNSJCdeQIp2bML-How-to-Train-Your-Dragon"
+        },
+        {
+          "nome": "SOLO LATINO (2025)",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/AsxvATXSNVbA4YAw8LWtA-How-to-Train-Your-Dragon-2025"
         }
       ]
     },
@@ -1489,8 +1796,8 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/PEAApKjFKQRFK76mynuW2-Back-to-the-Future-Part-I"
         }
       ]
     },

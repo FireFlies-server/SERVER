@@ -2119,15 +2119,20 @@
       "fontes": []
     },
     {
-      "id": "resident-evil-o-hospede-maldito",
-      "titulo": "Resident Evil: O Hóspede Maldito",
-      "ano": "2002",
+      "id": "resident-evil",
+      "titulo": "Resident Evil ",
+      "ano": "2026",
       "tags": "🧟 Terror · 💥 Ação · 🚀 Ficção científica",
-      "poster": "",
-      "logo_url": "",
-      "sinopse": "Uma equipe entra em uma instalação subterrânea após um acidente liberar um agente biológico perigoso. Com o sistema de segurança fora de controle e criaturas hostis à solta, os sobreviventes precisam encontrar uma saída.",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/RESIDENT%20EVIL.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/RESIDENT%20EVIL.png",
+      "sinopse": "Durante uma entrega noturna em Raccoon City, um mensageiro acaba preso no meio de um surto biológico repentino e precisa lutar para sobreviver e escapar da cidade infestada.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/Brriqnv88XZe8ty7N4NFh-Resident-Evil"
+        }
+      ]
     },
     {
       "id": "se-beber-nao-case",

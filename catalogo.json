@@ -1425,312 +1425,13 @@
       "trailer_id": "",
       "fontes": [
         {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        },
-        da que sua carreira cresce, ele percebe que o sucesso tem um preço e que há algo sombrio por trás daquela sociedade.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://play.cuevana19.com/pt/detail/movie/IaFCemTSSYuQscoRhIyWU-The-Devils-Advocate"
-        }
-      ]
-    },
-    {
-      "id": "alien",
-      "titulo": "Alien",
-      "ano": "1979",
-      "tags": "🚀 Ficção científica · 👽 Terror · 😱 Suspense",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALIEN.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALIEN.png",
-      "sinopse": "A tripulação de uma nave espacial recebe um sinal desconhecido e acaba levando a bordo uma forma de vida extremamente perigosa. Presos no espaço, os integrantes precisam encontrar uma maneira de sobreviver à criatura.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA (1+2+3+4)",
-          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CvF9kItziuIKVdFxZuWdh-Alien"
-        },
-        {
-          "nome": "CINEHD+ (CONVENANT)",
-          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/zR2UuMVL4lbAhhIE3f2lW-Alien-Covenant"
-        },
-        {
-          "nome": "PELIHD (ROMULUS)",
-          "txt_url": "https://video.playspelis.com/pt/detail/movie/d2a4NHilYQOC2DdJCfRhN-Alien-Romulus"
-        },
-        {
-          "nome": "VPU (PROMETHEUS)",
-          "txt_url": "https://peliculaplay.com/pt/detail/movie/N5x9BGVA5oaGyMGG7VPb9-Prometheus"
-        },
-        {
-          "nome": "123MOVIES (ALIEN VS PREDADOR)",
-          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/iVWTuzOd7aIGNH8SO3a5O-AVP-Alien-vs-Predator"
-        }
-      ]
-    },
-    {
-      "id": "alvin-e-os-esquilos",
-      "titulo": "Alvin e os Esquilos",
-      "ano": "2007",
-      "tags": "😂 Comédia · 🎵 Musical · 👨‍👩‍👧 Família",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ALVIN%20E%20OS%20ESQUILOS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ALVIN%20E%20OS%20ESQUILOS.png",
-      "sinopse": "Um compositor em dificuldades encontra três esquilos falantes e descobre que eles possuem talento musical. A parceria transforma o grupo em uma sensação, mas a fama também traz desafios para a amizade e a convivência entre eles.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "123MOVIES",
-          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/1dLR35dtG6892FfVvDsPF-Alvin-and-the-Chipmunks"
-        }
-      ]
-    },
-    {
-      "id": "annabelle",
-      "titulo": "Annabelle",
-      "ano": "2014",
-      "tags": "👻 Terror · 😱 Suspense · 🕯️ Sobrenatural",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ANNABELLE.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ANNABELLE.png",
-      "sinopse": "Um casal começa a perceber acontecimentos inexplicáveis depois que uma boneca antiga passa a fazer parte de sua casa. A presença parece atrair uma força maligna, transformando o lar em um lugar cada vez mais ameaçador.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/CYkVdY3X9UxoIRTrOlsm3-Annabelle"
-        }
-      ]
-    },
-    {
-      "id": "as-apimentadas",
-      "titulo": "As Apimentadas",
-      "ano": "2000",
-      "tags": "🏆 Esporte · 😂 Comédia · 🎭 Drama",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AS%20APIMENTADAS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AS%20APIMENTADAS.png",
-      "sinopse": "Uma equipe de líderes de torcida se prepara para uma competição nacional e descobre que sua rotina é marcada por rivalidades, segredos e disputas. Entre coreografias e conflitos, as integrantes precisam aprender a trabalhar juntas.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CINEHD+",
-          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/NeblWFvH8drsWeKF0L8vP-Bring-It-On"
-        }
-      ]
-    },
-    {
-      "id": "as-branquelas",
-      "titulo": "As Branquelas",
-      "ano": "2004",
-      "tags": "😂 Comédia · 🕵️ Investigação",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AS%20BRANQUELAS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AS%20BRANQUELAS.png",
-      "sinopse": "Dois agentes do FBI assumem disfarces inesperados para proteger duas herdeiras de um possível sequestro. Para manter a identidade falsa, eles precisam lidar com festas, eventos sociais e situações cada vez mais absurdas.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "123FILM",
-          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/1kDt9e6Uc4TOsLzOcJRYs-White-Chicks"
-        }
-      ]
-    },
-    {
-      "id": "assassin-s-creed",
-      "titulo": "Assassin's Creed",
-      "ano": "2016",
-      "tags": "⚔️ Ação · 🧭 Aventura · 🏛️ Ficção histórica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/ASSASINS%20CREED.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ASSASINS%20CREED.png",
-      "sinopse": "Por meio de uma tecnologia que recupera memórias genéticas, Callum Lynch revive experiências de um ancestral pertencente a uma antiga ordem de assassinos. A descoberta o coloca no centro de um conflito que atravessa gerações.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/uQXnAX2buSKRuD7CAytJj-Assassins-Creed"
-        }
-      ]
-    },
-    {
-      "id": "authentic-games-no-imperio-desconectado",
-      "titulo": "Authentic Games: No Império Desconectado",
-      "ano": "2026",
-      "tags": "⚔️ Aventura · 😂 Comédia · 🤡 Infantil",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AUTHENTIC%20GAMES%20NO%20IMPERIO%20DESCONECTADO.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AUTHENTIC%20GAMES%20NO%20IMPERIO%20DESCONECTADO.png",
-      "sinopse": "Marco Túlio é levado para um universo digital dominado por um imperador que deseja recuperar a alegria de seu reino. Transformado em seu avatar, Authentic parte em uma jornada para resgatar a Família Craft e enfrentar os planos do governante.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://play.cuevana19.com/pt/detail/movie/QmMbOui43t1UF9tNJkZAK-Authentic-Games-No-Imp%C3%A9rio-Desconectado"
-        }
-      ]
-    },
-    {
-      "id": "awake-a-vida-por-um-fio",
-      "titulo": "Awake: A Vida por um Fio",
-      "ano": "2007",
-      "tags": "😱 Suspense · 🧠 Psicológico · 🎭 Drama",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/AWAKE%20A%20VIDA%20POR%20UM%20FIO.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/AWAKE%20A%20VIDA%20POR%20UM%20FIO.png",
-      "sinopse": "Durante uma cirurgia cardíaca, um jovem permanece consciente, embora não consiga se comunicar com os médicos. Enquanto percebe conversas e acontecimentos ao redor, começa a desconfiar de que existe um plano perigoso envolvendo sua operação.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://play.cuevana.life/pt/detail/movie/NTbFTDnQBzWCMdNJ74wG7-Awake"
-        }
-      ]
-    },
-    {
-      "id": "backrooms-um-nao-lugar",
-      "titulo": "Backrooms: Um Não Lugar",
-      "ano": "2026",
-      "tags": "👻 Terror · 🧩 Mistério · 😱 Suspense · 🚪 Ficção científica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BACKROOMS%20UM%20NAO%20LUGAR.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BACKROOMS%20UM%20NAO%20LUGAR.png",
-      "sinopse": "Uma passagem estranha surge no porão de uma loja de móveis e conduz a uma rede interminável de salas vazias. Ao explorar esse espaço desconhecido, pessoas se deparam com ambientes inquietantes e perigos que parecem desafiar a realidade.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "FLIXFAT (DUBLADO, CINEMA)",
-          "txt_url": "https://flixlat.com/pt/detail/movie/VGh9S8chQ9uhn4HdQydK5-Backrooms"
-        },
-        {
-          "nome": "123MOVIES (LEGENDADO, NÃO CINEMA)",
-          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/kjirm6JvrTuQH9ioILVOW-Backrooms"
-        }
-      ]
-    },
-    {
-      "id": "bingo-o-rei-das-manhas",
-      "titulo": "Bingo: O Rei das Manhãs",
-      "ano": "2017",
-      "tags": "🎭 Drama · 😂 Comédia",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BINGO%20O%20REI%20DAS%20MANHAS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BINGO%20O%20REI%20DAS%20MANHAS.png",
-      "sinopse": "Augusto sonha em conquistar reconhecimento como artista e encontra uma oportunidade ao interpretar um palhaço em um programa infantil. Por trás da maquiagem e do sucesso na televisão, ele enfrenta conflitos pessoais e os limites entre sua vida pública e privada.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "SOLO LATINO",
-          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/SpJodxW68Wgsign7MGOFr-Bingo-The-King-of-the-Mornings"
-        }
-      ]
-    },
-    {
-      "id": "blade-o-cacador-de-vampiros",
-      "titulo": "Blade: O Caçador de Vampiros",
-      "ano": "1998",
-      "tags": "🧛 Ação · 🧟 Terror · 🦸 Heróis",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/BLADE.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/BLADE.png",
-      "sinopse": "Metade humano e metade vampiro, Blade dedica sua vida a combater criaturas da noite. Com habilidades especiais e determinação, ele enfrenta uma organização de vampiros que pretende mudar o equilíbrio entre humanos e seres sobrenaturais.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "123MOVIES",
-          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/0B9prYgGcMsiD3NULw8Cb-Blade"
-        }
-      ]
-    },
-    {
-      "id": "capita-marvel",
-      "titulo": "Capitã Marvel",
-      "ano": "2019",
-      "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CAPITA%20MARVEL.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CAPITA%20MARVEL.png",
-      "sinopse": "Carol Danvers, uma piloto que ganha poderes extraordinários, se envolve em um conflito entre civilizações alienígenas. Ao investigar suas próprias lembranças, ela começa a descobrir sua verdadeira origem e o papel que pode desempenhar na guerra.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "123MOVIES",
-          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/gARFWuizfNhL8yKFFeXbQ-Captain-Marvel"
-        }
-      ]
-    },
-    {
-      "id": "capitao-america",
-      "titulo": "Capitão América",
-      "ano": "2011",
-      "tags": "🦸 Heróis · 💥 Ação · 🏛️ Ficção histórica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CAPITAO%20AMERICA.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CAPITAO%20AMERICA.png",
-      "sinopse": "Durante a Segunda Guerra Mundial, Steve Rogers participa de um experimento que o transforma em um supersoldado. Com sua nova força e senso de justiça, ele lidera uma luta contra uma organização que ameaça o mundo.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "PELIHD",
-          "txt_url": "https://video.playspelis.com/pt/detail/movie/awG05eyc7L4R2OTQMWYP9-Captain-America-The-First-Avenger"
-        }
-      ]
-    },
-    {
-      "id": "cara-de-um-focinho-de-outro",
-      "titulo": "Cara de um, Focinho de Outro",
-      "ano": "2026",
-      "tags": "😂 Comédia · 🐾 Animação · 🧭 Aventura",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARA%20DE%20UM%20FOCINHO%20DE%20OUTRO.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARA%20DE%20UM%20FOCINHO%20DO%20OUTRO.png",
-      "sinopse": "Um acontecimento inesperado aproxima uma pessoa de um animal de maneira que muda sua rotina e sua forma de enxergar o mundo. Entre situações divertidas e descobertas, a história explora amizade, empatia e convivência.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CINEHD+",
-          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/n2XDLuzlNiSAYKglPZ2ZR-Hoppers"
-        }
-      ]
-    },
-    {
-      "id": "caramelo",
-      "titulo": "Caramelo",
-      "ano": "2025",
-      "tags": "🎭 Drama · 🐶 Família · 💛 Emoção",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARAMELO.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARAMELO.png",
-      "sinopse": "Pedro, um chef prestes a realizar seu maior sonho profissional, recebe uma notícia que muda seus planos. Com a companhia de um simpático cão vira-lata caramelo, ele inicia uma jornada de redescoberta, afeto e valorização dos pequenos momentos.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "123MOVIES",
-          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/K6B0y70JzprkfuXm5Fcip-Caramelo"
-        }
-      ]
-    },
-    {
-      "id": "carros",
-      "titulo": "Carros",
-      "ano": "2006",
-      "tags": "🏁 Aventura · 😂 Comédia · 🏎️ Animação",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CARROS.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CARROS.png",
-      "sinopse": "Relâmpago McQueen é um carro de corrida ambicioso que acaba perdido em uma pequena cidade na Rota 66. Ao conhecer seus moradores, aprende que amizade, humildade e respeito podem ser tão importantes quanto vencer uma competição.",
-      "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "CUEVANA",
-          "txt_url": "https://play.cuevana.life/pt/detail/movie/cSVZt4mDyFDDYHnRRsHxF-Cars"
-        }
-      ]
-    },
-    {
-      "id": "chucky-brinquedo-assassino",
-      "titulo": "Chucky, Brinquedo Assassino",
-      "ano": "1988",
-      "tags": "👻 Terror · 😱 Suspense",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/CHUCKY.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/CHUKY%20USE%20EM%20TUDO.png",
-      "sinopse": "Um menino recebe um boneco muito desejado, mas logo acontecimentos assustadores começam a ocorrer ao seu redor. O brinquedo esconde uma presença violenta, e sua mãe precisa descobrir a verdade antes que seja tarde.",
-      "trailer_id": "",
-      "fontes": [
-        {
           "nome": "123FILM (CLÁSSICO)",
           "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/YjDGw1xkLc4Vv5sWdPkmn-Childs-Play"
-    },
-           {
+        },
+        {
           "nome": "123MOVIES (REEBOT 2019)",
           "txt_url": "https://www3.dramasfree.com/pt/detail/movie/zyYAmyiW3wuuyx0W3yIyZ-Childs-Play"
-           }
+        }
       ]
     },
     {
@@ -1810,12 +1511,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEADPOOL.png",
       "sinopse": "Após passar por um tratamento experimental, Wade Wilson ganha habilidades de regeneração, mas fica com a aparência alterada. Adotando a identidade de Deadpool, ele parte em busca dos responsáveis e usa humor irreverente para enfrentar seus inimigos.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "death-note-live-action",
@@ -1826,12 +1522,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEATH%20NOTE.png",
       "sinopse": "Um estudante encontra um caderno sobrenatural capaz de causar a morte de qualquer pessoa cujo nome seja escrito nele. Ao usar o objeto para tentar criar um mundo sem criminosos, ele passa a ser investigado por um detetive extremamente inteligente.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "demolicao",
@@ -1842,12 +1533,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEMOLICAO.png",
       "sinopse": "Após perder a esposa em um acidente, um homem parece incapaz de demonstrar tristeza e começa a questionar a própria vida. Uma série de cartas e encontros inesperados o leva a desmontar objetos e hábitos enquanto tenta compreender sua perda.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "devoradores-de-estrelas",
@@ -1858,12 +1544,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEVORADORES%20DE%20ESTRELAS.png",
       "sinopse": "Um astronauta acorda sozinho em uma nave, muito distante da Terra, sem lembrar como chegou ali. Ao recuperar a memória, descobre que precisa resolver um problema científico decisivo para a sobrevivência da humanidade.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "divertida-mente",
@@ -1874,12 +1555,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DIVERTIDAMENTE.png",
       "sinopse": "Dentro da mente de Riley, cinco emoções tentam ajudá-la a lidar com mudanças importantes em sua vida. Quando Alegria e Tristeza se perdem no centro de controle, as duas precisam encontrar o caminho de volta e aprender a trabalhar juntas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "doutor-estranho",
@@ -1890,12 +1566,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DOUTOR%20ESTRANHO.png",
       "sinopse": "Depois de um acidente que compromete suas mãos, o cirurgião Stephen Strange procura uma forma de recuperar sua carreira. Sua jornada o leva a aprender artes místicas e a proteger a realidade de ameaças que ultrapassam a compreensão comum.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "elize-sombras-de-uma-mulher",
@@ -1906,12 +1577,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ELIZE%20SOMBRAS%20DE%20UMA%20MULHER.png",
       "sinopse": "Inspirado em um caso real, o filme acompanha a trajetória de Elize Matsunaga e os conflitos de seu relacionamento com um empresário. A narrativa explora os acontecimentos e as escolhas que antecederam um crime que ganhou grande repercussão no Brasil.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "em-um-piscar-de-olhos",
@@ -1922,12 +1588,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/EM%20UM%20PISCAR%20DE%20OLHOS.png",
       "sinopse": "Três histórias que acontecem em épocas diferentes se conectam por temas como sobrevivência, memória e relações humanas. Da pré-história a um futuro distante, personagens enfrentam desafios que revelam como a vida e a conexão atravessam o tempo.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "esquadrao-suicida",
@@ -1938,12 +1599,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESQUADRAO%20SUICIDIA.png",
       "sinopse": "Uma equipe formada por criminosos com habilidades especiais recebe a missão de enfrentar uma ameaça que coloca uma cidade em risco. Sob vigilância do governo, o grupo precisa cooperar apesar das diferenças e da desconfiança entre seus integrantes.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "esqueceram-de-mim",
@@ -1954,12 +1610,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESQUECERAM%20DE%20MIM.png",
       "sinopse": "Quando sua família viaja para o Natal, Kevin acaba ficando sozinho em casa por engano. Enquanto aproveita a liberdade, precisa proteger a residência de dois ladrões atrapalhados usando criatividade e armadilhas improvisadas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "este-e-meu-garoto",
@@ -1970,12 +1621,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESTE%20E%20MEU%20GAROTO.png",
       "sinopse": "Um pai irresponsável reaparece na vida do filho adulto pouco antes de seu casamento. A visita inesperada provoca situações constrangedoras e obriga os dois a lidar com diferenças, ressentimentos e laços familiares.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "five-nights-at-freddys-o-pesadelo-sem-fim",
@@ -1986,12 +1632,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FNAF%20FILME.png",
       "sinopse": "Um segurança aceita trabalhar durante a noite em uma antiga pizzaria abandonada. Logo, descobre que os animatrônicos do local escondem segredos assustadores ligados a desaparecimentos e a um passado misterioso.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "forrest-gump-o-contador-de-historias",
@@ -2002,12 +1643,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FORREST%20GRUMP.png",
       "sinopse": "Forrest Gump relembra sua trajetória extraordinária, que o leva a cruzar caminhos com acontecimentos importantes da história dos Estados Unidos. Apesar de não compreender tudo ao seu redor, sua bondade influencia profundamente as pessoas que conhece.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "guardioes-da-galaxia",
@@ -2018,12 +1654,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GUARDIOES%20DA%20GALAXIA.png",
       "sinopse": "Um aventureiro espacial reúne um grupo improvável de fugitivos para proteger um artefato poderoso. Mesmo com personalidades muito diferentes, os novos companheiros precisam aprender a confiar uns nos outros para impedir uma grande ameaça.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "guerreiras-do-k-pop",
@@ -2034,12 +1665,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GUERREIRAS%20DO%20KPOP.png",
       "sinopse": "Rumi, Mira e Zoey são estrelas do K-pop que escondem uma segunda identidade: elas protegem seus fãs de ameaças sobrenaturais. Quando uma boy band rival revela sua verdadeira natureza, o trio enfrenta seu desafio mais difícil.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "harry-potter",
@@ -2050,12 +1676,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HARRY%20POTTER.png",
       "sinopse": "Ao descobrir que é um bruxo, Harry Potter deixa a vida comum e começa a estudar em Hogwarts. Ao lado de novos amigos, conhece o mundo da magia e se envolve em um mistério relacionado a um objeto muito poderoso.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "homem-aranha",
@@ -2066,12 +1687,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20ARANHA.png",
       "sinopse": "Após ser picado por uma aranha geneticamente modificada, Peter Parker desenvolve habilidades extraordinárias. Enquanto aprende a lidar com seus novos poderes, precisa equilibrar a vida pessoal e a responsabilidade de proteger Nova York.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "homem-de-ferro",
@@ -2082,12 +1698,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20DE%20FERRO.png",
       "sinopse": "O inventor Tony Stark é capturado durante uma viagem e constrói uma armadura para escapar. De volta para casa, transforma sua criação em uma tecnologia avançada e decide usar seus recursos para enfrentar ameaças que antes ajudava a alimentar.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "homem-formiga",
@@ -2098,12 +1709,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20FORMIGA.png",
       "sinopse": "Scott Lang recebe a chance de usar um traje capaz de alterar seu tamanho e ganhar força extraordinária. Orientado por Hank Pym, ele precisa dominar a tecnologia e realizar uma missão que pode mudar seu futuro e proteger uma invenção perigosa.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "hotel-transilvania",
@@ -2114,12 +1720,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOTEL%20TRANSILVANIA.png",
       "sinopse": "Drácula administra um hotel exclusivo para monstros, onde sua filha vive protegida do mundo humano. Tudo muda quando um jovem viajante aparece por acaso e se aproxima dela, provocando confusões entre hóspedes de diferentes espécies.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "interestelar",
@@ -2130,12 +1731,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/INTERESTELAR.png",
       "sinopse": "Com a Terra enfrentando uma crise ambiental, um grupo de exploradores parte em uma missão através de um fenômeno espacial em busca de um novo lar para a humanidade. A viagem coloca à prova os limites da ciência, do tempo e dos laços familiares.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "it-a-coisa",
@@ -2146,12 +1742,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/IT%20A%20COISA.png",
       "sinopse": "Em uma cidade marcada por desaparecimentos, um grupo de crianças enfrenta uma presença assustadora que assume a forma de seus maiores medos. Unidos pela amizade, eles tentam descobrir a origem da criatura e impedir que ela continue ameaçando a comunidade.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "jogos-mortais",
@@ -2162,12 +1753,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/JOGOS%20MORTAIS.png",
       "sinopse": "Duas pessoas acordam presas em um ambiente desconhecido e descobrem que fazem parte de um jogo elaborado por um criminoso que testa os limites de suas vítimas. Enquanto tentam entender as regras, a polícia procura pistas sobre o responsável.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "jurassic-park",
@@ -2178,12 +1764,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/JURASSIC%20PARK.png",
       "sinopse": "se passa na fictícia Isla Nublar, onde o milionário John Hammond criou um parque temático com dinossauros clonados a partir de DNA preservado em âmbar. Para ganhar a confiança dos investidores, Hammond convida o paleontólogo Alan Grant, a paleobotânica Ellie Sattler e o matemático Ian Malcolm para inspecionarem a segurança do empreendimento.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "king-kong",
@@ -2194,12 +1775,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/KING%20KONG.png",
       "sinopse": "Uma equipe de cinema viaja para uma ilha misteriosa e encontra criaturas pré-históricas e um gorila gigantesco. A captura do animal o leva para a cidade grande, onde sua força e sua relação com uma atriz provocam consequências inesperadas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "lindo-de-morrer",
@@ -2210,12 +1786,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LINDO%20DE%20MORRER.png",
       "sinopse": "Max nasceu com uma condição rara: sua beleza é tão extraordinária que as pessoas correm perigo ao olhar diretamente para ele. Ao conhecer uma jovem que não reage como os demais, começa a imaginar que pode viver um relacionamento comum.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "maquina-de-guerra",
@@ -2226,12 +1797,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MAQUINA%20DE%20GUERRA.png",
       "sinopse": "Durante a etapa final de um treinamento militar, um grupo de soldados enfrenta uma ameaça tecnológica muito além do que esperava. Para sobreviver, o líder da equipe precisa unir seus companheiros e encontrar uma forma de enfrentar a máquina.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "super-mario-bros-o-filme",
@@ -2242,12 +1808,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MARIO%20O%20FILME.png",
       "sinopse": "Os encanadores Mario e Luigi são transportados para um reino fantástico e acabam separados. Com a ajuda de novos aliados, Mario embarca em uma aventura para salvar seu irmão e impedir os planos de conquista de Bowser.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "matrix",
@@ -2258,12 +1819,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MATRIX.png",
       "sinopse": "Neo, um programador que desconfia da realidade, conhece um grupo que revela a existência de uma simulação controlada por máquinas. Diante da descoberta, ele precisa decidir se aceita a verdade e participa da luta para libertar a humanidade.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "m3gan",
@@ -2274,12 +1830,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MEGAN.png",
       "sinopse": "Uma engenheira cria uma boneca robótica avançada para acompanhar sua sobrinha e oferecer companhia. A inteligência artificial aprende rápido demais e passa a interpretar sua função de proteção de maneira perigosa.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "meu-malvado-favorito",
@@ -2290,12 +1841,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MEU%20MALVADO%20FAVORITO.png",
       "sinopse": "Gru planeja realizar um grande roubo para provar que é o maior vilão do mundo, contando com a ajuda de pequenos ajudantes amarelos. Ao adotar três meninas como parte de seu plano, descobre sentimentos que transformam suas prioridades.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "michael",
@@ -2306,12 +1852,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MICHAEL.png",
       "sinopse": "A cinebiografia acompanha a trajetória de Michael Jackson desde os primeiros passos como integrante do Jackson 5 até sua consolidação como um dos artistas mais conhecidos do mundo. O filme retrata sua ambição criativa, carreira e impacto cultural.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "minha-culpa",
@@ -2322,12 +1863,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MINHA%20CULPA.png",
       "sinopse": "Noah precisa deixar sua cidade e se mudar para a casa do novo marido de sua mãe. Lá, conhece Nick, seu novo meio-irmão, e os dois desenvolvem uma relação marcada por atração, conflitos familiares e segredos.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "moana-um-mar-de-aventuras",
@@ -2338,12 +1874,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MOANA.png",
       "sinopse": "Moana, filha de um chefe de uma ilha do Pacífico, parte em uma viagem pelo oceano para restaurar o equilíbrio de seu povo. Com a ajuda do semideus Maui, enfrenta desafios e descobre sua própria força.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "mortal-kombat",
@@ -2354,12 +1885,7 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MORTAL%20KOMBAT.png",
       "sinopse": "Cole Young descobre que está ligado a um antigo torneio entre guerreiros de diferentes reinos. Ao procurar aliados, conhece lutadores que precisam unir forças para impedir que uma ameaça conquiste a Terra.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-chamado",
@@ -2370,12 +1896,7 @@
       "logo_url": "",
       "sinopse": "Uma jornalista investiga uma fita de vídeo associada a uma sequência de mortes misteriosas. Ao descobrir que existe uma ligação entre as pessoas que assistem à gravação, ela corre contra o tempo para entender sua origem.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-gigante-de-ferro",
@@ -2386,12 +1907,7 @@
       "logo_url": "",
       "sinopse": "Um garoto encontra um robô gigantesco que veio do espaço e decide protegê-lo de pessoas que o consideram uma ameaça. A amizade entre os dois mostra que cada um pode escolher quem deseja ser.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-grinch",
@@ -2402,12 +1918,7 @@
       "logo_url": "",
       "sinopse": "O Grinch vive isolado e não suporta as comemorações de Natal dos moradores de Quemlândia. Para acabar com a festa, planeja roubar todos os presentes, mas um encontro inesperado pode mudar sua visão sobre a data.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-incrivel-hulk",
@@ -2418,12 +1929,7 @@
       "logo_url": "",
       "sinopse": "Bruce Banner vive escondido enquanto procura uma cura para a transformação que o faz se tornar uma criatura extremamente poderosa quando perde o controle. Perseguido pelo governo, precisa enfrentar um novo adversário com habilidades semelhantes.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-poderoso-chefao",
@@ -2434,12 +1940,7 @@
       "logo_url": "",
       "sinopse": "A família Corleone ocupa uma posição influente no crime organizado dos Estados Unidos. Quando o patriarca sofre um atentado, seu filho Michael é puxado para os negócios familiares e começa uma transformação que altera o destino de todos.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-poderoso-chefinho",
@@ -2450,12 +1951,7 @@
       "logo_url": "",
       "sinopse": "Tim acredita que sua vida muda completamente quando um bebê de terno chega à família. Logo, descobre que o novo irmão trabalha em uma missão secreta ligada a uma disputa entre bebês e animais de estimação.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-rei-leao",
@@ -2466,12 +1962,7 @@
       "logo_url": "",
       "sinopse": "Simba, um jovem leão destinado a ser rei, foge após uma tragédia provocada por seu tio Scar. Anos depois, ao descobrir que seu lar continua em perigo, precisa enfrentar o passado e assumir seu lugar no ciclo da vida.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "o-senhor-dos-aneis-a-sociedade-do-anel",
@@ -2482,12 +1973,7 @@
       "logo_url": "",
       "sinopse": "Frodo recebe a missão de destruir um anel poderoso que pode permitir o retorno de um senhor das trevas. Ao lado de companheiros de diferentes povos, parte em uma jornada perigosa para impedir que o objeto caia nas mãos erradas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "obsessao",
@@ -2498,12 +1984,7 @@
       "logo_url": "",
       "sinopse": "Bear, um jovem romântico, encontra um objeto sobrenatural que promete realizar um desejo. Ao pedir que sua paixão corresponda aos seus sentimentos, ele consegue o que queria, mas logo percebe que a realização do desejo traz consequências assustadoras.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "operacao-cupido",
@@ -2514,12 +1995,7 @@
       "logo_url": "",
       "sinopse": "Duas meninas idênticas se conhecem em um acampamento e descobrem que são irmãs gêmeas separadas após o divórcio dos pais. Decididas a reunir a família, trocam de identidade e elaboram um plano para aproximar os adultos.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "os-incriveis",
@@ -2530,12 +2006,7 @@
       "logo_url": "",
       "sinopse": "Após os super-heróis serem afastados de suas atividades, a família Pêra tenta levar uma vida comum. Quando uma missão secreta coloca o pai em perigo, todos precisam unir seus poderes para enfrentar uma ameaça e proteger uns aos outros.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "os-novatos",
@@ -2546,12 +2017,7 @@
       "logo_url": "",
       "sinopse": "Quatro estudantes começam o ensino médio e recebem um convite para uma festa que promete ser inesquecível. O grupo espera conquistar popularidade, mas a noite acaba se transformando em uma sequência de situações caóticas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "os-sem-floresta",
@@ -2562,12 +2028,7 @@
       "logo_url": "",
       "sinopse": "Ao acordar da hibernação, um grupo de animais descobre que uma enorme área residencial foi construída ao redor de seu habitat. Liderados por um guaxinim esperto, eles precisam aprender a conviver com os humanos e encontrar comida.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "panico",
@@ -2578,12 +2039,7 @@
       "logo_url": "",
       "sinopse": "Uma pequena cidade passa a ser aterrorizada por um assassino mascarado que faz perguntas sobre filmes de terror antes de atacar. Uma adolescente e seus amigos tentam descobrir quem está por trás das ligações e dos crimes.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "pantera-negra",
@@ -2594,12 +2050,7 @@
       "logo_url": "",
       "sinopse": "Após a morte de seu pai, T’Challa retorna a Wakanda para assumir o trono e proteger seu povo. A chegada de um adversário ligado ao passado do país coloca em risco o futuro da nação e obriga o novo rei a tomar decisões difíceis.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "pets-a-vida-secreta-dos-bichos",
@@ -2610,12 +2061,7 @@
       "logo_url": "",
       "sinopse": "Max leva uma vida tranquila com sua tutora até a chegada de Duke, um cão resgatado que muda sua rotina. Perdidos pelas ruas da cidade, os dois precisam superar rivalidades e encontrar o caminho de volta para casa.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "pulp-fiction-tempo-de-violencia",
@@ -2626,12 +2072,7 @@
       "logo_url": "",
       "sinopse": "Histórias de criminosos, lutadores e pessoas comuns se cruzam em Los Angeles. Com narrativa não linear, o filme acompanha decisões inesperadas e encontros que mudam o rumo da vida de seus personagens.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "ponte-para-terabitia",
@@ -2642,12 +2083,7 @@
       "logo_url": "",
       "sinopse": "Jess e Leslie tornam-se amigos e criam um reino imaginário em uma floresta próxima de suas casas. Nesse mundo de fantasia, encontram coragem para lidar com desafios da vida real e fortalecem uma amizade transformadora.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "projeto-x",
@@ -2658,12 +2094,7 @@
       "logo_url": "",
       "sinopse": "Três estudantes planejam uma festa em casa para ganhar popularidade e provar que podem organizar o evento do ano. A comemoração cresce muito além do esperado e provoca uma sequência de consequências imprevisíveis.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "quarteto-fantastico-primeiros-passos",
@@ -2674,12 +2105,7 @@
       "logo_url": "",
       "sinopse": "Em uma realidade retrofuturista, Reed Richards, Sue Storm, Johnny Storm e Ben Grimm formam uma equipe de heróis. Enquanto protegem a Terra de uma ameaça cósmica, precisam equilibrar seus deveres públicos com os laços que os unem como família.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "questao-de-tempo",
@@ -2690,12 +2116,7 @@
       "logo_url": "",
       "sinopse": "Tim descobre que os homens de sua família conseguem viajar no tempo e decide usar o dom para melhorar sua vida amorosa. Ao tentar corrigir pequenos momentos, aprende que felicidade também depende de aceitar o presente.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "resident-evil-o-hospede-maldito",
@@ -2706,12 +2127,7 @@
       "logo_url": "",
       "sinopse": "Uma equipe entra em uma instalação subterrânea após um acidente liberar um agente biológico perigoso. Com o sistema de segurança fora de controle e criaturas hostis à solta, os sobreviventes precisam encontrar uma saída.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "se-beber-nao-case",
@@ -2722,12 +2138,7 @@
       "logo_url": "",
       "sinopse": "Após uma despedida de solteiro em Las Vegas, três amigos acordam sem lembrar do que aconteceu e descobrem que o noivo desapareceu. Para encontrá-lo a tempo do casamento, precisam reconstruir a noite anterior a partir de pistas absurdas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "sexta-feira-13",
@@ -2738,12 +2149,7 @@
       "logo_url": "",
       "sinopse": "Monitores chegam a um acampamento de verão que está sendo reaberto após um passado de acontecimentos trágicos. Durante os preparativos, uma presença misteriosa começa a ameaçar o grupo.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "shrek",
@@ -2754,12 +2160,7 @@
       "logo_url": "",
       "sinopse": "Shrek, um ogro que prefere viver sozinho, vê seu pântano invadido por criaturas expulsas de um reino. Para recuperar sua tranquilidade, aceita resgatar uma princesa e acaba descobrindo que amizade e amor podem surgir nos lugares mais inesperados.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "sonic-o-filme",
@@ -2770,12 +2171,7 @@
       "logo_url": "",
       "sinopse": "Sonic, um ouriço azul com velocidade extraordinária, tenta viver escondido na Terra. Quando seus poderes chamam a atenção de um cientista ambicioso, ele encontra ajuda em um policial local para escapar e proteger seu novo lar.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "spree",
@@ -2786,12 +2182,7 @@
       "logo_url": "",
       "sinopse": "Um jovem obcecado por fama nas redes sociais decide transmitir suas viagens pela cidade em busca de visualizações. Sua busca por atenção sai do controle e transforma a transmissão em um retrato perturbador da obsessão por popularidade.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "superbad-e-hoje",
@@ -2802,12 +2193,7 @@
       "logo_url": "",
       "sinopse": "Dois melhores amigos estão prestes a terminar o ensino médio e querem aproveitar uma festa para criar boas lembranças antes da separação. Uma série de imprevistos transforma seus planos em uma noite muito mais complicada do que imaginavam.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "superman",
@@ -2818,12 +2204,7 @@
       "logo_url": "",
       "sinopse": "Clark Kent tenta equilibrar sua origem kryptoniana com a vida que construiu na Terra. Enquanto enfrenta desafios que colocam sua visão de justiça à prova, precisa mostrar que esperança e compaixão ainda podem inspirar as pessoas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "ta-chovendo-hamburguer",
@@ -2834,12 +2215,7 @@
       "logo_url": "",
       "sinopse": "Flint Lockwood é um inventor que cria uma máquina capaz de transformar água em comida. Quando o aparelho começa a provocar fenômenos cada vez maiores, ele precisa encontrar uma solução antes que sua cidade seja tomada por alimentos gigantes.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "ted",
@@ -2850,12 +2226,7 @@
       "logo_url": "",
       "sinopse": "Um homem adulto continua inseparável de seu ursinho de pelúcia, que ganhou vida quando ele era criança. A amizade entre os dois passa por dificuldades quando o protagonista tenta amadurecer e construir um relacionamento sério.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "thor",
@@ -2866,12 +2237,7 @@
       "logo_url": "",
       "sinopse": "Após agir com arrogância e provocar um conflito, Thor é enviado à Terra e perde temporariamente seus poderes. Enquanto aprende sobre humildade e responsabilidade, precisa impedir que uma ameaça coloque dois mundos em perigo.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "titanic",
@@ -2882,12 +2248,7 @@
       "logo_url": "",
       "sinopse": "A bordo de um luxuoso transatlântico, Jack e Rose se conhecem e vivem um romance que desafia as diferenças sociais. A viagem toma um rumo trágico quando o navio colide com um iceberg durante sua travessia inaugural.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "todo-dia",
@@ -2898,12 +2259,7 @@
       "logo_url": "",
       "sinopse": "Rhiannon conhece uma pessoa misteriosa que desperta seu interesse, mas logo descobre que essa consciência acorda todos os dias em um corpo diferente. Os dois tentam manter uma conexão apesar das constantes mudanças.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "toy-story",
@@ -2914,12 +2270,7 @@
       "logo_url": "",
       "sinopse": "Woody, um boneco cowboy, vê sua posição como brinquedo favorito ameaçada quando Buzz Lightyear chega à casa. A rivalidade entre os dois dá lugar a uma aventura em que precisam trabalhar juntos para voltar ao quarto de seu dono.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "um-homem-de-sorte",
@@ -2930,12 +2281,7 @@
       "logo_url": "",
       "sinopse": "Um fuzileiro naval retorna da guerra convencido de que uma fotografia encontrada durante o serviço lhe trouxe sorte. Ao procurar a mulher retratada na imagem, conhece sua família e começa a construir uma nova vida.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "um-lugar-secreto",
@@ -2946,12 +2292,7 @@
       "logo_url": "",
       "sinopse": "John, um adolescente aparentemente comum, encontra um abrigo subterrâneo abandonado perto de casa. Depois de tomar uma decisão inesperada envolvendo sua família, passa a controlar a situação de maneira cada vez mais inquietante.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "um-lugar-silencioso",
@@ -2962,12 +2303,7 @@
       "logo_url": "",
       "sinopse": "Uma família tenta sobreviver em um mundo onde criaturas misteriosas caçam qualquer pessoa que faça barulho. Para permanecerem vivos, os integrantes precisam se comunicar em silêncio e proteger uns aos outros.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "uma-noite-no-museu",
@@ -2978,12 +2314,7 @@
       "logo_url": "",
       "sinopse": "Larry consegue emprego como segurança de um museu e descobre que, durante a noite, as exposições ganham vida. Para manter o local em ordem, ele precisa aprender a lidar com personagens históricos e criaturas que escapam de seus espaços.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "velocidade-e-paixao",
@@ -2994,12 +2325,7 @@
       "logo_url": "",
       "sinopse": "Sarah, uma jovem mecânica apaixonada por automobilismo, recebe a chance de trabalhar com um piloto conhecido e controverso. Para melhorar a imagem dele, os dois fingem estar noivos, mas o acordo também pode abrir caminho para que ela realize seu sonho de competir.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "venom",
@@ -3010,12 +2336,7 @@
       "logo_url": "",
       "sinopse": "O jornalista Eddie Brock entra em contato com uma forma de vida alienígena que se une ao seu corpo e lhe concede habilidades extraordinárias. Enquanto tenta entender essa ligação, precisa enfrentar uma ameaça que pode colocar muitas pessoas em perigo.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "os-vingadores",
@@ -3026,12 +2347,7 @@
       "logo_url": "",
       "sinopse": "Quando uma ameaça extraterrestre se aproxima da Terra, um grupo de heróis com habilidades muito diferentes é reunido para impedir a invasão. Apesar das rivalidades, eles precisam aprender a agir como equipe para proteger o planeta.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "viuva-negra",
@@ -3042,12 +2358,7 @@
       "logo_url": "",
       "sinopse": "Natasha Romanoff precisa confrontar acontecimentos de seu passado e reencontrar pessoas ligadas à sua formação como espiã. Enquanto investiga uma organização que controla outras agentes, ela tenta reparar antigas feridas.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "wolverine-imortal",
@@ -3058,12 +2369,7 @@
       "logo_url": "",
       "sinopse": "Logan viaja ao Japão e se vê envolvido em uma disputa que o força a enfrentar inimigos e dilemas de seu passado. Ao mesmo tempo, precisa lidar com a possibilidade de perder uma habilidade que sempre definiu sua existência.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     },
     {
       "id": "x-men",
@@ -3074,12 +2380,7 @@
       "logo_url": "",
       "sinopse": "Em um mundo onde pessoas nascem com poderes especiais, os mutantes enfrentam preconceito e desconfiança. Enquanto um grupo liderado pelo Professor Xavier busca convivência pacífica, outro acredita que o conflito com os humanos é inevitável.",
       "trailer_id": "",
-      "fontes": [
-        {
-          "nome": "coloque_nome_fonte",
-          "txt_url": "URL_fonte"
-        }
-      ]
+      "fontes": []
     }
   ],
   "novelas": [

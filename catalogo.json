@@ -1511,7 +1511,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEADPOOL.png",
       "sinopse": "Após passar por um tratamento experimental, Wade Wilson ganha habilidades de regeneração, mas fica com a aparência alterada. Adotando a identidade de Deadpool, ele parte em busca dos responsáveis e usa humor irreverente para enfrentar seus inimigos.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/vIvl3MAvMJSF69Hwf4LIy-Deadpool"
+        }
+      ]
     },
     {
       "id": "death-note-live-action",
@@ -1522,7 +1527,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEATH%20NOTE.png",
       "sinopse": "Um estudante encontra um caderno sobrenatural capaz de causar a morte de qualquer pessoa cujo nome seja escrito nele. Ao usar o objeto para tentar criar um mundo sem criminosos, ele passa a ser investigado por um detetive extremamente inteligente.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/X0mQwyw66Vw4cXcjJHJ5a-Death-Note-The-First-Name"
+        }
+      ]
     },
     {
       "id": "demolicao",
@@ -1533,7 +1543,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEMOLICAO.png",
       "sinopse": "Após perder a esposa em um acidente, um homem parece incapaz de demonstrar tristeza e começa a questionar a própria vida. Uma série de cartas e encontros inesperados o leva a desmontar objetos e hábitos enquanto tenta compreender sua perda.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/o8qgQeYXsqCdOTXE2TP1C-Demolition"
+        }
+      ]
     },
     {
       "id": "devoradores-de-estrelas",
@@ -1544,7 +1559,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DEVORADORES%20DE%20ESTRELAS.png",
       "sinopse": "Um astronauta acorda sozinho em uma nave, muito distante da Terra, sem lembrar como chegou ali. Ao recuperar a memória, descobre que precisa resolver um problema científico decisivo para a sobrevivência da humanidade.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/nY3lYJd7k4tp43Qkx8ghK-Project-Hail-Mary"
+        }
+      ]
     },
     {
       "id": "divertida-mente",
@@ -1555,7 +1575,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DIVERTIDAMENTE.png",
       "sinopse": "Dentro da mente de Riley, cinco emoções tentam ajudá-la a lidar com mudanças importantes em sua vida. Quando Alegria e Tristeza se perdem no centro de controle, as duas precisam encontrar o caminho de volta e aprender a trabalhar juntas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/NIhCy9ge19sjmVdlytOhV-Inside-Out"
+        }
+      ]
     },
     {
       "id": "doutor-estranho",
@@ -1566,7 +1591,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/DOUTOR%20ESTRANHO.png",
       "sinopse": "Depois de um acidente que compromete suas mãos, o cirurgião Stephen Strange procura uma forma de recuperar sua carreira. Sua jornada o leva a aprender artes místicas e a proteger a realidade de ameaças que ultrapassam a compreensão comum.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/JMf3eXtOMQ9EQ1y0Urf1o-Doctor-Strange"
+        }
+      ]
     },
     {
       "id": "elize-sombras-de-uma-mulher",
@@ -1577,7 +1607,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ELIZE%20SOMBRAS%20DE%20UMA%20MULHER.png",
       "sinopse": "Inspirado em um caso real, o filme acompanha a trajetória de Elize Matsunaga e os conflitos de seu relacionamento com um empresário. A narrativa explora os acontecimentos e as escolhas que antecederam um crime que ganhou grande repercussão no Brasil.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/M95y9ydGcBMcU8FEBKiEa-Elize-Sombras-de-uma-Mulher"
+        }
+      ]
     },
     {
       "id": "em-um-piscar-de-olhos",
@@ -1588,7 +1623,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/EM%20UM%20PISCAR%20DE%20OLHOS.png",
       "sinopse": "Três histórias que acontecem em épocas diferentes se conectam por temas como sobrevivência, memória e relações humanas. Da pré-história a um futuro distante, personagens enfrentam desafios que revelam como a vida e a conexão atravessam o tempo.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/T9ueUSAHceQfFMMmYeJHT-In-the-Blink-of-an-Eye"
+        }
+      ]
     },
     {
       "id": "esquadrao-suicida",
@@ -1599,7 +1639,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESQUADRAO%20SUICIDIA.png",
       "sinopse": "Uma equipe formada por criminosos com habilidades especiais recebe a missão de enfrentar uma ameaça que coloca uma cidade em risco. Sob vigilância do governo, o grupo precisa cooperar apesar das diferenças e da desconfiança entre seus integrantes.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT (2016)",
+          "txt_url": "https://flixlat.com/pt/detail/movie/IsWK2OqHfupoJfe3GJWdb-Suicide-Squad"
+        },
+        {
+          "nome": "123FILM (2021)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/GzCV2KPcirePV9o5Op3ig-The-Suicide-Squad"
+        }
+      ]
     },
     {
       "id": "esqueceram-de-mim",
@@ -1610,7 +1659,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESQUECERAM%20DE%20MIM.png",
       "sinopse": "Quando sua família viaja para o Natal, Kevin acaba ficando sozinho em casa por engano. Enquanto aproveita a liberdade, precisa proteger a residência de dois ladrões atrapalhados usando criatividade e armadilhas improvisadas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/tZxoLFQbjVRSLE3yn9YeV-Home-Alone"
+        }
+      ]
     },
     {
       "id": "este-e-meu-garoto",
@@ -1621,10 +1675,15 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/ESTE%20E%20MEU%20GAROTO.png",
       "sinopse": "Um pai irresponsável reaparece na vida do filho adulto pouco antes de seu casamento. A visita inesperada provoca situações constrangedoras e obriga os dois a lidar com diferenças, ressentimentos e laços familiares.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/zC10ynTxyDcAK0Dg8cjr9-Thats-My-Boy"
+        }
+      ]
     },
     {
-      "id": "five-nights-at-freddys-o-pesadelo-sem-fim",
+      "id": "five-nights-at-freddys-filme",
       "titulo": "Five Nights at Freddy’s: O Pesadelo sem Fim",
       "ano": "2023",
       "tags": "👻 Terror · 🧩 Mistério · 😱 Suspense",
@@ -1632,7 +1691,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FNAF%20FILME.png",
       "sinopse": "Um segurança aceita trabalhar durante a noite em uma antiga pizzaria abandonada. Logo, descobre que os animatrônicos do local escondem segredos assustadores ligados a desaparecimentos e a um passado misterioso.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/Bti6uBbOeuykWoNtvUUWv-Five-Nights-At-Freddys"
+        }
+      ]
     },
     {
       "id": "forrest-gump-o-contador-de-historias",
@@ -1643,8 +1707,36 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/FORREST%20GRUMP.png",
       "sinopse": "Forrest Gump relembra sua trajetória extraordinária, que o leva a cruzar caminhos com acontecimentos importantes da história dos Estados Unidos. Apesar de não compreender tudo ao seu redor, sua bondade influencia profundamente as pessoas que conhece.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/jEiR2048DNvPMMrLP2BRr-Forrest-Gump"
+        }
+      ]
     },
+
+    
+    {
+      "id": "grand-theft-auto-6",
+      "titulo": "Grand Theft Auto 6, um Olhar Estendido",
+      "ano": "2014",
+      "tags": "💥 Ação · 🖤 Sátira · 🔫 Crime",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/GTA%206.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GTA%206.png",
+      "sinopse": "Em uma jornada eletrizante pelas ruas ensolaradas e os pântanos perigosos do estado de Leonida, Grand Theft Auto VI: Um Olhar Estendido mergulha o público na ascensão implacável de Jason Duval e Lucia Caminos, dispostos a conquistar seu espaço e respeito no submundo do crime de uma Vice City moderna e pulsante, o casal precisa confiar cegamente um no outro para sobreviver. ",
+      "trailer_id": "",
+      "fontes": [
+        {
+          "nome": "ELETRIC VOICES (DUBLADO)",
+          "txt_url": "https://youtu.be/aYlyedoFEqo?is=UB0IMllCs32N8NqH"
+        },
+        {
+          "nome": "VOXEL",
+          "txt_url": "https://youtu.be/_h9_hNvkJk0?is=nobu9wvvW3PtclSq"
+        }
+      ]
+    },
+    
     {
       "id": "guardioes-da-galaxia",
       "titulo": "Guardiões da Galáxia",
@@ -1654,7 +1746,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GUARDIOES%20DA%20GALAXIA.png",
       "sinopse": "Um aventureiro espacial reúne um grupo improvável de fugitivos para proteger um artefato poderoso. Mesmo com personalidades muito diferentes, os novos companheiros precisam aprender a confiar uns nos outros para impedir uma grande ameaça.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/sK2dnYIPZL7w3GYsu7Zxd-Guardians-of-the-Galaxy"
+        }
+      ]
     },
     {
       "id": "guerreiras-do-k-pop",
@@ -1665,7 +1762,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/GUERREIRAS%20DO%20KPOP.png",
       "sinopse": "Rumi, Mira e Zoey são estrelas do K-pop que escondem uma segunda identidade: elas protegem seus fãs de ameaças sobrenaturais. Quando uma boy band rival revela sua verdadeira natureza, o trio enfrenta seu desafio mais difícil.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/G8HaNC0ZbOg3TVXeQzExS-K-Pop-Demon-Hunters"
+        }
+      ]
     },
     {
       "id": "harry-potter",
@@ -1676,7 +1778,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HARRY%20POTTER.png",
       "sinopse": "Ao descobrir que é um bruxo, Harry Potter deixa a vida comum e começa a estudar em Hogwarts. Ao lado de novos amigos, conhece o mundo da magia e se envolve em um mistério relacionado a um objeto muito poderoso.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA (HARRY POTTER)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/dKSIZR7LeMX7ODPCrqHxd-Harry-Potter-and-the-Sorcerers-Stone"
+        },
+        {
+          "nome": "PELIHD (MONSTROS FANTÁSTICOS)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/NrguZGh7lYb6bCQj4VP58-Fantastic-Beasts-and-Where-to-Find-Them"
+        }
+      ]
     },
     {
       "id": "homem-aranha",
@@ -1687,7 +1798,28 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20ARANHA.png",
       "sinopse": "Após ser picado por uma aranha geneticamente modificada, Peter Parker desenvolve habilidades extraordinárias. Enquanto aprende a lidar com seus novos poderes, precisa equilibrar a vida pessoal e a responsabilidade de proteger Nova York.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES (TOBEY MAGUIRE)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/UUadn8s4E17GJZiOwSNZQ-Spider-Man"
+        },
+        {
+          "nome": "FLIXFAT (ANDREW GARFIELD)",
+          "txt_url": "https://flixlat.com/pt/detail/movie/jqfI2uY99vjhdTsGyFqoY-The-Amazing-Spider-Man"
+        },
+        {
+          "nome": "PELIHD (TOM HOLLAND)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/SkJWvSSAfbQKqruiElsUr-Spider-Man-Homecoming"
+        },
+        {
+          "nome": "VPU (NEW DAY MEXICANO, NÃO CINEMA)",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/Ytie5e3eJ95h5gZtMmbWq-Spider-Man-Brand-New-Day"
+        },
+        {
+          "nome": "123MOVIES (ARANHAVERSO)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/IossDBqkddp7rEOfckO13-Spider-Man-Into-the-Spider-Verse"
+        }
+      ]
     },
     {
       "id": "homem-de-ferro",
@@ -1698,7 +1830,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20DE%20FERRO.png",
       "sinopse": "O inventor Tony Stark é capturado durante uma viagem e constrói uma armadura para escapar. De volta para casa, transforma sua criação em uma tecnologia avançada e decide usar seus recursos para enfrentar ameaças que antes ajudava a alimentar.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/JWArnwwgCpJb6ofoJMovJ-Iron-Man"
+        }
+      ]
     },
     {
       "id": "homem-formiga",
@@ -1709,7 +1846,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOMEM%20FORMIGA.png",
       "sinopse": "Scott Lang recebe a chance de usar um traje capaz de alterar seu tamanho e ganhar força extraordinária. Orientado por Hank Pym, ele precisa dominar a tecnologia e realizar uma missão que pode mudar seu futuro e proteger uma invenção perigosa.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/RBpLiCU2ZbJeIVz3ty0pv-Ant-Man"
+        }
+      ]
     },
     {
       "id": "hotel-transilvania",
@@ -1720,7 +1862,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/HOTEL%20TRANSILVANIA.png",
       "sinopse": "Drácula administra um hotel exclusivo para monstros, onde sua filha vive protegida do mundo humano. Tudo muda quando um jovem viajante aparece por acaso e se aproxima dela, provocando confusões entre hóspedes de diferentes espécies.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/ecK7DpFLHb0OEDYfBEw4C-Hotel-Transylvania"
+        }
+      ]
     },
     {
       "id": "interestelar",
@@ -1731,7 +1878,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/INTERESTELAR.png",
       "sinopse": "Com a Terra enfrentando uma crise ambiental, um grupo de exploradores parte em uma missão através de um fenômeno espacial em busca de um novo lar para a humanidade. A viagem coloca à prova os limites da ciência, do tempo e dos laços familiares.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/FDh3sw3Ezh20ZPmlW1hxm-Interstellar"
+        }
+      ]
     },
     {
       "id": "it-a-coisa",
@@ -1742,7 +1894,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/IT%20A%20COISA.png",
       "sinopse": "Em uma cidade marcada por desaparecimentos, um grupo de crianças enfrenta uma presença assustadora que assume a forma de seus maiores medos. Unidos pela amizade, eles tentam descobrir a origem da criatura e impedir que ela continue ameaçando a comunidade.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD (1 E 2)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/pMNkIlwpt4TMwMRaR5V25-It-Chapter-One"
+        },
+        {
+          "nome": "123FILM (1990)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/drama/efKQaykiBt8JzDq6iqm0s-IT"
+        }
+      ]
     },
     {
       "id": "jogos-mortais",
@@ -1753,7 +1914,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/JOGOS%20MORTAIS.png",
       "sinopse": "Duas pessoas acordam presas em um ambiente desconhecido e descobrem que fazem parte de um jogo elaborado por um criminoso que testa os limites de suas vítimas. Enquanto tentam entender as regras, a polícia procura pistas sobre o responsável.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/hWCm5r9htwedLex60fq9T-Saw"
+        }
+      ]
     },
     {
       "id": "jurassic-park",
@@ -1762,9 +1928,18 @@
       "tags": "🦖 Aventura · 💥 Ação · 🚀 Ficção científica",
       "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/JURASSIC%20PARK.jpg",
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/JURASSIC%20PARK.png",
-      "sinopse": "se passa na fictícia Isla Nublar, onde o milionário John Hammond criou um parque temático com dinossauros clonados a partir de DNA preservado em âmbar. Para ganhar a confiança dos investidores, Hammond convida o paleontólogo Alan Grant, a paleobotânica Ellie Sattler e o matemático Ian Malcolm para inspecionarem a segurança do empreendimento.",
+      "sinopse": "Se passa na fictícia Isla Nublar, onde o milionário John Hammond criou um parque temático com dinossauros clonados a partir de DNA preservado em âmbar. Para ganhar a confiança dos investidores, Hammond convida o paleontólogo Alan Grant, a paleobotânica Ellie Sattler e o matemático Ian Malcolm para inspecionarem a segurança do empreendimento.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD (PARK)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/aiqf6rblOdKogz8GW5Q2T-Jurassic-Park"
+        },
+        {
+          "nome": "CUEVANA (WORLD)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/1h7LV1iNaWJ8J1Py6E2h1-Jurassic-World"
+        }
+      ]
     },
     {
       "id": "king-kong",
@@ -1775,7 +1950,20 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/KING%20KONG.png",
       "sinopse": "Uma equipe de cinema viaja para uma ilha misteriosa e encontra criaturas pré-históricas e um gorila gigantesco. A captura do animal o leva para a cidade grande, onde sua força e sua relação com uma atriz provocam consequências inesperadas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD (2005)",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/lQSyyAtK0MlPvGT7NfzDn-King-Kong"
+        },
+        {
+          "nome": "CINEHD+ (ILHA DA CAVEIRA)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/k3oyVzoTe6kYNz12K5qgW-Kong-Skull-Island"
+        },
+        {
+          "nome": "123MOVIES (GODZILLA VS KONG)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/E29zCHiAR0XUCMWDp64Yc-Godzilla-vs-Kong"
+        }
+      ]
     },
     {
       "id": "lindo-de-morrer",
@@ -1786,7 +1974,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/LINDO%20DE%20MORRER.png",
       "sinopse": "Max nasceu com uma condição rara: sua beleza é tão extraordinária que as pessoas correm perigo ao olhar diretamente para ele. Ao conhecer uma jovem que não reage como os demais, começa a imaginar que pode viver um relacionamento comum.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/ay3W10C2RlkbG8CfAi7TF-Looks-That-Kill"
+        }
+      ]
     },
     {
       "id": "maquina-de-guerra",
@@ -1797,18 +1990,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MAQUINA%20DE%20GUERRA.png",
       "sinopse": "Durante a etapa final de um treinamento militar, um grupo de soldados enfrenta uma ameaça tecnológica muito além do que esperava. Para sobreviver, o líder da equipe precisa unir seus companheiros e encontrar uma forma de enfrentar a máquina.",
       "trailer_id": "",
-      "fontes": []
-    },
-    {
-      "id": "super-mario-bros-o-filme",
-      "titulo": "Super Mario Bros: O Filme",
-      "ano": "2023",
-      "tags": "🍄 Aventura · 😂 Comédia · ✨ Fantasia · 🎨 Animação",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/MARIO%20O%20FILME.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MARIO%20O%20FILME.png",
-      "sinopse": "Os encanadores Mario e Luigi são transportados para um reino fantástico e acabam separados. Com a ajuda de novos aliados, Mario embarca em uma aventura para salvar seu irmão e impedir os planos de conquista de Bowser.",
-      "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/Z9LWUpCncdWxfFAPmkXWU-War-Machine"
+        }
+      ]
     },
     {
       "id": "matrix",
@@ -1819,7 +2006,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MATRIX.png",
       "sinopse": "Neo, um programador que desconfia da realidade, conhece um grupo que revela a existência de uma simulação controlada por máquinas. Diante da descoberta, ele precisa decidir se aceita a verdade e participa da luta para libertar a humanidade.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/dOEl2MKNrru1B0iZWOSlb-The-Matrix"
+        }
+      ]
     },
     {
       "id": "m3gan",
@@ -1830,7 +2022,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MEGAN.png",
       "sinopse": "Uma engenheira cria uma boneca robótica avançada para acompanhar sua sobrinha e oferecer companhia. A inteligência artificial aprende rápido demais e passa a interpretar sua função de proteção de maneira perigosa.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/akkmCmq4FuOAwfzGQP359-M3GAN"
+        }
+      ]
     },
     {
       "id": "meu-malvado-favorito",
@@ -1841,7 +2038,20 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MEU%20MALVADO%20FAVORITO.png",
       "sinopse": "Gru planeja realizar um grande roubo para provar que é o maior vilão do mundo, contando com a ajuda de pequenos ajudantes amarelos. Ao adotar três meninas como parte de seu plano, descobre sentimentos que transformam suas prioridades.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/jYQPc9iLiULEEQU4Bpgvn-Despicable-Me"
+        },
+        {
+          "nome": "CUEVANA (MINIONS)",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/aNpBaUkh5Q3IcrMh3yzm8-Minions"
+        },
+        {
+          "nome": "CINEHD+ (MINIONS E MONSTROS)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/bxK1WsEWnsCDHGRE3jIYX-Minions--Monsters"
+        }
+      ]
     },
     {
       "id": "michael",
@@ -1852,7 +2062,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MICHAEL.png",
       "sinopse": "A cinebiografia acompanha a trajetória de Michael Jackson desde os primeiros passos como integrante do Jackson 5 até sua consolidação como um dos artistas mais conhecidos do mundo. O filme retrata sua ambição criativa, carreira e impacto cultural.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/gEU4a45qOHdqmJ1dWcQIm-Michael"
+        }
+      ]
     },
     {
       "id": "minha-culpa",
@@ -1863,7 +2078,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MINHA%20CULPA.png",
       "sinopse": "Noah precisa deixar sua cidade e se mudar para a casa do novo marido de sua mãe. Lá, conhece Nick, seu novo meio-irmão, e os dois desenvolvem uma relação marcada por atração, conflitos familiares e segredos.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA (ORIGINAL)",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/nzLdVzr1sAGB1xxoyh0wq-My-Fault"
+        },
+        {
+          "nome": "VPU (LONDRES)",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/HNrUXxZ7n7Q5ZSSb2f8Rf-My-Fault-London"
+        }
+      ]
     },
     {
       "id": "moana-um-mar-de-aventuras",
@@ -1874,7 +2098,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MOANA.png",
       "sinopse": "Moana, filha de um chefe de uma ilha do Pacífico, parte em uma viagem pelo oceano para restaurar o equilíbrio de seu povo. Com a ajuda do semideus Maui, enfrenta desafios e descobre sua própria força.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES (ORIGINAL)",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/ASV1wnC2FjLRICVhX3PWb-Moana"
+        },
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/G7KCsvotxli7MonzIHSqf-Moana"
+        }
+      ]
     },
     {
       "id": "mortal-kombat",
@@ -1885,7 +2118,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/MORTAL%20KOMBAT.png",
       "sinopse": "Cole Young descobre que está ligado a um antigo torneio entre guerreiros de diferentes reinos. Ao procurar aliados, conhece lutadores que precisam unir forças para impedir que uma ameaça conquiste a Terra.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/95dESPo2kLNrN05HzDTx3-Mortal-Kombat"
+        }
+      ]
     },
     {
       "id": "o-chamado",

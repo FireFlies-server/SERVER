@@ -2130,7 +2130,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20CHAMADO.png",
       "sinopse": "Uma jornalista investiga uma fita de vídeo associada a uma sequência de mortes misteriosas. Ao descobrir que existe uma ligação entre as pessoas que assistem à gravação, ela corre contra o tempo para entender sua origem.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/ybmIFPAmVnZ2ukEEaIXv0-The-Ring"
+        }
+      ]
     },
     {
       "id": "o-gigante-de-ferro",
@@ -2141,7 +2146,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20GIGANTE%20DE%20FERRO.png",
       "sinopse": "Um garoto encontra um robô gigantesco que veio do espaço e decide protegê-lo de pessoas que o consideram uma ameaça. A amizade entre os dois mostra que cada um pode escolher quem deseja ser.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/tsD0p4iLqUJm60LSSX6xB-The-Iron-Giant"
+        }
+      ]
     },
     {
       "id": "o-grinch",
@@ -2152,7 +2162,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20GRINCH.png",
       "sinopse": "O Grinch vive isolado e não suporta as comemorações de Natal dos moradores de Quemlândia. Para acabar com a festa, planeja roubar todos os presentes, mas um encontro inesperado pode mudar sua visão sobre a data.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT (CLÁSSICO)",
+          "txt_url": "https://flixlat.com/pt/detail/movie/uTUhi7ylX06DhtU8Frg99-How-the-Grinch-Stole-Christmas"
+        },
+        {
+          "nome": "CINEHD+ (ANIMADO)",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/5Fb6n4ME4Q7gpricXyE7P-The-Grinch"
+        }
+      ]
     },
     {
       "id": "o-incrivel-hulk",
@@ -2163,7 +2182,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20INCRIVEL%20HULK.png",
       "sinopse": "Bruce Banner vive escondido enquanto procura uma cura para a transformação que o faz se tornar uma criatura extremamente poderosa quando perde o controle. Perseguido pelo governo, precisa enfrentar um novo adversário com habilidades semelhantes.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/lCIbarV2ZFioy4G7KZ0Si-The-Incredible-Hulk"
+        }
+      ]
     },
     {
       "id": "o-poderoso-chefao",
@@ -2174,7 +2198,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20PODEROSO%20CHEFAO.png",
       "sinopse": "A família Corleone ocupa uma posição influente no crime organizado dos Estados Unidos. Quando o patriarca sofre um atentado, seu filho Michael é puxado para os negócios familiares e começa uma transformação que altera o destino de todos.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/wZ12tQFY1aYT6yoUMPIDr-The-Godfather"
+        }
+      ]
     },
     {
       "id": "o-poderoso-chefinho",
@@ -2185,7 +2214,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20PODEROSO%20CHEFINHO.png",
       "sinopse": "Tim acredita que sua vida muda completamente quando um bebê de terno chega à família. Logo, descobre que o novo irmão trabalha em uma missão secreta ligada a uma disputa entre bebês e animais de estimação.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/l2PqSxcEATcR4LzNkz36W-The-Boss-Baby"
+        }
+      ]
     },
     {
       "id": "o-rei-leao",
@@ -2196,7 +2230,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20REI%20LEAO.png",
       "sinopse": "Simba, um jovem leão destinado a ser rei, foge após uma tragédia provocada por seu tio Scar. Anos depois, ao descobrir que seu lar continua em perigo, precisa enfrentar o passado e assumir seu lugar no ciclo da vida.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA (CLÁSSICO)",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/IpY01ya3moTKQXE2bDE65-The-Lion-King"
+        },
+        {
+          "nome": "SOLO LATINO (LIVE ACTION)",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/3VFdSyqPDU5QWRxrQGfQc-The-Lion-King"
+        }
+      ]
     },
     {
       "id": "o-senhor-dos-aneis",
@@ -2207,7 +2250,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/O%20SENHOR%20DOS%20ANEIS.png",
       "sinopse": "Frodo recebe a missão de destruir um anel poderoso que pode permitir o retorno de um senhor das trevas. Ao lado de companheiros de diferentes povos, parte em uma jornada perigosa para impedir que o objeto caia nas mãos erradas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/0VOkBMY9UCJhlN6xBCOUs-The-Lord-of-the-Rings-The-Fellowship-of-the-Ring"
+        }
+      ]
     },
     {
       "id": "obsessao",
@@ -2218,7 +2266,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OBSESSAO.png",
       "sinopse": "Bear, um jovem romântico, encontra um objeto sobrenatural que promete realizar um desejo. Ao pedir que sua paixão corresponda aos seus sentimentos, ele consegue o que queria, mas logo percebe que a realização do desejo traz consequências assustadoras.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/MSf9GBY9pKJ4AKiJORUZM-Obsession"
+        }
+      ]
     },
     {
       "id": "operacao-cupido",
@@ -2229,7 +2282,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OPERACAO%20CUPIDO.png",
       "sinopse": "Duas meninas idênticas se conhecem em um acampamento e descobrem que são irmãs gêmeas separadas após o divórcio dos pais. Decididas a reunir a família, trocam de identidade e elaboram um plano para aproximar os adultos.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/4IGCkwvVQqeNhdsbTfCJy-The-Parent-Trap"
+        }
+      ]
     },
     {
       "id": "os-incriveis",
@@ -2240,7 +2298,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OS%20INCRIVEIS.png",
       "sinopse": "Após os super-heróis serem afastados de suas atividades, a família Pêra tenta levar uma vida comum. Quando uma missão secreta coloca o pai em perigo, todos precisam unir seus poderes para enfrentar uma ameaça e proteger uns aos outros.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/4t3SEnNWsfEANQJvt3ZSp-The-Incredibles"
+        }
+      ]
     },
     {
       "id": "os-novatos",
@@ -2251,7 +2314,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OS%20NOVATOS.png",
       "sinopse": "Quatro estudantes começam o ensino médio e recebem um convite para uma festa que promete ser inesquecível. O grupo espera conquistar popularidade, mas a noite acaba se transformando em uma sequência de situações caóticas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/uCSGm5wgAy6I0HZka51Gs-Incoming"
+        }
+      ]
     },
     {
       "id": "os-sem-floresta",
@@ -2262,7 +2330,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OS%20SEM%20FLORESTA.png",
       "sinopse": "Ao acordar da hibernação, um grupo de animais descobre que uma enorme área residencial foi construída ao redor de seu habitat. Liderados por um guaxinim esperto, eles precisam aprender a conviver com os humanos e encontrar comida.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/h59ou8DlIK9ZmaeV7urHh-Over-the-Hedge"
+        }
+      ]
     },
     {
       "id": "panico",
@@ -2273,7 +2346,20 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PANICO.png",
       "sinopse": "Uma pequena cidade passa a ser aterrorizada por um assassino mascarado que faz perguntas sobre filmes de terror antes de atacar. Uma adolescente e seus amigos tentam descobrir quem está por trás das ligações e dos crimes.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES (ORIGINAL)",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/GVWpFnvR69CtJNB5Q40d1-Scream"
+        },
+        {
+          "nome": "CUEVANA (TODO MUNDO EM PÂNICO)",
+          "txt_url": "https://play.cuevana.life/pt/detail/movie/lgw1D8bXCcvnuuOM9Mk1k-Scary-Movie"
+        },
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/77LDtwFq0MesK8jSpcTXW-Scary-Movie-6"
+        }
+      ]
     },
     {
       "id": "pantera-negra",
@@ -2284,7 +2370,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PANTERA%20NEGRA.png",
       "sinopse": "Após a morte de seu pai, T’Challa retorna a Wakanda para assumir o trono e proteger seu povo. A chegada de um adversário ligado ao passado do país coloca em risco o futuro da nação e obriga o novo rei a tomar decisões difíceis.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/mKoOvBbzrZ7gZZufu7JPm-Black-Panther"
+        }
+      ]
     },
     {
       "id": "pets-a-vida-secreta-dos-bichos",

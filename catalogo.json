@@ -2356,7 +2356,7 @@
           "txt_url": "https://play.cuevana.life/pt/detail/movie/lgw1D8bXCcvnuuOM9Mk1k-Scary-Movie"
         },
         {
-          "nome": "123FILM",
+          "nome": "123FILM (TODO MUNDO 6 LEGENDADO, NÃO CINEMA)",
           "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/77LDtwFq0MesK8jSpcTXW-Scary-Movie-6"
         }
       ]
@@ -2382,8 +2382,8 @@
       "titulo": "Pets: A Vida Secreta dos Bichos",
       "ano": "2016",
       "tags": "🐾 Animação · 😂 Comédia · 👨‍👩‍👧 Família",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/PETS.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PETS.png",
       "sinopse": "Max leva uma vida tranquila com sua tutora até a chegada de Duke, um cão resgatado que muda sua rotina. Perdidos pelas ruas da cidade, os dois precisam superar rivalidades e encontrar o caminho de volta para casa.",
       "trailer_id": "",
       "fontes": []
@@ -2393,8 +2393,8 @@
       "titulo": "Pulp Fiction: Tempo de Violência",
       "ano": "1994",
       "tags": "🕵️ Crime · 🎭 Drama · 😂 Comédia",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/PLUP%20FICTION.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PLUP%20FICTION.png",
       "sinopse": "Histórias de criminosos, lutadores e pessoas comuns se cruzam em Los Angeles. Com narrativa não linear, o filme acompanha decisões inesperadas e encontros que mudam o rumo da vida de seus personagens.",
       "trailer_id": "",
       "fontes": []
@@ -2404,8 +2404,8 @@
       "titulo": "Ponte para Terabítia",
       "ano": "2007",
       "tags": "✨ Fantasia · 🧭 Aventura · 🎭 Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/PONTE%20PARA%20TERABITIA.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PONTE%20PARA%20TERABITIA.png",
       "sinopse": "Jess e Leslie tornam-se amigos e criam um reino imaginário em uma floresta próxima de suas casas. Nesse mundo de fantasia, encontram coragem para lidar com desafios da vida real e fortalecem uma amizade transformadora.",
       "trailer_id": "",
       "fontes": []
@@ -2415,20 +2415,20 @@
       "titulo": "Projeto X",
       "ano": "2012",
       "tags": "😂 Comédia · 🎉 Festa",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/PROJETO%20X.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PROJETO%20X.png",
       "sinopse": "Três estudantes planejam uma festa em casa para ganhar popularidade e provar que podem organizar o evento do ano. A comemoração cresce muito além do esperado e provoca uma sequência de consequências imprevisíveis.",
       "trailer_id": "",
       "fontes": []
     },
     {
-      "id": "quarteto-fantastico-primeiros-passos",
-      "titulo": "Quarteto Fantástico: Primeiros Passos",
+      "id": "quarteto-fantastico",
+      "titulo": "Quarteto Fantástico",
       "ano": "2025",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "",
-      "logo_url": "",
-      "sinopse": "Em uma realidade retrofuturista, Reed Richards, Sue Storm, Johnny Storm e Ben Grimm formam uma equipe de heróis. Enquanto protegem a Terra de uma ameaça cósmica, precisam equilibrar seus deveres públicos com os laços que os unem como família.",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/QUARTETO%20FANTASTICO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/QUARTETO%20FANTSTICO.png",
+      "sinopse": "Quatro astronautas têm suas vidas mudadas para sempre, quando acabam sendo atingidas por uma nuvem de radiação cósmica. Reed Richards agora tem a capacidade de esticar seu corpo como elástico. Sue Storm (Alba) agora é a mulher invisível. Johnny Storm se torna o toque humano e Ben Grimm se torna a 'coisa', um homem feito de rocha.",
       "trailer_id": "",
       "fontes": []
     },

@@ -2506,8 +2506,8 @@
       "titulo": "Sexta-Feira 13",
       "ano": "1980",
       "tags": "😱 Terror · 🕵️ Mistério",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SEXTA-FEIRA%2013.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SEXTA-FEIRA%2013.png",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SEXTA%20FEIRA%2013.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SEXTA%20FEIRA%2013.png",
       "sinopse": "Monitores chegam a um acampamento de verão que está sendo reaberto após um passado de acontecimentos trágicos. Durante os preparativos, uma presença misteriosa começa a ameaçar o grupo.",
       "trailer_id": "",
       "fontes": []
@@ -2528,8 +2528,8 @@
       "titulo": "Sonic: O Filme",
       "ano": "2020",
       "tags": "💥 Ação · 😂 Comédia · 🧭 Aventura",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SONIC%20O%20FILME.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SONIC%20O%20FILME.png",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SONIC%20FILME.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SONIC.png",
       "sinopse": "Sonic, um ouriço azul com velocidade extraordinária, tenta viver escondido na Terra. Quando seus poderes chamam a atenção de um cientista ambicioso, ele encontra ajuda em um policial local para escapar e proteger seu novo lar.",
       "trailer_id": "",
       "fontes": []
@@ -2550,8 +2550,8 @@
       "titulo": "Superbad: É Hoje",
       "ano": "2007",
       "tags": "😂 Comédia · 🎒 Adolescente",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SUPERBAD%20E%20HOJE.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERBAD%20E%20HOJE.png",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SUPERBAD.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERBAD.png",
       "sinopse": "Dois melhores amigos estão prestes a terminar o ensino médio e querem aproveitar uma festa para criar boas lembranças antes da separação. Uma série de imprevistos transforma seus planos em uma noite muito mais complicada do que imaginavam.",
       "trailer_id": "",
       "fontes": []
@@ -2704,8 +2704,8 @@
       "titulo": "Os Vingadores",
       "ano": "2012",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/OS%20VINGADORES.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OS%20VINGADORES.png",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/VINGADORES.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VINGADORES.png",
       "sinopse": "Quando uma ameaça extraterrestre se aproxima da Terra, um grupo de heróis com habilidades muito diferentes é reunido para impedir a invasão. Apesar das rivalidades, eles precisam aprender a agir como equipe para proteger o planeta.",
       "trailer_id": "",
       "fontes": []
@@ -2722,13 +2722,13 @@
       "fontes": []
     },
     {
-      "id": "wolverine-imortal",
-      "titulo": "Wolverine: Imortal",
+      "id": "wolverine",
+      "titulo": "Wolverine",
       "ano": "2013",
       "tags": "🦸 Heróis · 💥 Ação · 🧭 Aventura",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/WOLVERINE%20IMORTAL.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/WOLVERINE%20IMORTAL.png",
-      "sinopse": "Logan viaja ao Japão e se vê envolvido em uma disputa que o força a enfrentar inimigos e dilemas de seu passado. Ao mesmo tempo, precisa lidar com a possibilidade de perder uma habilidade que sempre definiu sua existência.",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/WOLVERINE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/WOLVERINE.png",
+      "sinopse": "Antes de se tornar o icônico membro dos X-Men conhecido apenas como Wolverine, o mutante atendia pelo nome de James Howlett, e mais tarde Logan. Nascido no Canadá no século XIX, ele descobre ainda criança que possui garras retráteis de osso que saem de suas mãos em momentos de fúria, além de um fator de cura acelerado que o impede de envelhecer normalmente e o torna praticamente imortal.",
       "trailer_id": "",
       "fontes": []
     },
@@ -2737,8 +2737,8 @@
       "titulo": "X-Men",
       "ano": "2000",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/X-MEN.jpg",
-      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/X-MEN.png",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/XMEN.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/XMEN.png",
       "sinopse": "Em um mundo onde pessoas nascem com poderes especiais, os mutantes enfrentam preconceito e desconfiança. Enquanto um grupo liderado pelo Professor Xavier busca convivência pacífica, outro acredita que o conflito com os humanos é inevitável.",
       "trailer_id": "",
       "fontes": []

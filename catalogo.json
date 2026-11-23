@@ -1714,8 +1714,6 @@
         }
       ]
     },
-
-    
     {
       "id": "grand-theft-auto-6",
       "titulo": "Grand Theft Auto VI, um Olhar Estendido",
@@ -1736,7 +1734,6 @@
         }
       ]
     },
-    
     {
       "id": "guardioes-da-galaxia",
       "titulo": "Guardiões da Galáxia",
@@ -2455,7 +2452,6 @@
       "sinopse": "Quatro astronautas têm suas vidas mudadas para sempre, quando acabam sendo atingidas por uma nuvem de radiação cósmica. Reed Richards agora tem a capacidade de esticar seu corpo como elástico. Sue Storm (Alba) agora é a mulher invisível. Johnny Storm se torna o tocha humano e Ben Grimm se torna o 'coisa', um homem feito de rocha.",
       "trailer_id": "",
       "fontes": [
-        
         {
           "nome": "123MOVIES",
           "txt_url": "https://www3.dramasfree.com/pt/detail/movie/CoUyJYxCVWNqVFNO1he5A-Fantastic-Four"
@@ -2467,8 +2463,8 @@
       "titulo": "Questão de Tempo",
       "ano": "2013",
       "tags": "🥰 Romance · 😂 Comédia · ✨ Fantasia",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/QUESTAO%20DE%20TEMPO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/QUESTAO%20DE%20TEMPO.png",
       "sinopse": "Tim descobre que os homens de sua família conseguem viajar no tempo e decide usar o dom para melhorar sua vida amorosa. Ao tentar corrigir pequenos momentos, aprende que felicidade também depende de aceitar o presente.",
       "trailer_id": "",
       "fontes": [
@@ -2499,8 +2495,8 @@
       "titulo": "Se Beber, Não Case!",
       "ano": "2009",
       "tags": "😂 Comédia · 🕵️ Mistério",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SE%20BEBER%20NAO%20CASE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SE%20BEBER%20NAO%20CASE.png",
       "sinopse": "Após uma despedida de solteiro em Las Vegas, três amigos acordam sem lembrar do que aconteceu e descobrem que o noivo desapareceu. Para encontrá-lo a tempo do casamento, precisam reconstruir a noite anterior a partir de pistas absurdas.",
       "trailer_id": "",
       "fontes": []
@@ -2510,8 +2506,8 @@
       "titulo": "Sexta-Feira 13",
       "ano": "1980",
       "tags": "😱 Terror · 🕵️ Mistério",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SEXTA-FEIRA%2013.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SEXTA-FEIRA%2013.png",
       "sinopse": "Monitores chegam a um acampamento de verão que está sendo reaberto após um passado de acontecimentos trágicos. Durante os preparativos, uma presença misteriosa começa a ameaçar o grupo.",
       "trailer_id": "",
       "fontes": []
@@ -2521,8 +2517,8 @@
       "titulo": "Shrek",
       "ano": "2001",
       "tags": "😂 Comédia · ✨ Fantasia · 🧭 Aventura · 🎨 Animação",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SHREK.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SHREK.png",
       "sinopse": "Shrek, um ogro que prefere viver sozinho, vê seu pântano invadido por criaturas expulsas de um reino. Para recuperar sua tranquilidade, aceita resgatar uma princesa e acaba descobrindo que amizade e amor podem surgir nos lugares mais inesperados.",
       "trailer_id": "",
       "fontes": []
@@ -2532,8 +2528,8 @@
       "titulo": "Sonic: O Filme",
       "ano": "2020",
       "tags": "💥 Ação · 😂 Comédia · 🧭 Aventura",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SONIC%20O%20FILME.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SONIC%20O%20FILME.png",
       "sinopse": "Sonic, um ouriço azul com velocidade extraordinária, tenta viver escondido na Terra. Quando seus poderes chamam a atenção de um cientista ambicioso, ele encontra ajuda em um policial local para escapar e proteger seu novo lar.",
       "trailer_id": "",
       "fontes": []
@@ -2543,8 +2539,8 @@
       "titulo": "Spree",
       "ano": "2020",
       "tags": "😱 Suspense · 🧠 Psicológico · 🎭 Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SPREE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SPREE.png",
       "sinopse": "Um jovem obcecado por fama nas redes sociais decide transmitir suas viagens pela cidade em busca de visualizações. Sua busca por atenção sai do controle e transforma a transmissão em um retrato perturbador da obsessão por popularidade.",
       "trailer_id": "",
       "fontes": []
@@ -2554,8 +2550,8 @@
       "titulo": "Superbad: É Hoje",
       "ano": "2007",
       "tags": "😂 Comédia · 🎒 Adolescente",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SUPERBAD%20E%20HOJE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERBAD%20E%20HOJE.png",
       "sinopse": "Dois melhores amigos estão prestes a terminar o ensino médio e querem aproveitar uma festa para criar boas lembranças antes da separação. Uma série de imprevistos transforma seus planos em uma noite muito mais complicada do que imaginavam.",
       "trailer_id": "",
       "fontes": []
@@ -2565,8 +2561,8 @@
       "titulo": "Superman",
       "ano": "2025",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/SUPERMAN.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERMAN.png",
       "sinopse": "Clark Kent tenta equilibrar sua origem kryptoniana com a vida que construiu na Terra. Enquanto enfrenta desafios que colocam sua visão de justiça à prova, precisa mostrar que esperança e compaixão ainda podem inspirar as pessoas.",
       "trailer_id": "",
       "fontes": []
@@ -2576,8 +2572,8 @@
       "titulo": "Tá Chovendo Hambúrguer",
       "ano": "2009",
       "tags": "😂 Comédia · 🚀 Ficção científica · 🎨 Animação",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/TA%20CHOVENDO%20HAMBURGUER.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TA%20CHOVENDO%20HAMBURGUER.png",
       "sinopse": "Flint Lockwood é um inventor que cria uma máquina capaz de transformar água em comida. Quando o aparelho começa a provocar fenômenos cada vez maiores, ele precisa encontrar uma solução antes que sua cidade seja tomada por alimentos gigantes.",
       "trailer_id": "",
       "fontes": []
@@ -2587,8 +2583,8 @@
       "titulo": "Ted",
       "ano": "2012",
       "tags": "😂 Comédia · ✨ Fantasia",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/TED.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TED.png",
       "sinopse": "Um homem adulto continua inseparável de seu ursinho de pelúcia, que ganhou vida quando ele era criança. A amizade entre os dois passa por dificuldades quando o protagonista tenta amadurecer e construir um relacionamento sério.",
       "trailer_id": "",
       "fontes": []
@@ -2598,8 +2594,8 @@
       "titulo": "Thor",
       "ano": "2011",
       "tags": "🦸 Heróis · 💥 Ação · ✨ Fantasia",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/THOR.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THOR.png",
       "sinopse": "Após agir com arrogância e provocar um conflito, Thor é enviado à Terra e perde temporariamente seus poderes. Enquanto aprende sobre humildade e responsabilidade, precisa impedir que uma ameaça coloque dois mundos em perigo.",
       "trailer_id": "",
       "fontes": []
@@ -2609,8 +2605,8 @@
       "titulo": "Titanic",
       "ano": "1997",
       "tags": "💔 Romance · 🎭 Drama · 🏛️ História",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/TITANIC.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TITANIC.png",
       "sinopse": "A bordo de um luxuoso transatlântico, Jack e Rose se conhecem e vivem um romance que desafia as diferenças sociais. A viagem toma um rumo trágico quando o navio colide com um iceberg durante sua travessia inaugural.",
       "trailer_id": "",
       "fontes": []
@@ -2620,8 +2616,8 @@
       "titulo": "Todo Dia",
       "ano": "2018",
       "tags": "🥰 Romance · ✨ Fantasia · 🎭 Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/TODO%20DIA.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TODO%20DIA.png",
       "sinopse": "Rhiannon conhece uma pessoa misteriosa que desperta seu interesse, mas logo descobre que essa consciência acorda todos os dias em um corpo diferente. Os dois tentam manter uma conexão apesar das constantes mudanças.",
       "trailer_id": "",
       "fontes": []
@@ -2631,8 +2627,8 @@
       "titulo": "Toy Story",
       "ano": "1995",
       "tags": "😂 Comédia · 🧭 Aventura · 👨‍👩‍👧 Família · 🎨 Animação",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/TOY%20STORY.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TOY%20STORY.png",
       "sinopse": "Woody, um boneco cowboy, vê sua posição como brinquedo favorito ameaçada quando Buzz Lightyear chega à casa. A rivalidade entre os dois dá lugar a uma aventura em que precisam trabalhar juntos para voltar ao quarto de seu dono.",
       "trailer_id": "",
       "fontes": []
@@ -2642,8 +2638,8 @@
       "titulo": "Um Homem de Sorte",
       "ano": "2012",
       "tags": "🥰 Romance · 🎭 Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/UM%20HOMEM%20DE%20SORTE.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20HOMEM%20DE%20SORTE.png",
       "sinopse": "Um fuzileiro naval retorna da guerra convencido de que uma fotografia encontrada durante o serviço lhe trouxe sorte. Ao procurar a mulher retratada na imagem, conhece sua família e começa a construir uma nova vida.",
       "trailer_id": "",
       "fontes": []
@@ -2653,8 +2649,8 @@
       "titulo": "Um Lugar Secreto",
       "ano": "2021",
       "tags": "🧠 Suspense psicológico · 🎭 Drama · 🧩 Mistério",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/UM%20LUGAR%20SECRETO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20LUGAR%20SECRETO.png",
       "sinopse": "John, um adolescente aparentemente comum, encontra um abrigo subterrâneo abandonado perto de casa. Depois de tomar uma decisão inesperada envolvendo sua família, passa a controlar a situação de maneira cada vez mais inquietante.",
       "trailer_id": "",
       "fontes": []
@@ -2664,8 +2660,8 @@
       "titulo": "Um Lugar Silencioso",
       "ano": "2018",
       "tags": "👽 Terror · 😱 Suspense · 🎭 Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/UM%20LUGAR%20SILENCIOSO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20LUGAR%20SILENCIOSO.png",
       "sinopse": "Uma família tenta sobreviver em um mundo onde criaturas misteriosas caçam qualquer pessoa que faça barulho. Para permanecerem vivos, os integrantes precisam se comunicar em silêncio e proteger uns aos outros.",
       "trailer_id": "",
       "fontes": []
@@ -2675,8 +2671,8 @@
       "titulo": "Uma Noite no Museu",
       "ano": "2006",
       "tags": "😂 Comédia · ✨ Fantasia · 🧭 Aventura",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/UMA%20NOITE%20NO%20MUSEU.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UMA%20NOITE%20NO%20MUSEU.png",
       "sinopse": "Larry consegue emprego como segurança de um museu e descobre que, durante a noite, as exposições ganham vida. Para manter o local em ordem, ele precisa aprender a lidar com personagens históricos e criaturas que escapam de seus espaços.",
       "trailer_id": "",
       "fontes": []
@@ -2686,8 +2682,8 @@
       "titulo": "Velocidade e Paixão",
       "ano": "2026",
       "tags": "🥰 Romance · 😱 Suspense · 🏎️ Drama",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/VELOCIDADE%20E%20PAIXAO.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VELOCIDADE%20E%20PAIXAO.png",
       "sinopse": "Sarah, uma jovem mecânica apaixonada por automobilismo, recebe a chance de trabalhar com um piloto conhecido e controverso. Para melhorar a imagem dele, os dois fingem estar noivos, mas o acordo também pode abrir caminho para que ela realize seu sonho de competir.",
       "trailer_id": "",
       "fontes": []
@@ -2697,8 +2693,8 @@
       "titulo": "Venom",
       "ano": "2018",
       "tags": "🦸 Heróis · 💥 Ação · 👽 Ficção científica",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/VENOM.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VENOM.png",
       "sinopse": "O jornalista Eddie Brock entra em contato com uma forma de vida alienígena que se une ao seu corpo e lhe concede habilidades extraordinárias. Enquanto tenta entender essa ligação, precisa enfrentar uma ameaça que pode colocar muitas pessoas em perigo.",
       "trailer_id": "",
       "fontes": []
@@ -2708,8 +2704,8 @@
       "titulo": "Os Vingadores",
       "ano": "2012",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/OS%20VINGADORES.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/OS%20VINGADORES.png",
       "sinopse": "Quando uma ameaça extraterrestre se aproxima da Terra, um grupo de heróis com habilidades muito diferentes é reunido para impedir a invasão. Apesar das rivalidades, eles precisam aprender a agir como equipe para proteger o planeta.",
       "trailer_id": "",
       "fontes": []
@@ -2719,8 +2715,8 @@
       "titulo": "Viúva Negra",
       "ano": "2021",
       "tags": "🦸 Heróis · 💥 Ação · 🕵️ Espionagem",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/VIUVA%20NEGRA.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VIUVA%20NEGRA.png",
       "sinopse": "Natasha Romanoff precisa confrontar acontecimentos de seu passado e reencontrar pessoas ligadas à sua formação como espiã. Enquanto investiga uma organização que controla outras agentes, ela tenta reparar antigas feridas.",
       "trailer_id": "",
       "fontes": []
@@ -2730,8 +2726,8 @@
       "titulo": "Wolverine: Imortal",
       "ano": "2013",
       "tags": "🦸 Heróis · 💥 Ação · 🧭 Aventura",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/WOLVERINE%20IMORTAL.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/WOLVERINE%20IMORTAL.png",
       "sinopse": "Logan viaja ao Japão e se vê envolvido em uma disputa que o força a enfrentar inimigos e dilemas de seu passado. Ao mesmo tempo, precisa lidar com a possibilidade de perder uma habilidade que sempre definiu sua existência.",
       "trailer_id": "",
       "fontes": []
@@ -2741,8 +2737,8 @@
       "titulo": "X-Men",
       "ano": "2000",
       "tags": "🦸 Heróis · 💥 Ação · 🚀 Ficção científica",
-      "poster": "",
-      "logo_url": "",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/X-MEN.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/X-MEN.png",
       "sinopse": "Em um mundo onde pessoas nascem com poderes especiais, os mutantes enfrentam preconceito e desconfiança. Enquanto um grupo liderado pelo Professor Xavier busca convivência pacífica, outro acredita que o conflito com os humanos é inevitável.",
       "trailer_id": "",
       "fontes": []

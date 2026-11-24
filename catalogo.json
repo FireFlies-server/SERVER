@@ -2515,7 +2515,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SEXTA%20FEIRA%2013.png",
       "sinopse": "Monitores chegam a um acampamento de verão que está sendo reaberto após um passado de acontecimentos trágicos. Durante os preparativos, uma presença misteriosa começa a ameaçar o grupo.",
       "trailer_id": "GlaD7Tc1JUM",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXLAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/CMRGcLbDILYl5Lw6XxcIx-Friday-the-13th"
+        }
+      ]
     },
     {
       "id": "shrek",
@@ -2526,7 +2531,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SHREK.png",
       "sinopse": "Shrek, um ogro que prefere viver sozinho, vê seu pântano invadido por criaturas expulsas de um reino. Para recuperar sua tranquilidade, aceita resgatar uma princesa e acaba descobrindo que amizade e amor podem surgir nos lugares mais inesperados.",
       "trailer_id": "CwXOrWvPBPk",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/6XQk0NOP327v3Ty0w3Aik-Shrek"
+        }
+      ]
     },
     {
       "id": "sonic-o-filme",
@@ -2537,7 +2547,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SONIC.png",
       "sinopse": "Sonic, um ouriço azul com velocidade extraordinária, tenta viver escondido na Terra. Quando seus poderes chamam a atenção de um cientista ambicioso, ele encontra ajuda em um policial local para escapar e proteger seu novo lar.",
       "trailer_id": "szby7ZHLnkA",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/hch3oQtwgSCZQ67Kitib6-Sonic-the-Hedgehog-1"
+        }
+      ]
     },
     {
       "id": "spree",
@@ -2548,7 +2563,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SPREE.png",
       "sinopse": "Um jovem obcecado por fama nas redes sociais decide transmitir suas viagens pela cidade em busca de visualizações. Sua busca por atenção sai do controle e transforma a transmissão em um retrato perturbador da obsessão por popularidade.",
       "trailer_id": "erM9PAi_QYQ",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/G79bRAMCmQ2JrjD43lZfp-Spree"
+        }
+      ]
     },
     {
       "id": "superbad-e-hoje",
@@ -2559,7 +2579,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERBAD.png",
       "sinopse": "Dois melhores amigos estão prestes a terminar o ensino médio e querem aproveitar uma festa para criar boas lembranças antes da separação. Uma série de imprevistos transforma seus planos em uma noite muito mais complicada do que imaginavam.",
       "trailer_id": "LvKvus3vCEY",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/smU9Kik50SGxfJcOgUTag-Superbad"
+        }
+      ]
     },
     {
       "id": "superman",
@@ -2570,7 +2595,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/SUPERMAN.png",
       "sinopse": "Clark Kent tenta equilibrar sua origem kryptoniana com a vida que construiu na Terra. Enquanto enfrenta desafios que colocam sua visão de justiça à prova, precisa mostrar que esperança e compaixão ainda podem inspirar as pessoas.",
       "trailer_id": "14qzQDMcTqM",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES (SUPERMAN",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/B2y1eQDzNlEGO7D0x5j0L-Superman"
+        },
+        {
+          "nome": "123MOVIES (SUPERGIRL)",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/7BWH7SQx0n0fT3MHtpCCu-Supergirl-Woman-of-Tomorrow"
+        }
+      ]
     },
     {
       "id": "ta-chovendo-hamburguer",
@@ -2581,7 +2615,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TA%20CHOVENDO%20HAMBURGUER.png",
       "sinopse": "Flint Lockwood é um inventor que cria uma máquina capaz de transformar água em comida. Quando o aparelho começa a provocar fenômenos cada vez maiores, ele precisa encontrar uma solução antes que sua cidade seja tomada por alimentos gigantes.",
       "trailer_id": "egeE-0aMiBs",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/rpaFWud1aKjFaA9uBVRNT-Cloudy-with-a-Chance-of-Meatballs"
+        }
+      ]
     },
     {
       "id": "ted",
@@ -2592,7 +2631,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TED.png",
       "sinopse": "Um homem adulto continua inseparável de seu ursinho de pelúcia, que ganhou vida quando ele era criança. A amizade entre os dois passa por dificuldades quando o protagonista tenta amadurecer e construir um relacionamento sério.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "VPU",
+          "txt_url": "https://peliculaplay.com/pt/detail/movie/6Nz1sX4p1evNZjabTqSct-Ted"
+        }
+      ]
     },
     {
       "id": "thor",
@@ -2603,7 +2647,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/THOR.png",
       "sinopse": "Após agir com arrogância e provocar um conflito, Thor é enviado à Terra e perde temporariamente seus poderes. Enquanto aprende sobre humildade e responsabilidade, precisa impedir que uma ameaça coloque dois mundos em perigo.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "PELIHD",
+          "txt_url": "https://video.playspelis.com/pt/detail/movie/jzgdAyx0G6hVXY1OXK0Eo-Thor"
+        }
+      ]
     },
     {
       "id": "titanic",
@@ -2614,7 +2663,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TITANIC.png",
       "sinopse": "A bordo de um luxuoso transatlântico, Jack e Rose se conhecem e vivem um romance que desafia as diferenças sociais. A viagem toma um rumo trágico quando o navio colide com um iceberg durante sua travessia inaugural.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/7dGEjxGhjGfsgczWK3dAy-Titanic"
+        }
+      ]
     },
     {
       "id": "todo-dia",
@@ -2625,7 +2679,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TODO%20DIA.png",
       "sinopse": "Rhiannon conhece uma pessoa misteriosa que desperta seu interesse, mas logo descobre que essa consciência acorda todos os dias em um corpo diferente. Os dois tentam manter uma conexão apesar das constantes mudanças.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/QDDCkYGGIXehODZCqGVlK-Every-Day"
+        }
+      ]
     },
     {
       "id": "toy-story",
@@ -2636,7 +2695,16 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/TOY%20STORY.png",
       "sinopse": "Woody, um boneco cowboy, vê sua posição como brinquedo favorito ameaçada quando Buzz Lightyear chega à casa. A rivalidade entre os dois dá lugar a uma aventura em que precisam trabalhar juntos para voltar ao quarto de seu dono.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLO LATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/cFQOklkta3M9qU7nNHqmc-Toy-Story-1"
+        },
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://www3.dramasfree.com/pt/detail/movie/as55ZtKH1kM0MJ1hxvwPw-Toy-Story-5"
+        }
+      ]
     },
     {
       "id": "um-homem-de-sorte",
@@ -2647,7 +2715,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20HOMEM%20DE%20SORTE.png",
       "sinopse": "Um fuzileiro naval retorna da guerra convencido de que uma fotografia encontrada durante o serviço lhe trouxe sorte. Ao procurar a mulher retratada na imagem, conhece sua família e começa a construir uma nova vida.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/OUlFOD8yQThidARg2qzpu-The-Lucky-One"
+        }
+      ]
     },
     {
       "id": "um-lugar-secreto",
@@ -2658,7 +2731,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20LUGAR%20SECRETO.png",
       "sinopse": "John, um adolescente aparentemente comum, encontra um abrigo subterrâneo abandonado perto de casa. Depois de tomar uma decisão inesperada envolvendo sua família, passa a controlar a situação de maneira cada vez mais inquietante.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/xvhBVBzqaLc5qS4IAOMMv-John-and-the-Hole"
+        }
+      ]
     },
     {
       "id": "um-lugar-silencioso",
@@ -2669,7 +2747,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UM%20LUGAR%20SILENCIOSO.png",
       "sinopse": "Uma família tenta sobreviver em um mundo onde criaturas misteriosas caçam qualquer pessoa que faça barulho. Para permanecerem vivos, os integrantes precisam se comunicar em silêncio e proteger uns aos outros.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/X2CTInpSUMQriKL4cjcIA-A-Quiet-Place"
+        }
+      ]
     },
     {
       "id": "uma-noite-no-museu",
@@ -2680,7 +2763,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/UMA%20NOITE%20NO%20MUSEU.png",
       "sinopse": "Larry consegue emprego como segurança de um museu e descobre que, durante a noite, as exposições ganham vida. Para manter o local em ordem, ele precisa aprender a lidar com personagens históricos e criaturas que escapam de seus espaços.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "SOLOLATINO",
+          "txt_url": "https://latino.solo-latino.com/pt/detail/movie/mP658kIJjLrk3HxcsDYUd-Night-at-the-Museum"
+        }
+      ]
     },
     {
       "id": "velocidade-e-paixao",
@@ -2691,7 +2779,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VELOCIDADE%20E%20PAIXAO.png",
       "sinopse": "Sarah, uma jovem mecânica apaixonada por automobilismo, recebe a chance de trabalhar com um piloto conhecido e controverso. Para melhorar a imagem dele, os dois fingem estar noivos, mas o acordo também pode abrir caminho para que ela realize seu sonho de competir.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "FLIXFAT",
+          "txt_url": "https://flixlat.com/pt/detail/movie/baITM0gACitAZn0NQb3k7-Drive---The-Pretenders"
+        }
+      ]
     },
     {
       "id": "venom",
@@ -2702,7 +2795,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VENOM.png",
       "sinopse": "O jornalista Eddie Brock entra em contato com uma forma de vida alienígena que se une ao seu corpo e lhe concede habilidades extraordinárias. Enquanto tenta entender essa ligação, precisa enfrentar uma ameaça que pode colocar muitas pessoas em perigo.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CINEHD+",
+          "txt_url": "https://ver.123pelicula.com/pt/detail/movie/HgPlUNEobt9Td5GLxzRIM-Venom"
+        }
+      ]
     },
     {
       "id": "os-vingadores",
@@ -2713,7 +2811,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VINGADORES.png",
       "sinopse": "Quando uma ameaça extraterrestre se aproxima da Terra, um grupo de heróis com habilidades muito diferentes é reunido para impedir a invasão. Apesar das rivalidades, eles precisam aprender a agir como equipe para proteger o planeta.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/JSGSk3RUNMIvOIzY8AdnM-The-Avengers"
+        }
+      ]
     },
     {
       "id": "viuva-negra",
@@ -2724,7 +2827,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/VIUVA%20NEGRA.png",
       "sinopse": "Natasha Romanoff precisa confrontar acontecimentos de seu passado e reencontrar pessoas ligadas à sua formação como espiã. Enquanto investiga uma organização que controla outras agentes, ela tenta reparar antigas feridas.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123FILM",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/1OsTdIIbeTYm2F3ClLLhe-Black-Widow"
+        }
+      ]
     },
     {
       "id": "wolverine",
@@ -2735,7 +2843,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/WOLVERINE.png",
       "sinopse": "Antes de se tornar o icônico membro dos X-Men conhecido apenas como Wolverine, o mutante atendia pelo nome de James Howlett, e mais tarde Logan. Nascido no Canadá no século XIX, ele descobre ainda criança que possui garras retráteis de osso que saem de suas mãos em momentos de fúria, além de um fator de cura acelerado que o impede de envelhecer normalmente e o torna praticamente imortal.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "123MOVIES",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/GQdcJ9NFS2eo5nXkO1vZw-X-Men-Origins-Wolverine"
+        }
+      ]
     },
     {
       "id": "x-men",
@@ -2746,7 +2859,12 @@
       "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/XMEN.png",
       "sinopse": "Em um mundo onde pessoas nascem com poderes especiais, os mutantes enfrentam preconceito e desconfiança. Enquanto um grupo liderado pelo Professor Xavier busca convivência pacífica, outro acredita que o conflito com os humanos é inevitável.",
       "trailer_id": "",
-      "fontes": []
+      "fontes": [
+        {
+          "nome": "CUEVANA",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/QrbYHCmk0hX38zUQfDJq4-X-Men"
+        }
+      ]
     }
   ],
   "novelas": [

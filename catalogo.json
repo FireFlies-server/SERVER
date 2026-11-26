@@ -2286,6 +2286,37 @@
         }
       ]
     },
+    
+    {
+      "id": "predador",
+      "titulo": "O Predador",
+      "ano": "1987",
+      "tags": "💥 Ação · 🧪 Ficção Científica · 💀 Terror",
+      "poster": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/poster/PREDADOR.jpg",
+      "logo_url": "https://yuutcargfoblympfgepx.supabase.co/storage/v1/object/public/fireflies-assets/logo/PREDADOR.png",
+      "sinopse": "Uma equipe de operações especiais de força, liderada por um soldado difícil, mas justo, grande holandês Schaefer, é ordenado a ajudar a Cia Man, Colonel Al Dillon, em uma missão de resgate para possíveis sobreviventes de um helicóptero abatido pela selva sul-americana remota. Não muito depois de terras, holandês e sua equipe descobrir que foram enviados em falsos pretextos. Este decepto acaba por ser a menor das suas preocupações, quando se encontram sendo metodicamente caçadas por algo que não deste mundo.",
+      "trailer_id": "w4HNJqkooZo",
+      "fontes": [
+        {
+          "nome": "CUEVANA (1+2+3+4+5)",
+          "txt_url": "https://es.cuevana4br.com/pt/detail/movie/zNcb23tNKjD7lS9EJCovZ-Predator"
+        },
+        {
+          "nome": "123FILM (ASSASSINO DE ASSASSINOS)",
+          "txt_url": "https://ww1.123flmsfree.com/pt/detail/movie/s15thDicYSsaWFJM3PIko-Predator-Killer-of-Killers"
+        },
+        
+        {
+          "nome": "CUEVANA (TERRAS SELVAGEM)",
+          "txt_url": "https://play.cuevana19.com/pt/detail/movie/omGkedjfX74Cy1uAGNl7M-Predator-Badlands"
+        },
+        
+        {
+          "nome": "123MOVIES (ALIEN VS PREDADOR)",
+          "txt_url": "https://ww20.321moviesfree.com/pt/detail/movie/iVWTuzOd7aIGNH8SO3a5O-AVP-Alien-vs-Predator"
+        }
+      ]
+    },
     {
       "id": "os-incriveis",
       "titulo": "Os Incríveis",
